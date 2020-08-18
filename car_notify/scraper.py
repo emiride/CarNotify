@@ -4,7 +4,7 @@ import helper_methods
 import smtplib
 import os
 
-url = "https://www.olx.ba/pretraga?kategorija=18&sort_order=desc&do=16100&godiste_min=2011&kilometra-a_max=121000&gorivo_select_benzin=Benzin&gorivo_select_plin=Plin&stranica="
+url = "https://www.olx.ba/pretraga?kategorija=18&sort_order=desc&do=16100&godiste_min=2010&kilometra-a_max=121000&gorivo_select_benzin=Benzin&gorivo_select_plin=Plin&stranica="
 
 def main():
     with open("urls.txt", 'r') as file: current_urls = file.read().splitlines()
