@@ -33,7 +33,7 @@ def send_email(user, pwd, recipient, subject, body):
     message = """From: %s\nTo: %s\nSubject: %s\n\n%s
     """ % (FROM, ", ".join(TO), SUBJECT, TEXT)
     try:
-        server = smtplib.SMTP("smtp.office365.com", 587)
+        server = smtplib.SMTP_SSL("smtp.yandex.com", 465)
         server.ehlo()
         server.starttls()
         server.login(user, pwd)
