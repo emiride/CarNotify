@@ -1,7 +1,8 @@
 import requests
 from lxml import html
 import math
-import smtplib
+from mailer import Mailer
+from mailer import Message
 
 def __get_number_of_results(url):
     r = requests.get(url+"1")
@@ -22,6 +23,7 @@ def get_cars_urls(url):
         car_urls.append(title.attrib.get("href"))
     return car_urls
 
+def send_mail(user, pwd, recipient, subject, body)
 def send_email(user, pwd, recipient, subject, body):
     FROM = user
     TO = recipient if isinstance(recipient, list) else [recipient]
@@ -35,8 +37,8 @@ def send_email(user, pwd, recipient, subject, body):
         server = smtplib.SMTP("smtp.office365.com", 587)
         server.ehlo()
         server.starttls()
-        print(user, nesta_drugo)
         server.login(user, pwd)
+        print("I fail!!!!!!!!!!!")
         server.sendmail(FROM, TO, message)
         server.close()
         print("Successfully sent the mail") 
