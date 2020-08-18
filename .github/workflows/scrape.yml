@@ -28,11 +28,13 @@ jobs:
         pip install -r requirements.txt
     - name: run module
       run: python3 car_notify/scraper.py
-    - name: setting account
+    - name: Commit changes
       run: |
         git config --global user.email "emir.hodzich@gmail.com"
         git config --global user.name "emiride"
         git config --global user.password "${{ secrets.EMAIL_PWD }}" 
+        git add .
+        git commit -m "Auto updating urls.txt" | exit(0)
     - name: stage changed files
       run: git add .
     - name: commit changed files
