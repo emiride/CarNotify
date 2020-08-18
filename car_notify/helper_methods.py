@@ -27,7 +27,7 @@ def send_email(user, pwd, recipient, subject, body):
     TO = recipient if isinstance(recipient, list) else [recipient]
     SUBJECT = subject
     TEXT = body
-
+    nesta_drugo = pwd
     # Prepare actual message
     message = """From: %s\nTo: %s\nSubject: %s\n\n%s
     """ % (FROM, ", ".join(TO), SUBJECT, TEXT)
@@ -35,7 +35,7 @@ def send_email(user, pwd, recipient, subject, body):
         server = smtplib.SMTP("smtp.office365.com", 587)
         server.ehlo()
         server.starttls()
-        print(user, pwd)
+        print(user, nesta_drugo)
         server.login(user, pwd)
         server.sendmail(FROM, TO, message)
         server.close()
