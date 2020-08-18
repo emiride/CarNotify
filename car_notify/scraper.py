@@ -28,7 +28,7 @@ def main():
     with open("urls.txt", 'w') as file: file.write('\n'.join(current_urls))
     email_body = helper_methods.get_email_body(new_urls_to_mail, deleted_urls_to_mail)
     if len(deleted_urls_to_mail) != 0 or len(new_urls_to_mail) != 0:
-        helper_methods.send_email("emir.hodzich@yandex.com", "NovaSifr@123", ["emir.hodzich@gmail.com", "lejlasalic96@gmail.com"], "OLX update", email_body)
+        helper_methods.send_email("emir.hodzich@yandex.com", "NovaSifr@123", ["emir.hodzich@gmail.com"], "OLX update", email_body)
     
 if __name__ == '__main__':
     main()
