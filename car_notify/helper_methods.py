@@ -2,8 +2,6 @@ import requests
 from lxml import html
 import math
 import smtplib
-from mailer import Mailer
-from mailer import Message
 
 def __get_number_of_results(url):
     r = requests.get(url+"1")
