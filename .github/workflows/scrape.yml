@@ -34,7 +34,7 @@ jobs:
         git config --global user.name "emiride"
         git config --global user.password "${{ secrets.EMAIL_PWD }}" 
         git add .
-        git commit -m "Auto updating urls.txt" | exit(0)
+        git commit -m "Auto updating urls.txt" | exit 0
     - name: push code to master
       run: |
         git fetch origin master
