@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  OUTLOOK_PWD = ${{ secrets.OUTLOOK_PWD }}
+  OUTLOOK_PWD: ${{ secrets.OUTLOOK_PWD }}
 jobs:
   build:
     runs-on: ubuntu-latest
