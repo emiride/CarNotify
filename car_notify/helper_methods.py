@@ -35,10 +35,11 @@ def send_email(user, pwd, recipient, subject, body):
         server = smtplib.SMTP("smtp.office365.com", 587)
         server.ehlo()
         server.starttls()
+        print(user, pwd)
         server.login(user, pwd)
         server.sendmail(FROM, TO, message)
         server.close()
-        print("Successfully sent the mail")
+        print("Successfully sent the mail") 
     except Exception as e:
         print(f"Failed to send mail. Exception: {e}")
 
