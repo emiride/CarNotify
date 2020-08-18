@@ -39,8 +39,8 @@ def send_email(user, pwd, recipient, subject, body):
         server.sendmail(FROM, TO, message)
         server.close()
         print("Successfully sent the mail")
-    except:
-        print("Failed to send mail")
+    except Exception as e:
+        print(f"Failed to send mail. Exception: {e}")
 
 def get_email_body(new_urls_to_mail, deleted_urls_to_mail):
     new_line = '\n'
