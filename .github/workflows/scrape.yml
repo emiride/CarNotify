@@ -35,8 +35,9 @@ jobs:
         git config --global user.password "${{ secrets.EMAIL_PWD }}" 
         git add .
         git commit -m "Auto updating urls.txt" | exit(0)
-    - name: fetch from master
-      run: git fetch origin master
     - name: push code to master
-      run: git push origin HEAD:master  
-      if: ${{ always() }}
+      run: |
+        git fetch origin master
+        git pull origin master
+        git merge
+        git push origin HEAD:master 
