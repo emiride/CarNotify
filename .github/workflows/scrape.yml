@@ -27,6 +27,11 @@ jobs:
         pip install -r requirements.txt
     - name: stage changed files
       run: git add .
+    - name: setting account
+      run: |
+        git config --global user.email "emir.hodzich@gmail.com"
+        git config --global user.name "emiride"
+        git config --global user.password "Masnocic@1" 
     - name: commit changed files
       run: git commit -m "Auto updating urls.txt"
     - name: fetch from master
