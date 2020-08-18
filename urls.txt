@@ -29,7 +29,6 @@ https://www.olx.ba/artikal/35624900/volkswagen-up/
 https://www.olx.ba/artikal/39298083/skoda-rapid-1-2-tsi-activ-2015-m-t-id-057/
 https://www.olx.ba/artikal/33172855/skoda-fabia-karavan/
 https://www.olx.ba/artikal/39370532/peugeot-308/
-https://www.olx.ba/artikal/39373558/seat-ibiza-benz-plin-presao-87-000/
 https://www.olx.ba/artikal/33172855/skoda-fabia-karavan/
 https://www.olx.ba/artikal/39370532/peugeot-308/
 https://www.olx.ba/artikal/38737504/smart-for-two-2011-f1-panorama-koza-klima/
@@ -89,7 +88,6 @@ https://www.olx.ba/artikal/33172868/seat-ibiza/
 https://www.olx.ba/artikal/39125440/fiat-panda-2014-gp-uvoz-svajcarska/
 https://www.olx.ba/artikal/38695741/toyota-auris-top-stanje-kao-nov/
 https://www.olx.ba/artikal/39083462/chevrolet-cruze/
->>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/37765025/samuraj-samurai-suzuki/
 https://www.olx.ba/artikal/39068034/lada-niva/
 https://www.olx.ba/artikal/37712466/toyota-yaris-2015-1-0-102000km/
@@ -97,10 +95,8 @@ https://www.olx.ba/artikal/36705234/chevrolet-cruze/
 https://www.olx.ba/artikal/39032798/peugeot-206-plus/
 https://www.olx.ba/artikal/36387217/citroen-c3/
 https://www.olx.ba/artikal/38899034/citroen-c3-picasso-benzi-plin-tel-065-593-631/
-=======
 https://www.olx.ba/artikal/38899474/volkswagen-polo/
 https://www.olx.ba/artikal/38899034/citroen-c3-picasso-benzi-plin-tel-065-593-631/
->>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/13486183/opel-corsa-color-edition-1-4-100ks-2012-reg-03-2021/
 https://www.olx.ba/artikal/38852021/vw-polo-1-0-benzin-2014-god/
 https://www.olx.ba/artikal/38846876/dacia-logan-1-2benzin-55kw-65-000kilom-2013-novo/
@@ -114,24 +110,19 @@ https://www.olx.ba/artikal/28018894/kupujem-auta-do-500km/
 https://www.olx.ba/artikal/38719940/chevrolet-spark/
 https://www.olx.ba/artikal/38719642/renault-megane/
 https://www.olx.ba/artikal/38012812/ford-focus-1-6/
-=======
 https://www.olx.ba/artikal/38702987/toyota-auris-1-6-automatik-2010-god/
 https://www.olx.ba/artikal/38012812/ford-focus-1-6/
->>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/38614821/chevorlet-cruze/
 https://www.olx.ba/artikal/37859660/seat-ibiza/
 https://www.olx.ba/artikal/36968709/citroen-c4/
 https://www.olx.ba/artikal/38453820/ford-fusion-2012-13-kao-nov/
 https://www.olx.ba/artikal/38449159/ford-focus/
 https://www.olx.ba/artikal/38428126/fiat-500/
-=======
->>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/38221782/skoda-fabia-presla-10-000/
 https://www.olx.ba/artikal/37044613/peugeot-208/
 https://www.olx.ba/artikal/38176408/yugo-45/
 https://www.olx.ba/artikal/36279019/peugeot-208-1-2-82-ks-2016-g-kraj-zadnji-model/
 https://www.olx.ba/artikal/38075796/fiat-punto-evo/
-=======
 >>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/37947651/vw-arteon-1-5-tsi-dsg-2018/
 https://www.olx.ba/artikal/37920454/opel-astra/
@@ -142,7 +133,6 @@ https://www.olx.ba/artikal/37182333/polo-vw-2012/
 https://www.olx.ba/artikal/37010938/lada-niva-44-65000-km-presla-dec2012-god/
 https://www.olx.ba/artikal/36919103/kupujem-auta-do-300-km-stanje-nebitno/
 https://www.olx.ba/artikal/35675487/seat-ibiza/
-=======
 https://www.olx.ba/artikal/36607043/hyundai-i30/
 >>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/36591939/stranac-auto-kupujem/
@@ -326,3 +316,47 @@ https://www.olx.ba/artikal/35457388/citroen-c1/
 https://www.olx.ba/artikal/35292045/peugeot-207-zvati-na-broj-00385955786625-viber/
 https://www.olx.ba/artikal/35070828/chevrolet-aveo/
 https://www.olx.ba/artikal/34959822/volkswagen-golf-vi-1-4-tsi-tip-top/
+https://www.olx.ba/artikal/38127281/volkswagen-polo-1-0-mpi/
+https://www.olx.ba/artikal/39210484/skoda-rapid/
+https://www.olx.ba/artikal/38864652/reno-clio-0-9-tce-90-konja-limited-127-hiljada-org/
+https://www.olx.ba/artikal/38513712/pezo-208-access-stanje-10-10/
+https://www.olx.ba/artikal/36501401/renault-clio-1-2-benzin-2011-mogucnost-na-rate/
+https://www.olx.ba/artikal/38152456/smart-for-two-coupe-2012-god-uvoz-svicarska/
+https://www.olx.ba/artikal/39410142/dacia-sandero/
+https://www.olx.ba/artikal/39326092/citroen-c3-1-0-banzin-2014g/
+https://www.olx.ba/artikal/39382450/automobil-skoda-octavia-iz-ch/
+https://www.olx.ba/artikal/37510973/peugeot-pezo-208/
+https://www.olx.ba/artikal/38418760/renault-twingo/
+https://www.olx.ba/artikal/38327624/toyota-aygo-1-0-2016-g-p/
+https://www.olx.ba/artikal/38327545/opel-meriva-1-4-2011-g-p/
+https://www.olx.ba/artikal/33559583/kia-rio/
+https://www.olx.ba/artikal/37454659/skoda-fabia-1-0-benzin-2015-mogucnost-na-rate/
+https://www.olx.ba/artikal/34709580/skoda-fabia-1-2ben-51kw-2011god/
+https://www.olx.ba/artikal/39268950/opel-corsa-enjoy-1-2-lpg-2016-prvi-vlasnik/
+https://www.olx.ba/artikal/39255805/renault-clio-1-2-benzin/
+https://www.olx.ba/artikal/30282973/renault-megane-1-6-benzin/
+https://www.olx.ba/artikal/39215272/kia-ceed/
+https://www.olx.ba/artikal/37159117/volkswagen-golf-6/
+https://www.olx.ba/artikal/35517429/skoda-fabia-1-2-htp-2012/
+https://www.olx.ba/artikal/35158126/renault-megane/
+https://www.olx.ba/artikal/39181853/fiat-500-america-2012-god-1-2-benzin-kabrio/
+https://www.olx.ba/artikal/37249289/kia-ceed-1-4-2012-besprijekorno-stanje/
+https://www.olx.ba/artikal/39135172/mini-cooper/
+https://www.olx.ba/artikal/37257884/skoda-fabia/
+https://www.olx.ba/artikal/39114893/ford-ka-2011-god-1-2b-presao-124000km/
+https://www.olx.ba/artikal/39110366/hyundai-i10-1-2-lanac-uvoz-ch/
+https://www.olx.ba/artikal/38882833/skoda-fabia/
+https://www.olx.ba/artikal/38025338/vw-polo-1-4-benzin-2011/
+https://www.olx.ba/artikal/38234278/opel-corsa-1-2-benzin-2011/
+https://www.olx.ba/artikal/37119591/renault-megane-3/
+https://www.olx.ba/artikal/39185954/dacia-sandero-2014/
+https://www.olx.ba/artikal/38713428/volkswagen-fox-1-2-benzin/
+https://www.olx.ba/artikal/38651590/volkswagen-polo-1-2-tsi/
+https://www.olx.ba/artikal/31548507/peugeot-206-plus-120000-kilometara/
+https://www.olx.ba/artikal/38616435/skoda-roomster-tsi-1-2/
+https://www.olx.ba/artikal/38603818/skoda-fabia/
+https://www.olx.ba/artikal/37427791/skoda-rapid-limuzina/
+https://www.olx.ba/artikal/38234823/hyundai-i10-1-2-sa-lancem-uvoz-iz-ch/
+https://www.olx.ba/artikal/36967477/dacia-sandero/
+https://www.olx.ba/artikal/37398165/skoda-fabia/
+https://www.olx.ba/artikal/36717367/nissan-qashqai/
