@@ -1,6 +1,7 @@
 import requests
 from lxml import html
 import math
+import smtplib
 from mailer import Mailer
 from mailer import Message
 
@@ -23,13 +24,11 @@ def get_cars_urls(url):
         car_urls.append(title.attrib.get("href"))
     return car_urls
 
-def send_mail(user, pwd, recipient, subject, body)
 def send_email(user, pwd, recipient, subject, body):
     FROM = user
     TO = recipient if isinstance(recipient, list) else [recipient]
     SUBJECT = subject
     TEXT = body
-    nesta_drugo = pwd
     # Prepare actual message
     message = """From: %s\nTo: %s\nSubject: %s\n\n%s
     """ % (FROM, ", ".join(TO), SUBJECT, TEXT)
