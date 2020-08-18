@@ -24,6 +24,16 @@ def get_cars_urls(url):
         car_urls.append(title.attrib.get("href"))
     return car_urls
 
+def get_cars(url):
+    r = requests.get(url)
+    tree = html.fromstring(r.text)
+    cars = tree.xpath(".//div[contains(@class,'imaHover')]")
+    car_urls = []
+    for car in cars:
+        title = car.xpath(".//div[@class='naslov']/a")[0].attrib.get("href")
+        price = car.xpath(".//div[@class='datum']/span[1]/text()[1]")[0].strip()
+        car_urls.append([title, price])
+    return car_urls
 def send_email(user, pwd, recipient, subject, body):
     FROM = user
     TO = recipient if isinstance(recipient, list) else [recipient]
