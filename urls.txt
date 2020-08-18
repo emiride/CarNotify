@@ -95,7 +95,6 @@ https://www.olx.ba/artikal/36705234/chevrolet-cruze/
 https://www.olx.ba/artikal/39032798/peugeot-206-plus/
 https://www.olx.ba/artikal/36387217/citroen-c3/
 https://www.olx.ba/artikal/38899034/citroen-c3-picasso-benzi-plin-tel-065-593-631/
-https://www.olx.ba/artikal/38899474/volkswagen-polo/
 https://www.olx.ba/artikal/38899034/citroen-c3-picasso-benzi-plin-tel-065-593-631/
 https://www.olx.ba/artikal/13486183/opel-corsa-color-edition-1-4-100ks-2012-reg-03-2021/
 https://www.olx.ba/artikal/38852021/vw-polo-1-0-benzin-2014-god/
@@ -110,7 +109,6 @@ https://www.olx.ba/artikal/28018894/kupujem-auta-do-500km/
 https://www.olx.ba/artikal/38719940/chevrolet-spark/
 https://www.olx.ba/artikal/38719642/renault-megane/
 https://www.olx.ba/artikal/38012812/ford-focus-1-6/
-https://www.olx.ba/artikal/38702987/toyota-auris-1-6-automatik-2010-god/
 https://www.olx.ba/artikal/38012812/ford-focus-1-6/
 https://www.olx.ba/artikal/38614821/chevorlet-cruze/
 https://www.olx.ba/artikal/37859660/seat-ibiza/
@@ -123,7 +121,6 @@ https://www.olx.ba/artikal/37044613/peugeot-208/
 https://www.olx.ba/artikal/38176408/yugo-45/
 https://www.olx.ba/artikal/36279019/peugeot-208-1-2-82-ks-2016-g-kraj-zadnji-model/
 https://www.olx.ba/artikal/38075796/fiat-punto-evo/
->>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/37947651/vw-arteon-1-5-tsi-dsg-2018/
 https://www.olx.ba/artikal/37920454/opel-astra/
 https://www.olx.ba/artikal/37838438/seat-mii-1-0-2013-god/
@@ -134,7 +131,6 @@ https://www.olx.ba/artikal/37010938/lada-niva-44-65000-km-presla-dec2012-god/
 https://www.olx.ba/artikal/36919103/kupujem-auta-do-300-km-stanje-nebitno/
 https://www.olx.ba/artikal/35675487/seat-ibiza/
 https://www.olx.ba/artikal/36607043/hyundai-i30/
->>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/36591939/stranac-auto-kupujem/
 https://www.olx.ba/artikal/36525301/citroen-c1-2012-35-000-km/
 https://www.olx.ba/artikal/36299596/opel-astra-classic/
