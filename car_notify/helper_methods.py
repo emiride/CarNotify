@@ -35,7 +35,6 @@ def send_email(user, pwd, recipient, subject, body):
     try:
         server = smtplib.SMTP_SSL("smtp.yandex.com", 465)
         server.ehlo()
-        server.starttls()
         server.login(user, pwd)
         print("I fail!!!!!!!!!!!")
         server.sendmail(FROM, TO, message)
