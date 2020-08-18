@@ -2,6 +2,9 @@ name: Scrape
 
 on:
   workflow_dispatch:
+
+env:
+  OUTLOOK_PWD = ${{ secrets.OUTLOOK_PWD }}
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,10 +17,8 @@ jobs:
     - name: Cache pip
       uses: actions/cache@v2
       with:
-        # This path is specific to Ubuntu
         path: ~/.cache/pip
-        # Look to see if there is a cache hit for the corresponding requirements file
-        key: ${{ runner.os }}-pip-${{ hashFiles('requirements_dev.txt') }}
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
           ${{ runner.os }}-
@@ -31,7 +32,7 @@ jobs:
       run: |
         git config --global user.email "emir.hodzich@gmail.com"
         git config --global user.name "emiride"
-        git config --global user.password "Masnocic@1" 
+        git config --global user.password "${{ secrets.EMAIL_PWD }}" 
     - name: stage changed files
       run: git add .
     - name: commit changed files
