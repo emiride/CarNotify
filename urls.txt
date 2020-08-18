@@ -100,7 +100,6 @@ https://www.olx.ba/artikal/39345264/volkswagen-polo-2015-1-0mpi/
 https://www.olx.ba/artikal/39345081/renault-fluence-1-6-25000kilometraza/
 https://www.olx.ba/artikal/38762336/renault-megane-1-6/
 https://www.olx.ba/artikal/39232857/peugeot-208-1-4-benzin-plin/
-https://www.olx.ba/artikal/33206011/nissan-note-1-2-visia-80-ks/
 https://www.olx.ba/artikal/36730293/chevrolet-aveo-s-direct-1-2-16v-85-ks/
 https://www.olx.ba/artikal/33559583/kia-rio/
 https://www.olx.ba/artikal/38483438/fiat-500-1-2b-2010-god-reg-do-7-mj-2021/
@@ -143,7 +142,6 @@ https://www.olx.ba/artikal/26427328/opel-corsa-d-2013-reg-30-12-2020/
 https://www.olx.ba/artikal/38686578/ford-fiesta/
 https://www.olx.ba/artikal/38762615/chevrolet-aveo/
 https://www.olx.ba/artikal/33410740/kia-ceed/
-https://www.olx.ba/artikal/39236257/ford-fiesta-1-vlasnik-2012god-60900km/
 https://www.olx.ba/artikal/38858037/otkup-starih-dotrajalih-havarisanih-neispravnih-automob/
 https://www.olx.ba/artikal/39229000/ford-fiesta/
 https://www.olx.ba/artikal/38343223/seat-ibiza-1-2-benz/
@@ -347,3 +345,4 @@ https://www.olx.ba/artikal/31298543/chevrolet-cruze/
 https://www.olx.ba/artikal/27773153/chevrolet-aveo-1-2i-lpg/
 https://www.olx.ba/artikal/39420179/chevrolet-lacetti/
 https://www.olx.ba/artikal/39383334/ford-focus-greska-na-mjenjacu/
+https://www.olx.ba/artikal/39236257/ford-fiesta-1-vlasnik-2012god-61000km/
