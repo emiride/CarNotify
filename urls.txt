@@ -1,5 +1,9 @@
 https://www.olx.ba/artikal/39411762/volkswagen-vw-up-move-up-2016/
 https://www.olx.ba/artikal/38648238/fiat-500l-prva-registracija-2015-bez-ulaganja/
+<<<<<<< HEAD
+=======
+https://www.olx.ba/artikal/35069917/fiat-500/
+>>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/38993078/toyota-aygo-1-0-top-stanje/
 https://www.olx.ba/artikal/39388707/volkswagen-polo/
 https://www.olx.ba/artikal/39424087/fiat-punto-evo-2013-god/
@@ -27,8 +31,15 @@ https://www.olx.ba/artikal/39386780/dacia-dokker/
 https://www.olx.ba/artikal/39384544/skoda-citigo-volkswagen-up-seat-mii/
 https://www.olx.ba/artikal/35624900/volkswagen-up/
 https://www.olx.ba/artikal/39298083/skoda-rapid-1-2-tsi-activ-2015-m-t-id-057/
+<<<<<<< HEAD
 https://www.olx.ba/artikal/33172855/skoda-fabia-karavan/
 https://www.olx.ba/artikal/39370532/peugeot-308/
+=======
+https://www.olx.ba/artikal/39373558/seat-ibiza-benz-plin-presao-87-000/
+https://www.olx.ba/artikal/33172855/skoda-fabia-karavan/
+https://www.olx.ba/artikal/39370532/peugeot-308/
+https://www.olx.ba/artikal/38737504/smart-for-two-2011-f1-panorama-koza-klima/
+>>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/38203595/opel-corsa-1-2/
 https://www.olx.ba/artikal/39358488/fiat-panda-2014-plin-klima-tek-reg-87-500-km/
 https://www.olx.ba/artikal/39357663/2015-volkswagen-up/
@@ -69,6 +80,10 @@ https://www.olx.ba/artikal/39210232/smart-fortwo-1-0-sportpaket-panorama-30-12-2
 https://www.olx.ba/artikal/39072495/polo-1-2-moze-zamjena/
 https://www.olx.ba/artikal/36740741/2012-pezo-peugeot-107-klima-105000km-reg-do-07-2021/
 https://www.olx.ba/artikal/39189451/peugeot-107/
+<<<<<<< HEAD
+=======
+https://www.olx.ba/artikal/17965489/focus-ford-automatic-2010-1-6-plin-sekvent-klima/
+>>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/38676037/suzuki-sx4-prvi-vlasnik/
 https://www.olx.ba/artikal/39174854/ford-focus-1-6-benzin-lpg-euro-5-2012g/
 https://www.olx.ba/artikal/36927218/chevrolet-aveo-1-2-16v/
@@ -77,16 +92,31 @@ https://www.olx.ba/artikal/39161590/potraznja-auta-do-700km/
 https://www.olx.ba/artikal/39159775/volkswagen-polo/
 https://www.olx.ba/artikal/39150842/volkswagen-polo/
 https://www.olx.ba/artikal/38753830/fiat-panda-0-9-turbo-uvoz-ch/
+<<<<<<< HEAD
 https://www.olx.ba/artikal/33172868/seat-ibiza/
 https://www.olx.ba/artikal/39125440/fiat-panda-2014-gp-uvoz-svajcarska/
 https://www.olx.ba/artikal/38695741/toyota-auris-top-stanje-kao-nov/
+=======
+https://www.olx.ba/artikal/39143434/kia-rio-1-2-benzin/
+https://www.olx.ba/artikal/33172868/seat-ibiza/
+https://www.olx.ba/artikal/39125440/fiat-panda-2014-gp-uvoz-svajcarska/
+https://www.olx.ba/artikal/39114893/ford-ka-2011-god-1-2b-presao-124000km/
+https://www.olx.ba/artikal/38695741/toyota-auris-top-stanje-kao-nov/
+https://www.olx.ba/artikal/39083462/chevrolet-cruze/
+>>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/37765025/samuraj-samurai-suzuki/
 https://www.olx.ba/artikal/39068034/lada-niva/
 https://www.olx.ba/artikal/37712466/toyota-yaris-2015-1-0-102000km/
 https://www.olx.ba/artikal/36705234/chevrolet-cruze/
 https://www.olx.ba/artikal/39032798/peugeot-206-plus/
 https://www.olx.ba/artikal/36387217/citroen-c3/
+<<<<<<< HEAD
 https://www.olx.ba/artikal/38899034/citroen-c3-picasso-benzi-plin-tel-065-593-631/
+=======
+https://www.olx.ba/artikal/38899474/volkswagen-polo/
+https://www.olx.ba/artikal/38899034/citroen-c3-picasso-benzi-plin-tel-065-593-631/
+https://www.olx.ba/artikal/36475162/golf-6/
+>>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/13486183/opel-corsa-color-edition-1-4-100ks-2012-reg-03-2021/
 https://www.olx.ba/artikal/38852021/vw-polo-1-0-benzin-2014-god/
 https://www.olx.ba/artikal/38846876/dacia-logan-1-2benzin-55kw-65-000kilom-2013-novo/
@@ -99,18 +129,32 @@ https://www.olx.ba/artikal/38143471/suzuki-baleno-1-2/
 https://www.olx.ba/artikal/28018894/kupujem-auta-do-500km/
 https://www.olx.ba/artikal/38719940/chevrolet-spark/
 https://www.olx.ba/artikal/38719642/renault-megane/
+<<<<<<< HEAD
 https://www.olx.ba/artikal/38012812/ford-focus-1-6/
+=======
+https://www.olx.ba/artikal/38702987/toyota-auris-1-6-automatik-2010-god/
+https://www.olx.ba/artikal/38012812/ford-focus-1-6/
+https://www.olx.ba/artikal/38616435/skoda-roomster-tsi-1-2/
+>>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/38614821/chevorlet-cruze/
 https://www.olx.ba/artikal/37859660/seat-ibiza/
 https://www.olx.ba/artikal/36968709/citroen-c4/
 https://www.olx.ba/artikal/38453820/ford-fusion-2012-13-kao-nov/
 https://www.olx.ba/artikal/38449159/ford-focus/
 https://www.olx.ba/artikal/38428126/fiat-500/
+<<<<<<< HEAD
+=======
+https://www.olx.ba/artikal/37525177/otkup-automobila-hyundai-kia-toyota-nisan/
+>>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/38221782/skoda-fabia-presla-10-000/
 https://www.olx.ba/artikal/37044613/peugeot-208/
 https://www.olx.ba/artikal/38176408/yugo-45/
 https://www.olx.ba/artikal/36279019/peugeot-208-1-2-82-ks-2016-g-kraj-zadnji-model/
 https://www.olx.ba/artikal/38075796/fiat-punto-evo/
+<<<<<<< HEAD
+=======
+https://www.olx.ba/artikal/37975361/opel-astra-h-sedan-85-000km/
+>>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/37947651/vw-arteon-1-5-tsi-dsg-2018/
 https://www.olx.ba/artikal/37920454/opel-astra/
 https://www.olx.ba/artikal/37838438/seat-mii-1-0-2013-god/
@@ -120,6 +164,11 @@ https://www.olx.ba/artikal/37182333/polo-vw-2012/
 https://www.olx.ba/artikal/37010938/lada-niva-44-65000-km-presla-dec2012-god/
 https://www.olx.ba/artikal/36919103/kupujem-auta-do-300-km-stanje-nebitno/
 https://www.olx.ba/artikal/35675487/seat-ibiza/
+<<<<<<< HEAD
+=======
+https://www.olx.ba/artikal/36793527/golf-vi/
+https://www.olx.ba/artikal/36607043/hyundai-i30/
+>>>>>>> 7e63b63a132b7f7fd0991a7600adc867198608f3
 https://www.olx.ba/artikal/36591939/stranac-auto-kupujem/
 https://www.olx.ba/artikal/36525301/citroen-c1-2012-35-000-km/
 https://www.olx.ba/artikal/36299596/opel-astra-classic/
