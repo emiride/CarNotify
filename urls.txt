@@ -21,7 +21,6 @@ https://www.olx.ba/artikal/39444532/fiat-punto-1-4-turbo-abarth/, 14.000 KM
 https://www.olx.ba/artikal/39305099/dacia-duster-4x4/, 12.700 KM
 https://www.olx.ba/artikal/39139208/renault-twingo/, 12.500 KM
 https://www.olx.ba/artikal/37418192/opel-astra/, 10.500 KM
-https://www.olx.ba/artikal/39443353/volkswagen-up/, 11.900 KM
 https://www.olx.ba/artikal/32391251/fiat-500l-1-4tb-benzin-plin-fabricki-2017/, 15.500 KM
 https://www.olx.ba/artikal/30916578/citroen-c-elysee-1-2-vti-plin/, 12.500 KM
 https://www.olx.ba/artikal/37765025/samuraj-samurai-suzuki/, 1.000 KM
@@ -72,7 +71,6 @@ https://www.olx.ba/artikal/39408193/dacia-sandero-1-2-benzin-lpg-plin/, 12.200 K
 https://www.olx.ba/artikal/38911887/dacia-sandero-plin-70-000km-tek-registrovan/, 7.800 KM
 https://www.olx.ba/artikal/39405630/volkswagen-polo/, 14.608 KM
 https://www.olx.ba/artikal/39404281/hyundai-i30-1-4-plin-prvi-vlasnik/, 9.600 KM
-https://www.olx.ba/artikal/39402564/lada-niva-2010-novi-model/, 7.550 KM
 https://www.olx.ba/artikal/39399424/fiat-new-panda/, 11.500 KM
 https://www.olx.ba/artikal/38158370/peugeot-208/, 11.200 KM
 https://www.olx.ba/artikal/38604143/skoda-fabia-1-2benzin-75000km-registrovana-03-2021/, 8.700 KM
@@ -434,3 +432,5 @@ https://www.olx.ba/artikal/39388707/volkswagen-polo/, 10.800 KM
 https://www.olx.ba/artikal/35482850/seat-ibiza/, 11.700 KM
 https://www.olx.ba/artikal/39411762/volkswagen-vw-up-move-up-2016/, 11.500 KM
 https://www.olx.ba/artikal/39260683/dacia-sandero-1-2benzin-lpg-2013gp-klimanavi/, 9.999 KM
+https://www.olx.ba/artikal/39402564/lada-niva-2010-novi-model/, 7.650 KM
+https://www.olx.ba/artikal/39443353/volkswagen-up-2016-g-p-uvoz-njemacka-presao-93-000km/, 11.900 KM
