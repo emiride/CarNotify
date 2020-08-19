@@ -1,8 +1,6 @@
 https://www.olx.ba/artikal/39434866/dacia-sandero-2016-god-1-2-b-klima/, 9.999 KM
 https://www.olx.ba/artikal/39440649/opel-astra-1-6-automatik-servisna-knjiga-kupljena-u-bih/, 13.400 KM
 https://www.olx.ba/artikal/39393356/skoda-fabia-2012g/, 7.700 KM
-https://www.olx.ba/artikal/39422818/fiat-500-benzin-1-2-51kw-2010-god/, 7.300 KM
-https://www.olx.ba/artikal/39324620/peugeot-107/, 5.999 KM
 https://www.olx.ba/artikal/39153809/kia-pro-ceed/, 16.000 KM
 https://www.olx.ba/artikal/39348862/skoda-fabia-1-2-benzinklimamod-2013-god066-920-741/, 8.300 KM
 https://www.olx.ba/artikal/38246433/opel-astra-1-6-cosmo-sport-tempomat-modell-2015/, 15.990 KM
@@ -12,7 +10,6 @@ https://www.olx.ba/artikal/39364093/volkswagen-polo-1-4-comfortline/, 12.900 KM
 https://www.olx.ba/artikal/35987438/skoda-fabia-1-2-htp-061-137-847/, 8.300 KM
 https://www.olx.ba/artikal/39374328/suzuki-swift/, 11.500 KM
 https://www.olx.ba/artikal/39433570/fiat-500/, 9.400 KM
-https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.300 KM
 https://www.olx.ba/artikal/35069917/fiat-500/, 9.800 KM
 https://www.olx.ba/artikal/38993078/toyota-aygo-1-0-top-stanje/, 10.200 KM
 https://www.olx.ba/artikal/39217414/skoda-fabia-fabia/, 6.900 KM
@@ -102,7 +99,6 @@ https://www.olx.ba/artikal/39374567/kupujem-chevrolet-aveo-po-nizoj-trzisnoj-cij
 https://www.olx.ba/artikal/39373558/seat-ibiza-benz-plin-presao-87-000/, 6.790 KM
 https://www.olx.ba/artikal/38849542/peugeot-107-1-0-benzin/, 7.500 KM
 https://www.olx.ba/artikal/33172855/skoda-fabia-karavan/, 10.900 KM
-https://www.olx.ba/artikal/39372219/citroen-c3-picasso/, 9.500 KM
 https://www.olx.ba/artikal/35594789/golf-6-cabriolet-cabrio/, 15.800 KM
 https://www.olx.ba/artikal/37268335/seat-ibiza-93-000km-servisi-tek-uradjeni/, 7.900 KM
 https://www.olx.ba/artikal/39370532/peugeot-308/, 10.050 KM
@@ -440,3 +436,5 @@ https://www.olx.ba/artikal/39451292/fiat-panda-2017/, 12.900 KM
 https://www.olx.ba/artikal/39451140/seat-mii-1-0-mpi-2019-god/, 16.000 KM
 https://www.olx.ba/artikal/39450427/peugeot-206-plus-1-1-44kw-2011-god/, 5.850 KM
 https://www.olx.ba/artikal/39451722/stop-lampa-fiat-punto/, 20 KM
+https://www.olx.ba/artikal/39324620/peugeot-107/, 6.800 KM
+https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.100 KM
