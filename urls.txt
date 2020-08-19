@@ -63,7 +63,6 @@ https://www.olx.ba/artikal/36336498/fiat-500-1-2-benz/, 12.900 KM
 https://www.olx.ba/artikal/36238668/citroen-c3/, 10.600 KM
 https://www.olx.ba/artikal/39251478/peugeot-208-1-0-benzin-2013gp/, 10.500 KM
 https://www.olx.ba/artikal/24403940/lada-niva/, 11.500 KM
-https://www.olx.ba/artikal/39409036/nissan-note/, 13.000 KM
 https://www.olx.ba/artikal/39409019/suzuki-baleno-gl-1-2/, 14.000 KM
 https://www.olx.ba/artikal/37097244/renault-clio-2017-prvi-vlasnik/, 15.999 KM
 https://www.olx.ba/artikal/39408444/fiat-panda/, 4.800 KM
@@ -284,7 +283,6 @@ https://www.olx.ba/artikal/38846876/dacia-logan-1-2benzin-55kw-65-000kilom-2013-
 https://www.olx.ba/artikal/38838311/opel-corsa-2015-30-000km-moze-zamjena/, 11.200 KM
 https://www.olx.ba/artikal/38819690/fiat-panda-1-2-benzin-plin/, 6.800 KM
 https://www.olx.ba/artikal/38807843/hyundai-i10/, 7.000 KM
-https://www.olx.ba/artikal/36338683/toyota-auris-1-33-benzin-2011-god/, 13.500 KM
 https://www.olx.ba/artikal/38797963/chevrolet-lacetti/, 5.900 KM
 https://www.olx.ba/artikal/36559691/kupujem-auta/, 500 KM
 https://www.olx.ba/artikal/38784457/skoda-fabia-1-0-75hp-dream-edition-novi-model/, 12.400 KM
@@ -434,3 +432,4 @@ https://www.olx.ba/artikal/39411762/volkswagen-vw-up-move-up-2016/, 11.500 KM
 https://www.olx.ba/artikal/39260683/dacia-sandero-1-2benzin-lpg-2013gp-klimanavi/, 9.999 KM
 https://www.olx.ba/artikal/39402564/lada-niva-2010-novi-model/, 7.650 KM
 https://www.olx.ba/artikal/39443353/volkswagen-up-2016-g-p-uvoz-njemacka-presao-93-000km/, 11.900 KM
+https://www.olx.ba/artikal/36338683/toyota-auris-1-33-benzin-2011-god/, 12.500 KM
