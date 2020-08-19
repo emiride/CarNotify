@@ -354,7 +354,6 @@ https://www.olx.ba/artikal/38384669/opel-astra-j-2010/
 https://www.olx.ba/artikal/35817674/skoda-yeti-1-2-tsi-77-kw/
 https://www.olx.ba/artikal/39305099/dacia-duster-4x4/
 https://www.olx.ba/artikal/39430865/renault-fluence/
-https://www.olx.ba/artikal/39315153/fiat-500-1-2-benzin-2010-godina-alu-felge-panorama/
 https://www.olx.ba/artikal/36013288/lancia-delta-1-8-tb-automatik/
 https://www.olx.ba/artikal/37970096/dacia-sandero-stepway-061-621-853/
 https://www.olx.ba/artikal/39422818/fiat-500-benzin-1-2-51kw-2010-god/
@@ -435,3 +434,5 @@ https://www.olx.ba/artikal/35232874/renault-megane/
 https://www.olx.ba/artikal/35149801/volkswagen-polo/
 https://www.olx.ba/artikal/31375077/peugeot-207-kabriolet/
 https://www.olx.ba/artikal/39443353/volkswagen-up/
+https://www.olx.ba/artikal/39444905/renault-twingo-1-2-benzin-klima-2014/
+https://www.olx.ba/artikal/39444532/fiat-punto-1-4-turbo-abarth/
