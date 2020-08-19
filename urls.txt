@@ -211,7 +211,6 @@ https://www.olx.ba/artikal/39184509/opel-astra-2011-godiste/, 8.600 KM
 https://www.olx.ba/artikal/17965489/focus-ford-automatic-2010-1-6-plin-sekvent-klima/, 10.000 KM
 https://www.olx.ba/artikal/38676037/suzuki-sx4-prvi-vlasnik/, 11.900 KM
 https://www.olx.ba/artikal/38446603/prodajem-pezo-207-karavan/, 11.900 KM
-https://www.olx.ba/artikal/39174854/ford-focus-1-6-benzin-lpg-euro-5-2012g/, 11.400 KM
 https://www.olx.ba/artikal/39174841/kia-rio/, 14.800 KM
 https://www.olx.ba/artikal/36927218/chevrolet-aveo-1-2-16v/, 6.900 KM
 https://www.olx.ba/artikal/39170128/geely-hover/, 1.000 KM
@@ -264,7 +263,6 @@ https://www.olx.ba/artikal/38044545/lada-niva/, 7.200 KM
 https://www.olx.ba/artikal/34449324/clio-80000km-preseo-prva-ruka-fulll/, 15.500 KM
 https://www.olx.ba/artikal/38013734/skoda-fabia-skoda-fabija-nov/, 15.900 KM
 https://www.olx.ba/artikal/34273188/kia-proceed-1-4-mpi-16v/, 15.750 KM
-https://www.olx.ba/artikal/36391240/skoda-fabia-1-2-benzin-plin-2011/, 7.800 KM
 https://www.olx.ba/artikal/38501004/opel-corsa/, 8.999 KM
 https://www.olx.ba/artikal/38899474/volkswagen-polo/, 10.200 KM
 https://www.olx.ba/artikal/38899034/citroen-c3-picasso-benzi-plin-tel-065-593-631/, 10.800 KM
@@ -438,3 +436,4 @@ https://www.olx.ba/artikal/39450427/peugeot-206-plus-1-1-44kw-2011-god/, 5.850 K
 https://www.olx.ba/artikal/39451722/stop-lampa-fiat-punto/, 20 KM
 https://www.olx.ba/artikal/39324620/peugeot-107/, 6.800 KM
 https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.100 KM
+https://www.olx.ba/artikal/39174854/ford-focus-1-6-benzin-lpg-euro-5-2012g/, 11.100 KM
