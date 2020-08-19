@@ -2,6 +2,8 @@ import requests
 from lxml import html
 import math
 import smtplib
+from car_model import CarModel
+from typing import List
 
 def __get_number_of_results(url):
     r = requests.get(url+"1")
@@ -22,16 +24,31 @@ def get_cars_urls(url):
         car_urls.append(title.attrib.get("href"))
     return car_urls
 
-def get_cars(url):
+
+def get_current_cars() -> List[CarModel]:
+    current_cars: List[CarModel] = []
+    with open("urls.txt", 'r') as file: 
+        temp_list = file.read().splitlines()
+    for elem in temp_list:
+        url = elem.split(",")[0].strip()
+        price = elem.split(",")[1].strip()
+        current_cars.append(CarModel(url, price))
+    return current_cars
+
+def get_cars(url) -> List[CarModel]:
     r = requests.get(url)
     tree = html.fromstring(r.text)
     cars = tree.xpath(".//div[contains(@class,'imaHover')]")
-    car_urls = []
+    cars_list: List[CarModel] = []
     for car in cars:
-        title = car.xpath(".//div[@class='naslov']/a")[0].attrib.get("href")
-        price = car.xpath(".//div[@class='datum']/span[1]/text()[1]")[0].strip()
-        car_urls.append([title, price])
-    return car_urls
+        car_url: str = car.xpath(".//div[@class='naslov']/a")[0].attrib.get("href")
+        price: str = car.xpath(".//div[@class='datum']/span[1]/text()[1]")[0].strip()
+        cars_list.append(CarModel(car_url, price))
+    return cars_list
+
+def save_cars(current_cars: List[CarModel]):
+    with open("urls.txt", 'w') as file: 
+        file.write('\n'.join(f"{car.url}, {car.price}" for car in current_cars))
 
 def send_yandex(user, pwd, recipient, subject, body):
     FROM = user
@@ -71,6 +88,8 @@ def send_gmail(user, pwd, recipient, subject, body):
     except Exception as e:
         print(f"Failed to send mail. Exception: {e}")
 
-def get_email_body(new_urls_to_mail, deleted_urls_to_mail):
-    new_line = '\n'
-    return f"Nova auta po pretrazi:{new_line}{new_line.join(new_urls_to_mail)}{new_line}{new_line}Izbrisana auta po pretrazi:{new_line}{new_line.join(deleted_urls_to_mail)}"
+def get_email_body(new_cars_to_mail: List[CarModel], deleted_cars_to_mail, changed_cars_price):
+    new_urls_text = "Nova auta:\n\n" + "\n".join(car.url for car in new_cars_to_mail)
+    deleted_urls_text = "\n\nIzbrisana auta:\n\n" + "\n".join(car.url for car in deleted_cars_to_mail)
+    changed_cars_price = "\n\nAuta sa novom cijenom:\n\n" + "\n".join(f"{car[0].url} | {car[0].price} -> {car[1]}" for car in changed_cars_price)
+    return f"{new_urls_text}{deleted_urls_text}{changed_cars_price}"
