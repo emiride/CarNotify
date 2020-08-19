@@ -78,14 +78,14 @@ def send_gmail(user, pwd, recipient, subject, body):
     except Exception as e:
         print(f"Failed to send mail. Exception: {e}")
 
-def get_email_body(new_cars_to_mail, deleted_cars_to_mail, changed_cars_price):
+def get_email_body(new_cars_to_mail, deleted_cars_to_mail, changed_cars_price_to_mail):
     new_urls_text = ""
     deleted_urls_text = ""
-    changed_cars_price = ""
+    changed_cars_price_text = ""
     if len(new_cars_to_mail) > 0:
         new_urls_text = "Nova auta:\n\n" + "\n".join(car.url for car in new_cars_to_mail) + "\n\n"
     if len(deleted_cars_to_mail) > 0:
         deleted_urls_text = "Izbrisana auta:\n\n" + "\n".join(car.url for car in deleted_cars_to_mail) + "\n\n"
-    if len(changed_cars_price) > 0:
-        changed_cars_price_text = "Auta sa novom cijenom:\n\n" + "\n".join(f"{car[0].url} | {car[0].price} -> {car[1]}" for car in changed_cars_price)
+    if len(changed_cars_price_to_mail) > 0:
+        changed_cars_price_text = "Auta sa novom cijenom:\n\n" + "\n".join(f"{car[0].url} | {car[0].price} -> {car[1]}" for car in changed_cars_price_to_mail)
     return f"{new_urls_text}{deleted_urls_text}{changed_cars_price_text}"
