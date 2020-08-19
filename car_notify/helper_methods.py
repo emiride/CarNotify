@@ -15,16 +15,6 @@ def get_number_of_pages(url):
     num_of_results = __get_number_of_results(url)
     return math.ceil(num_of_results/30)+1
 
-def get_cars_urls(url):
-    r = requests.get(url)
-    tree = html.fromstring(r.text)
-    titles = tree.xpath(".//div[@class='naslov']/a")
-    car_urls = []
-    for title in titles:
-        car_urls.append(title.attrib.get("href"))
-    return car_urls
-
-
 def get_current_cars() -> List[CarModel]:
     current_cars: List[CarModel] = []
     with open("urls.txt", 'r') as file: 
