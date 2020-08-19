@@ -1,7 +1,3 @@
-https://www.olx.ba/artikal/39388707/volkswagen-polo/, 11 500 KM
-https://www.olx.ba/artikal/35482850/seat-ibiza/, 5500 KM
-https://www.olx.ba/artikal/39411762/volkswagen-vw-up-move-up-2016/, 9.500 KM
-https://www.olx.ba/artikal/39260683/dacia-sandero-1-2benzin-lpg-2013gp-klimanavi/, 8.999 KM
 https://www.olx.ba/artikal/39434866/dacia-sandero-2016-god-1-2-b-klima/, 9.999 KM
 https://www.olx.ba/artikal/39440649/opel-astra-1-6-automatik-servisna-knjiga-kupljena-u-bih/, 13.400 KM
 https://www.olx.ba/artikal/39393356/skoda-fabia-2012g/, 7.700 KM
@@ -434,3 +430,7 @@ https://www.olx.ba/artikal/31375077/peugeot-207-kabriolet/, 10.000 KM
 https://www.olx.ba/artikal/31298543/chevrolet-cruze/, 12.500 KM
 https://www.olx.ba/artikal/34959822/volkswagen-golf-vi-1-4-tsi-tip-top/, 15.000 KM
 https://www.olx.ba/artikal/27773153/chevrolet-aveo-1-2i-lpg/, 9.999 KM
+https://www.olx.ba/artikal/39388707/volkswagen-polo/, 10.800 KM
+https://www.olx.ba/artikal/35482850/seat-ibiza/, 11.700 KM
+https://www.olx.ba/artikal/39411762/volkswagen-vw-up-move-up-2016/, 11.500 KM
+https://www.olx.ba/artikal/39260683/dacia-sandero-1-2benzin-lpg-2013gp-klimanavi/, 9.999 KM

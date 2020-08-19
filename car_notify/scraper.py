@@ -18,11 +18,14 @@ def main():
     new_cars_to_mail = []
     changed_cars_price_to_mail = []
 
-    for current_car in current_cars:
+    temp_list = current_cars.copy()
+    for current_car in temp_list:
         for new_car in new_cars:
             if current_car == new_car:
                 if current_car.price != new_car.price:
                     changed_cars_price_to_mail.append([current_car, new_car.price])
+                    current_cars.remove(current_car)
+                    current_cars.append(new_car)
 
     temp_list = current_cars.copy()
     for current_car in temp_list:
