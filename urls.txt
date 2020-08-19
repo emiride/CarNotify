@@ -428,7 +428,6 @@ https://www.olx.ba/artikal/34959822/volkswagen-golf-vi-1-4-tsi-tip-top/, 15.000 
 https://www.olx.ba/artikal/27773153/chevrolet-aveo-1-2i-lpg/, 9.999 KM
 https://www.olx.ba/artikal/39388707/volkswagen-polo/, 10.800 KM
 https://www.olx.ba/artikal/35482850/seat-ibiza/, 11.700 KM
-https://www.olx.ba/artikal/39411762/volkswagen-vw-up-move-up-2016/, 11.500 KM
 https://www.olx.ba/artikal/39260683/dacia-sandero-1-2benzin-lpg-2013gp-klimanavi/, 9.999 KM
 https://www.olx.ba/artikal/39402564/lada-niva-2010-novi-model/, 7.650 KM
 https://www.olx.ba/artikal/39443353/volkswagen-up-2016-g-p-uvoz-njemacka-presao-93-000km/, 11.900 KM
@@ -436,3 +435,4 @@ https://www.olx.ba/artikal/36338683/toyota-auris-1-33-benzin-2011-god/, 12.500 K
 https://www.olx.ba/artikal/39448614/volkswagen-polo/, 15.500 KM
 https://www.olx.ba/artikal/39378655/hyundai-i30-presao-69000-km/, 10.600 KM
 https://www.olx.ba/artikal/39449884/fiat-punto-1-2-registrovan-godinu/, 4.750 KM
+https://www.olx.ba/artikal/39450427/peugeot-206/, 5.700 KM
