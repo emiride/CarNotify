@@ -5,3 +5,5 @@ class CarModel:
 
     def __eq__(self, other):
         return self.url == other.url
+        # This is a solution to avoid picking up changed title
+        # "/".join(self.url.split("/")[:-2]) == "/".join(other.url.split("/")[:-2])
