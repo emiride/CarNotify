@@ -435,4 +435,7 @@ https://www.olx.ba/artikal/36338683/toyota-auris-1-33-benzin-2011-god/, 12.500 K
 https://www.olx.ba/artikal/39448614/volkswagen-polo/, 15.500 KM
 https://www.olx.ba/artikal/39378655/hyundai-i30-presao-69000-km/, 10.600 KM
 https://www.olx.ba/artikal/39449884/fiat-punto-1-2-registrovan-godinu/, 4.750 KM
-https://www.olx.ba/artikal/39450427/peugeot-206/, 5.700 KM
+https://www.olx.ba/artikal/39450427/peugeot-206/, 5.850 KM
+https://www.olx.ba/artikal/39451140/seat-mii-2019-god/, 16.000 KM
+https://www.olx.ba/artikal/39451347/opel-corsa-1-2benzin-lpg-2012gp/, 9.500 KM
+https://www.olx.ba/artikal/39451292/fiat-panda-2017/, 12.900 KM
