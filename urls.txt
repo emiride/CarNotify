@@ -12,7 +12,6 @@ https://www.olx.ba/artikal/39374328/suzuki-swift/, 11.500 KM
 https://www.olx.ba/artikal/39433570/fiat-500/, 9.400 KM
 https://www.olx.ba/artikal/35069917/fiat-500/, 9.800 KM
 https://www.olx.ba/artikal/38993078/toyota-aygo-1-0-top-stanje/, 10.200 KM
-https://www.olx.ba/artikal/39217414/skoda-fabia-fabia/, 6.900 KM
 https://www.olx.ba/artikal/37629156/renault-megane-cabrio-dynamiqe/, 14.100 KM
 https://www.olx.ba/artikal/39444532/fiat-punto-1-4-turbo-abarth/, 14.000 KM
 https://www.olx.ba/artikal/39305099/dacia-duster-4x4/, 12.700 KM
@@ -436,3 +435,4 @@ https://www.olx.ba/artikal/38911887/dacia-sandero-plin-70-000km-tek-registrovan/
 https://www.olx.ba/artikal/38719940/chevrolet-spark/, 7.000 KM
 https://www.olx.ba/artikal/39143264/vw-polo-2015-god-1-2-tsi/, 13.000 KM
 https://www.olx.ba/artikal/39383025/skoda-octavija-oktavija-skoda/, 14.000 KM
+https://www.olx.ba/artikal/37629930/opel-corsa/, 7.299 KM
