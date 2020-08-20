@@ -228,7 +228,6 @@ https://www.olx.ba/artikal/38761830/ford-fiesta/, 14.000 KM
 https://www.olx.ba/artikal/37042310/fiat-panda-4x4/, 6.500 KM
 https://www.olx.ba/artikal/37574052/fiat-500l-1-4/, 15.500 KM
 https://www.olx.ba/artikal/39143434/kia-rio-1-2-benzin/, 9.500 KM
-https://www.olx.ba/artikal/39143264/vw-polo-2015-god-1-2-tsi/, 14.000 KM
 https://www.olx.ba/artikal/35039123/renault-twingo-1-0-sce-70-ks/, 14.900 KM
 https://www.olx.ba/artikal/33172868/seat-ibiza/, 9.500 KM
 https://www.olx.ba/artikal/39131602/dacia-sandero-1-4-plin-kao-nov-tek-registrovan/, 7.800 KM
@@ -434,5 +433,6 @@ https://www.olx.ba/artikal/39324620/peugeot-107/, 6.800 KM
 https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.100 KM
 https://www.olx.ba/artikal/39174854/ford-focus-1-6-benzin-lpg-euro-5-2012g/, 11.100 KM
 https://www.olx.ba/artikal/38911887/dacia-sandero-plin-70-000km-tek-registrovan/, 7.700 KM
-https://www.olx.ba/artikal/39383025/skoda-octavija/, 14.000 KM
 https://www.olx.ba/artikal/38719940/chevrolet-spark/, 7.000 KM
+https://www.olx.ba/artikal/39143264/vw-polo-2015-god-1-2-tsi/, 13.000 KM
+https://www.olx.ba/artikal/39383025/skoda-octavija-oktavija-skoda/, 14.000 KM
