@@ -365,7 +365,6 @@ https://www.olx.ba/artikal/37087558/skoda-fabia-1-2-htp/, 7.200 KM
 https://www.olx.ba/artikal/37040909/polo-1-0/, 13.500 KM
 https://www.olx.ba/artikal/37010938/lada-niva-44-65000-km-presla-dec2012-god/, 12.900 KM
 https://www.olx.ba/artikal/33676532/hyundai-i30/, 10.000 KM
-https://www.olx.ba/artikal/33238909/ford-c-max/, 15.350 KM
 https://www.olx.ba/artikal/36946696/chevrolet-spark-2011/, 7.000 KM
 https://www.olx.ba/artikal/36919103/kupujem-auta-do-300-km-stanje-nebitno/, 1.234 KM
 https://www.olx.ba/artikal/36918589/ford-focus/, 10.500 KM
@@ -435,3 +434,6 @@ https://www.olx.ba/artikal/39143264/vw-polo-2015-god-1-2-tsi/, 13.000 KM
 https://www.olx.ba/artikal/39383025/skoda-octavija-oktavija-skoda/, 14.000 KM
 https://www.olx.ba/artikal/37629930/opel-corsa/, 7.299 KM
 https://www.olx.ba/artikal/39459789/hyndai-i30-fl-2011-god/, 5.800 KM
+https://www.olx.ba/artikal/33238909/ford-c-max/, 13.350 KM
+https://www.olx.ba/artikal/39461008/citroen-ds3/, 11.800 KM
+https://www.olx.ba/artikal/39453901/toyota-avensis-2010god-1-6vvti-132ks/, 13.400 KM
