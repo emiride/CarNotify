@@ -84,7 +84,6 @@ https://www.olx.ba/artikal/39384544/skoda-citigo-volkswagen-up-seat-mii/, 7.999 
 https://www.olx.ba/artikal/39383822/opel-corsa-1-4-benzin-plin/, 13.500 KM
 https://www.olx.ba/artikal/39383334/ford-focus-greska-na-mjenjacu/, 8.000 KM
 https://www.olx.ba/artikal/39383141/dacia-sandero-0-9-tce-2018-god-garancija-jos-12-mjeseci/, 13.200 KM
-https://www.olx.ba/artikal/39383025/skoda-octavija/, 14.900 KM
 https://www.olx.ba/artikal/39380728/ford-fiesta-1-2-benzin/, 8.200 KM
 https://www.olx.ba/artikal/35624900/volkswagen-up/, 9.400 KM
 https://www.olx.ba/artikal/39106753/fiat-500-90-000km-2010g-garancija-na-vozilo/, 10.500 KM
@@ -284,7 +283,6 @@ https://www.olx.ba/artikal/23148629/reno-megan-r-s-sport-kupe/, 12.990 KM
 https://www.olx.ba/artikal/25398340/fiat-500-gucci/, 13.000 KM
 https://www.olx.ba/artikal/38766483/chevrolet-cruze-2012-presao-66-000km/, 12.000 KM
 https://www.olx.ba/artikal/38143471/suzuki-baleno-1-2/, 12.300 KM
-https://www.olx.ba/artikal/38719940/chevrolet-spark/, 8.000 KM
 https://www.olx.ba/artikal/38719642/renault-megane/, 10.800 KM
 https://www.olx.ba/artikal/33024164/peugeot-208/, 16.000 KM
 https://www.olx.ba/artikal/38713649/renault-fluence/, 11.800 KM
@@ -432,8 +430,9 @@ https://www.olx.ba/artikal/39451347/opel-corsa-1-2benzin-lpg-2012gp/, 9.500 KM
 https://www.olx.ba/artikal/39451292/fiat-panda-2017/, 12.900 KM
 https://www.olx.ba/artikal/39451140/seat-mii-1-0-mpi-2019-god/, 16.000 KM
 https://www.olx.ba/artikal/39450427/peugeot-206-plus-1-1-44kw-2011-god/, 5.850 KM
-https://www.olx.ba/artikal/39451722/stop-lampa-fiat-punto/, 20 KM
 https://www.olx.ba/artikal/39324620/peugeot-107/, 6.800 KM
 https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.100 KM
 https://www.olx.ba/artikal/39174854/ford-focus-1-6-benzin-lpg-euro-5-2012g/, 11.100 KM
 https://www.olx.ba/artikal/38911887/dacia-sandero-plin-70-000km-tek-registrovan/, 7.700 KM
+https://www.olx.ba/artikal/39383025/skoda-octavija/, 14.000 KM
+https://www.olx.ba/artikal/38719940/chevrolet-spark/, 7.000 KM
