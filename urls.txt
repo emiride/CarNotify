@@ -272,7 +272,6 @@ https://www.olx.ba/artikal/38719642/renault-megane/, 10.800 KM
 https://www.olx.ba/artikal/33024164/peugeot-208/, 16.000 KM
 https://www.olx.ba/artikal/38713649/renault-fluence/, 11.800 KM
 https://www.olx.ba/artikal/38709722/peugeot-107/, 7.500 KM
-https://www.olx.ba/artikal/38702987/toyota-auris-1-6-automatik-2010-god/, 12.650 KM
 https://www.olx.ba/artikal/38686898/chevrolet-cruze-1-6-benzin-2011godiste-tek-registrovan/, 8.900 KM
 https://www.olx.ba/artikal/38012812/ford-focus-1-6/, 12.500 KM
 https://www.olx.ba/artikal/38676314/renault-megane-coupe/, 12.500 KM
@@ -434,3 +433,4 @@ https://www.olx.ba/artikal/39471288/peugeot-106/, 400 KM
 https://www.olx.ba/artikal/39471888/hunday-i20-2017g-prva-registracija/, 16.000 KM
 https://www.olx.ba/artikal/39378655/hyundai-i30-presao-69000-km/, 10.500 KM
 https://www.olx.ba/artikal/39473116/citroen-c-elysee-1-2/, 12.990 KM
+https://www.olx.ba/artikal/38702987/toyota-auris-1-6-automatik-2010-god/, 11.999 KM
