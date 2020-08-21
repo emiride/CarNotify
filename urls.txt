@@ -406,7 +406,6 @@ https://www.olx.ba/artikal/39260683/dacia-sandero-1-2benzin-lpg-2013gp-klimanavi
 https://www.olx.ba/artikal/39402564/lada-niva-2010-novi-model/, 7.650 KM
 https://www.olx.ba/artikal/39443353/volkswagen-up-2016-g-p-uvoz-njemacka-presao-93-000km/, 11.900 KM
 https://www.olx.ba/artikal/36338683/toyota-auris-1-33-benzin-2011-god/, 12.500 KM
-https://www.olx.ba/artikal/39378655/hyundai-i30-presao-69000-km/, 10.600 KM
 https://www.olx.ba/artikal/39449884/fiat-punto-1-2-registrovan-godinu/, 4.750 KM
 https://www.olx.ba/artikal/39451347/opel-corsa-1-2benzin-lpg-2012gp/, 9.500 KM
 https://www.olx.ba/artikal/39451292/fiat-panda-2017/, 12.900 KM
@@ -434,3 +433,4 @@ https://www.olx.ba/artikal/36992314/peugeot-301-1-2-puretech-81ks/, 14.900 KM
 https://www.olx.ba/artikal/39469989/vw-up-facelift-2018g/, 9.800 KM
 https://www.olx.ba/artikal/39471288/peugeot-106/, 400 KM
 https://www.olx.ba/artikal/39471888/hunday-i20-2017g-prva-registracija/, 16.000 KM
+https://www.olx.ba/artikal/39378655/hyundai-i30-presao-69000-km/, 10.500 KM
