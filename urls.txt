@@ -139,7 +139,6 @@ https://www.olx.ba/artikal/39303650/kiu-rio-2014-1-2/, 12.500 KM
 https://www.olx.ba/artikal/36527681/ford-fiesta-1-0-scti/, 12.700 KM
 https://www.olx.ba/artikal/34734564/volkswagen-golf-vi-6-team-oprema-full-90-000km/, 15.500 KM
 https://www.olx.ba/artikal/38815403/fiat-grande-punto/, 11.100 KM
-https://www.olx.ba/artikal/39295419/kia-rio/, 650 KM
 https://www.olx.ba/artikal/36264932/mitsubishi-colt-1-3-b/, 14.800 KM
 https://www.olx.ba/artikal/39291815/opel-astra-1-6-benzin-plin/, 12.100 KM
 https://www.olx.ba/artikal/35053701/renault-clio-1-2-turbo/, 8.700 KM
@@ -407,7 +406,6 @@ https://www.olx.ba/artikal/39260683/dacia-sandero-1-2benzin-lpg-2013gp-klimanavi
 https://www.olx.ba/artikal/39402564/lada-niva-2010-novi-model/, 7.650 KM
 https://www.olx.ba/artikal/39443353/volkswagen-up-2016-g-p-uvoz-njemacka-presao-93-000km/, 11.900 KM
 https://www.olx.ba/artikal/36338683/toyota-auris-1-33-benzin-2011-god/, 12.500 KM
-https://www.olx.ba/artikal/39448614/volkswagen-polo/, 15.500 KM
 https://www.olx.ba/artikal/39378655/hyundai-i30-presao-69000-km/, 10.600 KM
 https://www.olx.ba/artikal/39449884/fiat-punto-1-2-registrovan-godinu/, 4.750 KM
 https://www.olx.ba/artikal/39451347/opel-corsa-1-2benzin-lpg-2012gp/, 9.500 KM
@@ -435,3 +433,4 @@ https://www.olx.ba/artikal/39468891/renault-megane-cc-floride/, 15.490 KM
 https://www.olx.ba/artikal/36992314/peugeot-301-1-2-puretech-81ks/, 14.900 KM
 https://www.olx.ba/artikal/39469989/vw-up-facelift-2018g/, 9.800 KM
 https://www.olx.ba/artikal/39471288/peugeot-106/, 400 KM
+https://www.olx.ba/artikal/39471888/hunday-i20-2017g-prva-registracija/, 16.000 KM
