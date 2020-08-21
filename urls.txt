@@ -80,7 +80,6 @@ https://www.olx.ba/artikal/39384544/skoda-citigo-volkswagen-up-seat-mii/, 7.999 
 https://www.olx.ba/artikal/39383822/opel-corsa-1-4-benzin-plin/, 13.500 KM
 https://www.olx.ba/artikal/39383334/ford-focus-greska-na-mjenjacu/, 8.000 KM
 https://www.olx.ba/artikal/39383141/dacia-sandero-0-9-tce-2018-god-garancija-jos-12-mjeseci/, 13.200 KM
-https://www.olx.ba/artikal/39380728/ford-fiesta-1-2-benzin/, 8.200 KM
 https://www.olx.ba/artikal/35624900/volkswagen-up/, 9.400 KM
 https://www.olx.ba/artikal/39106753/fiat-500-90-000km-2010g-garancija-na-vozilo/, 10.500 KM
 https://www.olx.ba/artikal/39071093/peugeot-308-39-000km-2015g-garancija-na-vozilo/, 15.500 KM
@@ -98,7 +97,6 @@ https://www.olx.ba/artikal/39370532/peugeot-308/, 10.050 KM
 https://www.olx.ba/artikal/38881047/kia-pro-ceed/, 8.800 KM
 https://www.olx.ba/artikal/37316476/chevrolet-aveo/, 4.800 KM
 https://www.olx.ba/artikal/34823441/mini-one-1-6-benzin-2011-godiste-97-000km/, 11.900 KM
-https://www.olx.ba/artikal/36992314/peugeot-301-1-2-puretech-81ks/, 15.800 KM
 https://www.olx.ba/artikal/38737504/smart-for-two-2011-f1-panorama-koza-klima/, 10.500 KM
 https://www.olx.ba/artikal/38203595/opel-corsa-1-2/, 10.900 KM
 https://www.olx.ba/artikal/39158210/renault-megane-1-6/, 8.900 KM
@@ -170,7 +168,6 @@ https://www.olx.ba/artikal/34402761/opel-zafira/, 15.000 KM
 https://www.olx.ba/artikal/38762615/chevrolet-aveo/, 7.500 KM
 https://www.olx.ba/artikal/37390802/peugeot-208/, 15.999 KM
 https://www.olx.ba/artikal/33410740/kia-ceed/, 11.950 KM
-https://www.olx.ba/artikal/39236257/ford-fiesta-1-vlasnik-2012god-61000km/, 9.700 KM
 https://www.olx.ba/artikal/38858037/otkup-starih-dotrajalih-havarisanih-neispravnih-automob/, 1.000 KM
 https://www.olx.ba/artikal/39233593/vw-up-up-club-edition-1-0-tsi-mod-2016/, 13.600 KM
 https://www.olx.ba/artikal/39233425/fiat-500-cabrio/, 14.700 KM
@@ -435,3 +432,5 @@ https://www.olx.ba/artikal/38731183/pezo-208-1-4-benzin-plin-70-kw-41-000-km-201
 https://www.olx.ba/artikal/39137493/skoda-fabija-1-2-51kw-2011god-065-760-399/, 7.900 KM
 https://www.olx.ba/artikal/39468482/volkswagen-polo/, 11.100 KM
 https://www.olx.ba/artikal/39468891/renault-megane-cc-floride/, 15.490 KM
+https://www.olx.ba/artikal/36992314/peugeot-301-1-2-puretech-81ks/, 14.900 KM
+https://www.olx.ba/artikal/39469989/vw-up-facelift-2018g/, 9.800 KM
