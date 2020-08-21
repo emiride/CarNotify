@@ -109,7 +109,6 @@ https://www.olx.ba/artikal/37179732/citroen-c3-1-0-benzin/, 10.900 KM
 https://www.olx.ba/artikal/33687874/chevrolet-cruze-1-6-benzin-plin/, 11.300 KM
 https://www.olx.ba/artikal/38781431/dacia-sandero-stepway/, 9.000 KM
 https://www.olx.ba/artikal/39347267/chevrolet-spark/, 5.800 KM
-https://www.olx.ba/artikal/39346107/lada-niva/, 14.000 KM
 https://www.olx.ba/artikal/39345264/volkswagen-polo-2015-1-0mpi/, 11.599 KM
 https://www.olx.ba/artikal/39345081/renault-fluence-1-6-25000kilometraza/, 13.000 KM
 https://www.olx.ba/artikal/38762336/renault-megane-1-6/, 10.800 KM
@@ -434,3 +433,4 @@ https://www.olx.ba/artikal/39471888/hunday-i20-2017g-prva-registracija/, 16.000 
 https://www.olx.ba/artikal/39378655/hyundai-i30-presao-69000-km/, 10.500 KM
 https://www.olx.ba/artikal/39473116/citroen-c-elysee-1-2/, 12.990 KM
 https://www.olx.ba/artikal/38702987/toyota-auris-1-6-automatik-2010-god/, 11.999 KM
+https://www.olx.ba/artikal/39346107/lada-niva/, 13.000 KM
