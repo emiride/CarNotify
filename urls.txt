@@ -124,7 +124,6 @@ https://www.olx.ba/artikal/37971151/golf-6-100-000-kilometara/, 14.300 KM
 https://www.olx.ba/artikal/38483438/fiat-500-1-2b-2010-god-reg-do-7-mj-2021/, 8.990 KM
 https://www.olx.ba/artikal/37453036/fiat-500-automatik/, 13.500 KM
 https://www.olx.ba/artikal/39330615/hyundai-i30/, 15.500 KM
-https://www.olx.ba/artikal/39329750/chevrolet-aveo-1-2-b-2011-75-000km-presao/, 5.800 KM
 https://www.olx.ba/artikal/37637159/lada-niva-ladu-nivu-1-7i-modifikovana-2011-god/, 9.500 KM
 https://www.olx.ba/artikal/39324874/volkswagen-polo-2014-1-0mpi/, 10.999 KM
 https://www.olx.ba/artikal/37741864/volkswagen-up-1-0-mpi-2016god/, 13.500 KM
@@ -431,6 +430,5 @@ https://www.olx.ba/artikal/39461008/citroen-ds3/, 11.800 KM
 https://www.olx.ba/artikal/39453901/toyota-avensis-2010god-1-6vvti-132ks/, 13.400 KM
 https://www.olx.ba/artikal/39404281/hyundai-i30-1-4-plin-prvi-vlasnik/, 9.500 KM
 https://www.olx.ba/artikal/39464650/smart-fortwo-2010-god-top-stanje/, 6.950 KM
-https://www.olx.ba/artikal/39465981/trazim-yuga/, 400 KM
 https://www.olx.ba/artikal/33238909/ford-c-max/, 12.850 KM
 https://www.olx.ba/artikal/38731183/pezo-208-1-4-benzin-plin-70-kw-41-000-km-2012-13-g/, 10.700 KM
