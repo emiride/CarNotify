@@ -78,7 +78,6 @@ https://www.olx.ba/artikal/38012417/seat-toledo/, 16.000 KM
 https://www.olx.ba/artikal/36437975/vw-fox-2011/, 6.300 KM
 https://www.olx.ba/artikal/39384544/skoda-citigo-volkswagen-up-seat-mii/, 7.999 KM
 https://www.olx.ba/artikal/39383822/opel-corsa-1-4-benzin-plin/, 13.500 KM
-https://www.olx.ba/artikal/39383334/ford-focus-greska-na-mjenjacu/, 8.000 KM
 https://www.olx.ba/artikal/39383141/dacia-sandero-0-9-tce-2018-god-garancija-jos-12-mjeseci/, 13.200 KM
 https://www.olx.ba/artikal/35624900/volkswagen-up/, 9.400 KM
 https://www.olx.ba/artikal/39106753/fiat-500-90-000km-2010g-garancija-na-vozilo/, 10.500 KM
@@ -434,3 +433,4 @@ https://www.olx.ba/artikal/39469989/vw-up-facelift-2018g/, 9.800 KM
 https://www.olx.ba/artikal/39471288/peugeot-106/, 400 KM
 https://www.olx.ba/artikal/39471888/hunday-i20-2017g-prva-registracija/, 16.000 KM
 https://www.olx.ba/artikal/39378655/hyundai-i30-presao-69000-km/, 10.500 KM
+https://www.olx.ba/artikal/39473116/citroen-c-elysee-1-2/, 12.990 KM
