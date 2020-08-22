@@ -409,7 +409,6 @@ https://www.olx.ba/artikal/39451292/fiat-panda-2017/, 12.900 KM
 https://www.olx.ba/artikal/39451140/seat-mii-1-0-mpi-2019-god/, 16.000 KM
 https://www.olx.ba/artikal/39450427/peugeot-206-plus-1-1-44kw-2011-god/, 5.850 KM
 https://www.olx.ba/artikal/39324620/peugeot-107/, 6.800 KM
-https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.100 KM
 https://www.olx.ba/artikal/39174854/ford-focus-1-6-benzin-lpg-euro-5-2012g/, 11.100 KM
 https://www.olx.ba/artikal/38911887/dacia-sandero-plin-70-000km-tek-registrovan/, 7.700 KM
 https://www.olx.ba/artikal/38719940/chevrolet-spark/, 7.000 KM
@@ -436,3 +435,4 @@ https://www.olx.ba/artikal/39346107/lada-niva/, 13.000 KM
 https://www.olx.ba/artikal/39475958/chevrolet-cruze/, 9.500 KM
 https://www.olx.ba/artikal/39137493/skoda-fabija-1-2-51kw-2011god-065-760-399/, 7.900 KM
 https://www.olx.ba/artikal/39476809/fiat-500-1-2/, 9.900 KM
+https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.300 KM
