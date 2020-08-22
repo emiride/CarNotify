@@ -227,7 +227,6 @@ https://www.olx.ba/artikal/31897478/lada-2171/, 5.000 KM
 https://www.olx.ba/artikal/38695741/toyota-auris-top-stanje-kao-nov/, 13.000 KM
 https://www.olx.ba/artikal/39091104/chevrolet-aveo/, 7.300 KM
 https://www.olx.ba/artikal/39088557/skoda-fabia/, 9.900 KM
-https://www.olx.ba/artikal/39083462/chevrolet-cruze/, 11.500 KM
 https://www.olx.ba/artikal/39068034/lada-niva/, 13.000 KM
 https://www.olx.ba/artikal/38558671/skoda-fabia1-2-benzin-2011-gp/, 1.400 KM
 https://www.olx.ba/artikal/39338262/fiat-500-2015-51500km/, 13.990 KM
@@ -437,3 +436,4 @@ https://www.olx.ba/artikal/39315293/ford-focus/, 12.000 KM
 https://www.olx.ba/artikal/39480164/peugeot-208-1-4-vti-2012-god-parking-senzori-alarm/, 10.500 KM
 https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.100 KM
 https://www.olx.ba/artikal/39480905/mini-one-1-4-r56-model-2011/, 15.600 KM
+https://www.olx.ba/artikal/39083462/chevrolet-cruze/, 10.900 KM
