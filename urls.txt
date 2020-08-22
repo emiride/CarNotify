@@ -128,7 +128,6 @@ https://www.olx.ba/artikal/38601738/citroen-ds3-automatik-1-6-88kw-2015god/, 14.
 https://www.olx.ba/artikal/38795043/fiat-500-1-2-fico-klima-2014-god-40000-presao/, 13.950 KM
 https://www.olx.ba/artikal/39321880/chevrolet-cruze-1-6/, 4.500 KM
 https://www.olx.ba/artikal/39319624/fiat-punto/, 15.500 KM
-https://www.olx.ba/artikal/39315293/ford-focus/, 13.000 KM
 https://www.olx.ba/artikal/36959336/kia-pro-ceed/, 15.400 KM
 https://www.olx.ba/artikal/38802113/kia-ceed/, 16.000 KM
 https://www.olx.ba/artikal/37918271/chevrolet-aveo/, 8.000 KM
@@ -437,3 +436,5 @@ https://www.olx.ba/artikal/39137493/skoda-fabija-1-2-51kw-2011god-065-760-399/, 
 https://www.olx.ba/artikal/39476809/fiat-500-1-2/, 9.900 KM
 https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.300 KM
 https://www.olx.ba/artikal/39478644/bmw-316/, 111 KM
+https://www.olx.ba/artikal/39315293/ford-focus/, 12.000 KM
+https://www.olx.ba/artikal/39480164/peugeot-208-1-4-vti-2012-god-parking-senzori-alarm/, 10.500 KM
