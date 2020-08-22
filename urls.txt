@@ -11,7 +11,6 @@ https://www.olx.ba/artikal/39374328/suzuki-swift/, 11.500 KM
 https://www.olx.ba/artikal/35069917/fiat-500/, 9.800 KM
 https://www.olx.ba/artikal/38993078/toyota-aygo-1-0-top-stanje/, 10.200 KM
 https://www.olx.ba/artikal/37629156/renault-megane-cabrio-dynamiqe/, 14.100 KM
-https://www.olx.ba/artikal/39444532/fiat-punto-1-4-turbo-abarth/, 14.000 KM
 https://www.olx.ba/artikal/39305099/dacia-duster-4x4/, 12.700 KM
 https://www.olx.ba/artikal/39139208/renault-twingo/, 12.500 KM
 https://www.olx.ba/artikal/37418192/opel-astra/, 10.500 KM
@@ -440,3 +439,4 @@ https://www.olx.ba/artikal/39451763/peugeot-301/, 16.000 KM
 https://www.olx.ba/artikal/39485934/ford-focus-2012-limuzina-uvoz-ch-top/, 11.999 KM
 https://www.olx.ba/artikal/39480905/mini-one-1-4-r56-model-2011-mini-cooper/, 15.600 KM
 https://www.olx.ba/artikal/38934870/dacia-duster/, 12.500 KM
+https://www.olx.ba/artikal/39444532/fiat-punto-evo-1-4-turbo/, 14.000 KM
