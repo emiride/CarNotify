@@ -98,7 +98,6 @@ https://www.olx.ba/artikal/37316476/chevrolet-aveo/, 4.800 KM
 https://www.olx.ba/artikal/34823441/mini-one-1-6-benzin-2011-godiste-97-000km/, 11.900 KM
 https://www.olx.ba/artikal/38737504/smart-for-two-2011-f1-panorama-koza-klima/, 10.500 KM
 https://www.olx.ba/artikal/38203595/opel-corsa-1-2/, 10.900 KM
-https://www.olx.ba/artikal/39158210/renault-megane-1-6/, 8.900 KM
 https://www.olx.ba/artikal/36749991/subaru-impreza-4x4-1-5-plin/, 10.500 KM
 https://www.olx.ba/artikal/39358488/fiat-panda-2014-plin-klima-tek-reg-87-500-km/, 9.950 KM
 https://www.olx.ba/artikal/39357663/2015-volkswagen-up/, 10.900 KM
@@ -420,7 +419,6 @@ https://www.olx.ba/artikal/39453901/toyota-avensis-2010god-1-6vvti-132ks/, 13.40
 https://www.olx.ba/artikal/39404281/hyundai-i30-1-4-plin-prvi-vlasnik/, 9.500 KM
 https://www.olx.ba/artikal/39464650/smart-fortwo-2010-god-top-stanje/, 6.950 KM
 https://www.olx.ba/artikal/33238909/ford-c-max/, 12.850 KM
-https://www.olx.ba/artikal/38731183/pezo-208-1-4-benzin-plin-70-kw-41-000-km-2012-13-g/, 10.700 KM
 https://www.olx.ba/artikal/39468482/volkswagen-polo/, 11.100 KM
 https://www.olx.ba/artikal/39468891/renault-megane-cc-floride/, 15.490 KM
 https://www.olx.ba/artikal/36992314/peugeot-301-1-2-puretech-81ks/, 14.900 KM
@@ -434,7 +432,8 @@ https://www.olx.ba/artikal/39346107/lada-niva/, 13.000 KM
 https://www.olx.ba/artikal/39475958/chevrolet-cruze/, 9.500 KM
 https://www.olx.ba/artikal/39137493/skoda-fabija-1-2-51kw-2011god-065-760-399/, 7.900 KM
 https://www.olx.ba/artikal/39476809/fiat-500-1-2/, 9.900 KM
-https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.300 KM
 https://www.olx.ba/artikal/39478644/bmw-316/, 111 KM
 https://www.olx.ba/artikal/39315293/ford-focus/, 12.000 KM
 https://www.olx.ba/artikal/39480164/peugeot-208-1-4-vti-2012-god-parking-senzori-alarm/, 10.500 KM
+https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.100 KM
+https://www.olx.ba/artikal/39480905/mini-one-1-4-r56-model-2011/, 15.600 KM
