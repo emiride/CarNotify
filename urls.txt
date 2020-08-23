@@ -27,7 +27,6 @@ https://www.olx.ba/artikal/38607976/ford-focus-1-6i/, 7.900 KM
 https://www.olx.ba/artikal/35958727/opel-astra-1-6-benzin-90-000-presao-bh-porijeklo/, 15.300 KM
 https://www.olx.ba/artikal/36670655/skoda-fabia-1-0-benzin-ambition/, 13.500 KM
 https://www.olx.ba/artikal/38384669/opel-astra-j-2010/, 11.500 KM
-https://www.olx.ba/artikal/38975448/dacia-sandero-1-4-2011-g-klima/, 5.999 KM
 https://www.olx.ba/artikal/35817674/skoda-yeti-1-2-tsi-77-kw/, 14.900 KM
 https://www.olx.ba/artikal/27583035/citroen-c-elysee-seduction-1-2-vti/, 13.600 KM
 https://www.olx.ba/artikal/39190175/vw-polo-1-2-benzin/, 10.000 KM
@@ -443,3 +442,5 @@ https://www.olx.ba/artikal/39471888/hunday-i20-2017g-prva-registracija/, 15.000 
 https://www.olx.ba/artikal/39493029/audi-a4/, 10.000 KM
 https://www.olx.ba/artikal/39485300/smart-fortworezer/, 10.500 KM
 https://www.olx.ba/artikal/39493125/peugeot-208-allure-gt-sport/, 11.000 KM
+https://www.olx.ba/artikal/38975448/dacia-sandero-1-4-2011-g-klima/, 5.800 KM
+https://www.olx.ba/artikal/39283738/duster-1-6-benzin-plin/, 15.900 KM
