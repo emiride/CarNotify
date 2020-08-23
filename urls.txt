@@ -420,7 +420,6 @@ https://www.olx.ba/artikal/39468891/renault-megane-cc-floride/, 15.490 KM
 https://www.olx.ba/artikal/36992314/peugeot-301-1-2-puretech-81ks/, 14.900 KM
 https://www.olx.ba/artikal/39469989/vw-up-facelift-2018g/, 9.800 KM
 https://www.olx.ba/artikal/39471288/peugeot-106/, 400 KM
-https://www.olx.ba/artikal/39471888/hunday-i20-2017g-prva-registracija/, 16.000 KM
 https://www.olx.ba/artikal/39378655/hyundai-i30-presao-69000-km/, 10.500 KM
 https://www.olx.ba/artikal/39473116/citroen-c-elysee-1-2/, 12.990 KM
 https://www.olx.ba/artikal/38702987/toyota-auris-1-6-automatik-2010-god/, 11.999 KM
@@ -441,3 +440,4 @@ https://www.olx.ba/artikal/39444532/fiat-punto-evo-1-4-turbo/, 14.000 KM
 https://www.olx.ba/artikal/39485300/smart-fortwo/, 10.500 KM
 https://www.olx.ba/artikal/39490065/kia-rio-1-2-benzin/, 13.700 KM
 https://www.olx.ba/artikal/39083462/chevrolet-cruze-2011-euro-5/, 10.900 KM
+https://www.olx.ba/artikal/39471888/hunday-i20-2017g-prva-registracija/, 15.000 KM
