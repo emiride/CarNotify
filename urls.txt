@@ -254,7 +254,6 @@ https://www.olx.ba/artikal/36786741/opel-corsa-d-1-2-benzin-plin-2010-92-000km/,
 https://www.olx.ba/artikal/38846876/dacia-logan-1-2benzin-55kw-65-000kilom-2013-novo/, 8.700 KM
 https://www.olx.ba/artikal/38838311/opel-corsa-2015-30-000km-moze-zamjena/, 11.200 KM
 https://www.olx.ba/artikal/38819690/fiat-panda-1-2-benzin-plin/, 6.800 KM
-https://www.olx.ba/artikal/38807843/hyundai-i10/, 7.000 KM
 https://www.olx.ba/artikal/38797963/chevrolet-lacetti/, 5.900 KM
 https://www.olx.ba/artikal/36559691/kupujem-auta/, 500 KM
 https://www.olx.ba/artikal/38784457/skoda-fabia-1-0-75hp-dream-edition-novi-model/, 12.400 KM
@@ -440,3 +439,5 @@ https://www.olx.ba/artikal/39485934/ford-focus-2012-limuzina-uvoz-ch-top/, 11.99
 https://www.olx.ba/artikal/39480905/mini-one-1-4-r56-model-2011-mini-cooper/, 15.600 KM
 https://www.olx.ba/artikal/38934870/dacia-duster/, 12.500 KM
 https://www.olx.ba/artikal/39444532/fiat-punto-evo-1-4-turbo/, 14.000 KM
+https://www.olx.ba/artikal/38731183/pezo-208-1-4-benzin-plin-70-kw-41-000-km-2012-13-g/, 10.699 KM
+https://www.olx.ba/artikal/39485300/smart-fortwo/, 10.500 KM
