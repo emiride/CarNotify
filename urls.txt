@@ -72,7 +72,6 @@ https://www.olx.ba/artikal/39350246/citroen-c3-63000-2017/, 15.700 KM
 https://www.olx.ba/artikal/39383648/2011-ford-focus-1-4-i-80-ks-tek-regist/, 10.290 KM
 https://www.olx.ba/artikal/38012417/seat-toledo/, 16.000 KM
 https://www.olx.ba/artikal/36437975/vw-fox-2011/, 6.300 KM
-https://www.olx.ba/artikal/39384544/skoda-citigo-volkswagen-up-seat-mii/, 7.999 KM
 https://www.olx.ba/artikal/39383822/opel-corsa-1-4-benzin-plin/, 13.500 KM
 https://www.olx.ba/artikal/39383141/dacia-sandero-0-9-tce-2018-god-garancija-jos-12-mjeseci/, 13.200 KM
 https://www.olx.ba/artikal/35624900/volkswagen-up/, 9.400 KM
@@ -444,6 +443,5 @@ https://www.olx.ba/artikal/39404281/hyundai-i30-1-4-plin-prvi-vlasnik/, 9.400 KM
 https://www.olx.ba/artikal/39499368/opel-astra-1-6/, 14.900 KM
 https://www.olx.ba/artikal/38384669/opel-astra-j/, 10.500 KM
 https://www.olx.ba/artikal/39501850/hyundai-i30/, 11.000 KM
-https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.400 KM
 https://www.olx.ba/artikal/39502265/jeep-cherokee/, 4.500 KM
 https://www.olx.ba/artikal/39503645/skoda-fabia-1-0b-77000km-top-auto-doo/, 13.450 KM
