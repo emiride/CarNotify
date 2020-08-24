@@ -409,7 +409,6 @@ https://www.olx.ba/artikal/37629930/opel-corsa/, 7.299 KM
 https://www.olx.ba/artikal/39459789/hyndai-i30-fl-2011-god/, 5.800 KM
 https://www.olx.ba/artikal/39461008/citroen-ds3/, 11.800 KM
 https://www.olx.ba/artikal/39453901/toyota-avensis-2010god-1-6vvti-132ks/, 13.400 KM
-https://www.olx.ba/artikal/39404281/hyundai-i30-1-4-plin-prvi-vlasnik/, 9.500 KM
 https://www.olx.ba/artikal/39464650/smart-fortwo-2010-god-top-stanje/, 6.950 KM
 https://www.olx.ba/artikal/33238909/ford-c-max/, 12.850 KM
 https://www.olx.ba/artikal/39468482/volkswagen-polo/, 11.100 KM
@@ -446,3 +445,4 @@ https://www.olx.ba/artikal/38695741/toyota-auris-top-stanje-kao-nov/, 12.500 KM
 https://www.olx.ba/artikal/38731183/pezo-208-1-4-benzin-plin-70-kw-41-000-km-2012-13-g/, 10.690 KM
 https://www.olx.ba/artikal/39498128/volkswagen-passat/, 750 KM
 https://www.olx.ba/artikal/39408193/dacia-sandero-1-2-benzin-lpg-plin-2016/, 12.200 KM
+https://www.olx.ba/artikal/39404281/hyundai-i30-1-4-plin-prvi-vlasnik/, 9.400 KM
