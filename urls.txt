@@ -436,7 +436,6 @@ https://www.olx.ba/artikal/39493125/peugeot-208-allure-gt-sport/, 11.000 KM
 https://www.olx.ba/artikal/38975448/dacia-sandero-1-4-2011-g-klima/, 5.800 KM
 https://www.olx.ba/artikal/39283738/duster-1-6-benzin-plin/, 15.900 KM
 https://www.olx.ba/artikal/38695741/toyota-auris-top-stanje-kao-nov/, 12.500 KM
-https://www.olx.ba/artikal/38731183/pezo-208-1-4-benzin-plin-70-kw-41-000-km-2012-13-g/, 10.690 KM
 https://www.olx.ba/artikal/39498128/volkswagen-passat/, 750 KM
 https://www.olx.ba/artikal/39408193/dacia-sandero-1-2-benzin-lpg-plin-2016/, 12.200 KM
 https://www.olx.ba/artikal/39404281/hyundai-i30-1-4-plin-prvi-vlasnik/, 9.400 KM
@@ -445,3 +444,4 @@ https://www.olx.ba/artikal/38384669/opel-astra-j/, 10.500 KM
 https://www.olx.ba/artikal/39501850/hyundai-i30/, 11.000 KM
 https://www.olx.ba/artikal/39502265/jeep-cherokee/, 4.500 KM
 https://www.olx.ba/artikal/39503645/skoda-fabia-1-0b-77000km-top-auto-doo/, 13.450 KM
+https://www.olx.ba/artikal/38731183/pezo-208-1-4-vti-benzin-plin-70-kw-41-000-km-2012-13-g/, 10.690 KM
