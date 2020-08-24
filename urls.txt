@@ -425,7 +425,6 @@ https://www.olx.ba/artikal/39480905/mini-one-1-4-r56-model-2011-mini-cooper/, 15
 https://www.olx.ba/artikal/38934870/dacia-duster/, 12.500 KM
 https://www.olx.ba/artikal/39444532/fiat-punto-evo-1-4-turbo/, 14.000 KM
 https://www.olx.ba/artikal/39490065/kia-rio-1-2-benzin/, 13.700 KM
-https://www.olx.ba/artikal/39083462/chevrolet-cruze-2011-euro-5/, 10.900 KM
 https://www.olx.ba/artikal/39471888/hunday-i20-2017g-prva-registracija/, 15.000 KM
 https://www.olx.ba/artikal/39493029/audi-a4/, 10.000 KM
 https://www.olx.ba/artikal/39493125/peugeot-208-allure-gt-sport/, 11.000 KM
@@ -446,3 +445,4 @@ https://www.olx.ba/artikal/39507057/pezo-207-tek-uvezen-i-reg-malo-presao-2-klju
 https://www.olx.ba/artikal/39508146/dacia-sandero-2016-god-1-2-b-klima/, 9.999 KM
 https://www.olx.ba/artikal/39507858/fiat-panda/, 10.800 KM
 https://www.olx.ba/artikal/39483026/fox-1-2-benzin-god-2011-uvoz-iz-svajcarske/, 6.500 KM
+https://www.olx.ba/artikal/39083462/chevrolet-cruze-2011-euro-5/, 11.500 KM
