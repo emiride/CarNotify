@@ -419,7 +419,6 @@ https://www.olx.ba/artikal/39137493/skoda-fabija-1-2-51kw-2011god-065-760-399/, 
 https://www.olx.ba/artikal/39476809/fiat-500-1-2/, 9.900 KM
 https://www.olx.ba/artikal/39315293/ford-focus/, 12.000 KM
 https://www.olx.ba/artikal/39480164/peugeot-208-1-4-vti-2012-god-parking-senzori-alarm/, 10.500 KM
-https://www.olx.ba/artikal/39483026/volkswagen-fox-1-2-benzin-uvoz-iz-svajcarske/, 6.500 KM
 https://www.olx.ba/artikal/39451763/peugeot-301/, 16.000 KM
 https://www.olx.ba/artikal/39485934/ford-focus-2012-limuzina-uvoz-ch-top/, 11.999 KM
 https://www.olx.ba/artikal/39480905/mini-one-1-4-r56-model-2011-mini-cooper/, 15.600 KM
@@ -445,5 +444,5 @@ https://www.olx.ba/artikal/39321880/chevrolet-cruze-1-6/, 4.000 KM
 https://www.olx.ba/artikal/39507458/mercedes-benz-c-240-tek-reg-polisa/, 6.200 KM
 https://www.olx.ba/artikal/39507057/pezo-207-tek-uvezen-i-reg-malo-presao-2-kljuca-kao-nov/, 8.200 KM
 https://www.olx.ba/artikal/39508146/dacia-sandero-2016-god-1-2-b-klima/, 9.999 KM
-https://www.olx.ba/artikal/39507910/opel-corsa-d-extra-extra/, 12.900 KM
 https://www.olx.ba/artikal/39507858/fiat-panda/, 10.800 KM
+https://www.olx.ba/artikal/39483026/fox-1-2-benzin-god-2011-uvoz-iz-svajcarske/, 6.500 KM
