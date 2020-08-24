@@ -120,7 +120,6 @@ https://www.olx.ba/artikal/37741864/volkswagen-up-1-0-mpi-2016god/, 13.500 KM
 https://www.olx.ba/artikal/34709580/skoda-fabia-1-2ben-51kw-2011god/, 9.099 KM
 https://www.olx.ba/artikal/38601738/citroen-ds3-automatik-1-6-88kw-2015god/, 14.250 KM
 https://www.olx.ba/artikal/38795043/fiat-500-1-2-fico-klima-2014-god-40000-presao/, 13.950 KM
-https://www.olx.ba/artikal/39321880/chevrolet-cruze-1-6/, 4.500 KM
 https://www.olx.ba/artikal/39319624/fiat-punto/, 15.500 KM
 https://www.olx.ba/artikal/36959336/kia-pro-ceed/, 15.400 KM
 https://www.olx.ba/artikal/38802113/kia-ceed/, 16.000 KM
@@ -281,7 +280,6 @@ https://www.olx.ba/artikal/36968709/citroen-c4/, 11.700 KM
 https://www.olx.ba/artikal/38472335/skoda-rapid/, 14.500 KM
 https://www.olx.ba/artikal/38455673/skoda-fabia/, 8.900 KM
 https://www.olx.ba/artikal/38453820/ford-fusion-2012-13-kao-nov/, 7.900 KM
-https://www.olx.ba/artikal/38449159/ford-focus/, 10.000 KM
 https://www.olx.ba/artikal/39181977/golf-7-bnzin-1-2-highline/, 15.900 KM
 https://www.olx.ba/artikal/38428126/fiat-500/, 9.400 KM
 https://www.olx.ba/artikal/35306015/hyundai-ix20/, 15.500 KM
@@ -445,3 +443,6 @@ https://www.olx.ba/artikal/39501850/hyundai-i30/, 11.000 KM
 https://www.olx.ba/artikal/39502265/jeep-cherokee/, 4.500 KM
 https://www.olx.ba/artikal/39503645/skoda-fabia-1-0b-77000km-top-auto-doo/, 13.450 KM
 https://www.olx.ba/artikal/39506163/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.500 KM
+https://www.olx.ba/artikal/39321880/chevrolet-cruze-1-6/, 4.000 KM
+https://www.olx.ba/artikal/39507458/mercedes-benz-c-240-tek-reg-polisa/, 6.200 KM
+https://www.olx.ba/artikal/39507057/pezo-207-tek-uvezen-i-reg-malo-presao-2-kljuca-kao-nov/, 8.200 KM
