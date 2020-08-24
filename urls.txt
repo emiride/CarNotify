@@ -58,7 +58,6 @@ https://www.olx.ba/artikal/24403940/lada-niva/, 11.500 KM
 https://www.olx.ba/artikal/39409019/suzuki-baleno-gl-1-2/, 14.000 KM
 https://www.olx.ba/artikal/37097244/renault-clio-2017-prvi-vlasnik/, 15.999 KM
 https://www.olx.ba/artikal/39408444/fiat-panda/, 4.800 KM
-https://www.olx.ba/artikal/39408193/dacia-sandero-1-2-benzin-lpg-plin/, 12.200 KM
 https://www.olx.ba/artikal/39405630/volkswagen-polo/, 14.608 KM
 https://www.olx.ba/artikal/39399424/fiat-new-panda/, 11.500 KM
 https://www.olx.ba/artikal/38158370/peugeot-208/, 11.200 KM
@@ -446,3 +445,4 @@ https://www.olx.ba/artikal/39283738/duster-1-6-benzin-plin/, 15.900 KM
 https://www.olx.ba/artikal/38695741/toyota-auris-top-stanje-kao-nov/, 12.500 KM
 https://www.olx.ba/artikal/38731183/pezo-208-1-4-benzin-plin-70-kw-41-000-km-2012-13-g/, 10.690 KM
 https://www.olx.ba/artikal/39498128/volkswagen-passat/, 750 KM
+https://www.olx.ba/artikal/39408193/dacia-sandero-1-2-benzin-lpg-plin-2016/, 12.200 KM
