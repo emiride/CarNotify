@@ -423,7 +423,6 @@ https://www.olx.ba/artikal/39137493/skoda-fabija-1-2-51kw-2011god-065-760-399/, 
 https://www.olx.ba/artikal/39476809/fiat-500-1-2/, 9.900 KM
 https://www.olx.ba/artikal/39315293/ford-focus/, 12.000 KM
 https://www.olx.ba/artikal/39480164/peugeot-208-1-4-vti-2012-god-parking-senzori-alarm/, 10.500 KM
-https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.100 KM
 https://www.olx.ba/artikal/39483026/volkswagen-fox-1-2-benzin-uvoz-iz-svajcarske/, 6.500 KM
 https://www.olx.ba/artikal/39451763/peugeot-301/, 16.000 KM
 https://www.olx.ba/artikal/39485934/ford-focus-2012-limuzina-uvoz-ch-top/, 11.999 KM
@@ -445,3 +444,5 @@ https://www.olx.ba/artikal/39404281/hyundai-i30-1-4-plin-prvi-vlasnik/, 9.400 KM
 https://www.olx.ba/artikal/39499368/opel-astra-1-6/, 14.900 KM
 https://www.olx.ba/artikal/38384669/opel-astra-j/, 10.500 KM
 https://www.olx.ba/artikal/39501850/hyundai-i30/, 11.000 KM
+https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.400 KM
+https://www.olx.ba/artikal/39502265/jeep-cherokee/, 4.500 KM
