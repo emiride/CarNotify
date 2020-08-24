@@ -414,7 +414,6 @@ https://www.olx.ba/artikal/39468482/volkswagen-polo/, 11.100 KM
 https://www.olx.ba/artikal/39468891/renault-megane-cc-floride/, 15.490 KM
 https://www.olx.ba/artikal/36992314/peugeot-301-1-2-puretech-81ks/, 14.900 KM
 https://www.olx.ba/artikal/39469989/vw-up-facelift-2018g/, 9.800 KM
-https://www.olx.ba/artikal/39471288/peugeot-106/, 400 KM
 https://www.olx.ba/artikal/39378655/hyundai-i30-presao-69000-km/, 10.500 KM
 https://www.olx.ba/artikal/39473116/citroen-c-elysee-1-2/, 12.990 KM
 https://www.olx.ba/artikal/38702987/toyota-auris-1-6-automatik-2010-god/, 11.999 KM
@@ -422,7 +421,6 @@ https://www.olx.ba/artikal/39346107/lada-niva/, 13.000 KM
 https://www.olx.ba/artikal/39475958/chevrolet-cruze/, 9.500 KM
 https://www.olx.ba/artikal/39137493/skoda-fabija-1-2-51kw-2011god-065-760-399/, 7.900 KM
 https://www.olx.ba/artikal/39476809/fiat-500-1-2/, 9.900 KM
-https://www.olx.ba/artikal/39478644/bmw-316/, 111 KM
 https://www.olx.ba/artikal/39315293/ford-focus/, 12.000 KM
 https://www.olx.ba/artikal/39480164/peugeot-208-1-4-vti-2012-god-parking-senzori-alarm/, 10.500 KM
 https://www.olx.ba/artikal/39279251/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.100 KM
@@ -446,3 +444,4 @@ https://www.olx.ba/artikal/39408193/dacia-sandero-1-2-benzin-lpg-plin-2016/, 12.
 https://www.olx.ba/artikal/39404281/hyundai-i30-1-4-plin-prvi-vlasnik/, 9.400 KM
 https://www.olx.ba/artikal/39499368/opel-astra-1-6/, 14.900 KM
 https://www.olx.ba/artikal/38384669/opel-astra-j/, 10.500 KM
+https://www.olx.ba/artikal/39501850/hyundai-i30/, 11.000 KM
