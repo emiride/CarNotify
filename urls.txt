@@ -200,7 +200,6 @@ https://www.olx.ba/artikal/38761830/ford-fiesta/, 14.000 KM
 https://www.olx.ba/artikal/37042310/fiat-panda-4x4/, 6.500 KM
 https://www.olx.ba/artikal/37574052/fiat-500l-1-4/, 15.500 KM
 https://www.olx.ba/artikal/39143434/kia-rio-1-2-benzin/, 9.500 KM
-https://www.olx.ba/artikal/35039123/renault-twingo-1-0-sce-70-ks/, 14.900 KM
 https://www.olx.ba/artikal/33172868/seat-ibiza/, 9.500 KM
 https://www.olx.ba/artikal/39131602/dacia-sandero-1-4-plin-kao-nov-tek-registrovan/, 7.800 KM
 https://www.olx.ba/artikal/39129718/opel-astra-h-1-6-2011-god/, 12.500 KM
@@ -449,5 +448,5 @@ https://www.olx.ba/artikal/39324620/peugeot-107/, 5.999 KM
 https://www.olx.ba/artikal/38686898/chevrolet-cruze-1-6-benzin-2011godiste-tek-registrovan/, 9.500 KM
 https://www.olx.ba/artikal/39519118/skoda-octavia/, 11.300 KM
 https://www.olx.ba/artikal/39519403/peugeot-207/, 8.400 KM
-https://www.olx.ba/artikal/39520245/lada-niva-2012-god-vrhunsko-stanje/, 7.800 KM
 https://www.olx.ba/artikal/38731183/pezo-208-1-4-vti-benzin-plin-70-kw-41-000-km-2012-13-g/, 10.590 KM
+https://www.olx.ba/artikal/39521305/peugeot-2008-signature-1-2-puretech/, 7.700 KM
