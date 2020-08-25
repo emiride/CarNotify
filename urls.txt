@@ -86,7 +86,6 @@ https://www.olx.ba/artikal/33172855/skoda-fabia-karavan/, 10.900 KM
 https://www.olx.ba/artikal/35594789/golf-6-cabriolet-cabrio/, 15.800 KM
 https://www.olx.ba/artikal/37268335/seat-ibiza-93-000km-servisi-tek-uradjeni/, 7.900 KM
 https://www.olx.ba/artikal/39370532/peugeot-308/, 10.050 KM
-https://www.olx.ba/artikal/38881047/kia-pro-ceed/, 8.800 KM
 https://www.olx.ba/artikal/37316476/chevrolet-aveo/, 4.800 KM
 https://www.olx.ba/artikal/34823441/mini-one-1-6-benzin-2011-godiste-97-000km/, 11.900 KM
 https://www.olx.ba/artikal/38737504/smart-for-two-2011-f1-panorama-koza-klima/, 10.500 KM
@@ -221,7 +220,6 @@ https://www.olx.ba/artikal/39068034/lada-niva/, 13.000 KM
 https://www.olx.ba/artikal/38558671/skoda-fabia1-2-benzin-2011-gp/, 1.400 KM
 https://www.olx.ba/artikal/39338262/fiat-500-2015-51500km/, 13.990 KM
 https://www.olx.ba/artikal/37712466/toyota-yaris-2015-1-0-102000km/, 12.800 KM
-https://www.olx.ba/artikal/39046661/dacia-sandero-1-6-stepway/, 8.500 KM
 https://www.olx.ba/artikal/36705234/chevrolet-cruze/, 11.800 KM
 https://www.olx.ba/artikal/39032798/peugeot-206-plus/, 6.900 KM
 https://www.olx.ba/artikal/39028161/hyundai-ix-20/, 11.200 KM
@@ -448,3 +446,4 @@ https://www.olx.ba/artikal/33036765/golf-6-karavan/, 16.000 KM
 https://www.olx.ba/artikal/39501850/hyundai-i30/, 10.000 KM
 https://www.olx.ba/artikal/39463056/citroen-c3-picaso/, 8.300 KM
 https://www.olx.ba/artikal/39513286/renault-clio/, 8.800 KM
+https://www.olx.ba/artikal/39514210/peugeot-207/, 7.800 KM
