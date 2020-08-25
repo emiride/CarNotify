@@ -434,7 +434,6 @@ https://www.olx.ba/artikal/39408193/dacia-sandero-1-2-benzin-lpg-plin-2016/, 12.
 https://www.olx.ba/artikal/39404281/hyundai-i30-1-4-plin-prvi-vlasnik/, 9.400 KM
 https://www.olx.ba/artikal/39499368/opel-astra-1-6/, 14.900 KM
 https://www.olx.ba/artikal/38384669/opel-astra-j/, 10.500 KM
-https://www.olx.ba/artikal/39501850/hyundai-i30/, 11.000 KM
 https://www.olx.ba/artikal/39503645/skoda-fabia-1-0b-77000km-top-auto-doo/, 13.450 KM
 https://www.olx.ba/artikal/39506163/chevrolet-lacetti-aveo-spark-cruze-2011-g-p/, 4.500 KM
 https://www.olx.ba/artikal/39321880/chevrolet-cruze-1-6/, 4.000 KM
@@ -447,3 +446,5 @@ https://www.olx.ba/artikal/39083462/chevrolet-cruze-2011-euro-5/, 11.500 KM
 https://www.olx.ba/artikal/39071093/peugeot-308-39-000km-2015g-garancija-na-vozilo/, 14.900 KM
 https://www.olx.ba/artikal/39510213/ford-fiesta-1-4-benzin/, 7.300 KM
 https://www.olx.ba/artikal/33036765/golf-6-karavan/, 16.000 KM
+https://www.olx.ba/artikal/39501850/hyundai-i30/, 10.000 KM
+https://www.olx.ba/artikal/39463056/citroen-c3-picaso/, 8.300 KM
