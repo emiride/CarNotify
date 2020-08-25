@@ -182,7 +182,6 @@ https://www.olx.ba/artikal/39189451/peugeot-107/, 7.800 KM
 https://www.olx.ba/artikal/38492704/peugeot-207/, 8.400 KM
 https://www.olx.ba/artikal/39184509/opel-astra-2011-godiste/, 8.600 KM
 https://www.olx.ba/artikal/17965489/focus-ford-automatic-2010-1-6-plin-sekvent-klima/, 10.000 KM
-https://www.olx.ba/artikal/38676037/suzuki-sx4-prvi-vlasnik/, 11.900 KM
 https://www.olx.ba/artikal/38446603/prodajem-pezo-207-karavan/, 11.900 KM
 https://www.olx.ba/artikal/39174841/kia-rio/, 14.800 KM
 https://www.olx.ba/artikal/36927218/chevrolet-aveo-1-2-16v/, 6.900 KM
@@ -448,3 +447,4 @@ https://www.olx.ba/artikal/39510213/ford-fiesta-1-4-benzin/, 7.300 KM
 https://www.olx.ba/artikal/33036765/golf-6-karavan/, 16.000 KM
 https://www.olx.ba/artikal/39501850/hyundai-i30/, 10.000 KM
 https://www.olx.ba/artikal/39463056/citroen-c3-picaso/, 8.300 KM
+https://www.olx.ba/artikal/39513286/renault-clio/, 8.800 KM
