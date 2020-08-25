@@ -398,7 +398,6 @@ https://www.olx.ba/artikal/39143264/vw-polo-2015-god-1-2-tsi/, 13.000 KM
 https://www.olx.ba/artikal/39383025/skoda-octavija-oktavija-skoda/, 14.000 KM
 https://www.olx.ba/artikal/37629930/opel-corsa/, 7.299 KM
 https://www.olx.ba/artikal/39459789/hyndai-i30-fl-2011-god/, 5.800 KM
-https://www.olx.ba/artikal/39453901/toyota-avensis-2010god-1-6vvti-132ks/, 13.400 KM
 https://www.olx.ba/artikal/39464650/smart-fortwo-2010-god-top-stanje/, 6.950 KM
 https://www.olx.ba/artikal/33238909/ford-c-max/, 12.850 KM
 https://www.olx.ba/artikal/39468482/volkswagen-polo/, 11.100 KM
@@ -438,7 +437,6 @@ https://www.olx.ba/artikal/39507458/mercedes-benz-c-240-tek-reg-polisa/, 6.200 K
 https://www.olx.ba/artikal/39507057/pezo-207-tek-uvezen-i-reg-malo-presao-2-kljuca-kao-nov/, 8.200 KM
 https://www.olx.ba/artikal/39508146/dacia-sandero-2016-god-1-2-b-klima/, 9.999 KM
 https://www.olx.ba/artikal/39507858/fiat-panda/, 10.800 KM
-https://www.olx.ba/artikal/39483026/fox-1-2-benzin-god-2011-uvoz-iz-svajcarske/, 6.500 KM
 https://www.olx.ba/artikal/39083462/chevrolet-cruze-2011-euro-5/, 11.500 KM
 https://www.olx.ba/artikal/39071093/peugeot-308-39-000km-2015g-garancija-na-vozilo/, 14.900 KM
 https://www.olx.ba/artikal/39510213/ford-fiesta-1-4-benzin/, 7.300 KM
@@ -447,3 +445,6 @@ https://www.olx.ba/artikal/39501850/hyundai-i30/, 10.000 KM
 https://www.olx.ba/artikal/39463056/citroen-c3-picaso/, 8.300 KM
 https://www.olx.ba/artikal/39513286/renault-clio/, 8.800 KM
 https://www.olx.ba/artikal/39514210/peugeot-207/, 7.800 KM
+https://www.olx.ba/artikal/39514601/skoda-rapid-1-2-tsi/, 12.900 KM
+https://www.olx.ba/artikal/39514999/fox-1-2-benzin-god-2011-uvoz-iz-svajcarske/, 6.500 KM
+https://www.olx.ba/artikal/39514496/opel-corsa-1-4-eco-tec-80-000-presao/, 13.500 KM
