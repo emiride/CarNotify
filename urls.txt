@@ -18,7 +18,6 @@ https://www.olx.ba/artikal/30916578/citroen-c-elysee-1-2-vti-plin/, 12.500 KM
 https://www.olx.ba/artikal/37765025/samuraj-samurai-suzuki/, 1.000 KM
 https://www.olx.ba/artikal/39083945/dacia-sandero-stepway/, 8.999 KM
 https://www.olx.ba/artikal/38747936/chevrolet-cruze-2013god-presao-45-000km/, 11.400 KM
-https://www.olx.ba/artikal/38366101/fiat-punto-1-4uvoz-iz-svajcarske/, 8.999 KM
 https://www.olx.ba/artikal/31890924/skoda-fabia/, 13.500 KM
 https://www.olx.ba/artikal/28018894/kupujem-auta-do-500km/, 500 KM
 https://www.olx.ba/artikal/39343425/ford-fiesta-servisna/, 7.700 KM
@@ -446,3 +445,8 @@ https://www.olx.ba/artikal/39513286/renault-clio/, 7.800 KM
 https://www.olx.ba/artikal/34460507/citroen-c-elysee/, 15.600 KM
 https://www.olx.ba/artikal/39476809/fiat-500-1-2-70-000-kilometara/, 9.900 KM
 https://www.olx.ba/artikal/39378655/hyundai-i30-presao-69-700-km/, 10.500 KM
+https://www.olx.ba/artikal/38366101/fiat-punto-1-4uvoz-iz-svajcarske/, 8.850 KM
+https://www.olx.ba/artikal/39532530/skoda-fabia/, 13.500 KM
+https://www.olx.ba/artikal/39532876/skoda-fabia/, 8.500 KM
+https://www.olx.ba/artikal/39532432/chevrolet-aveo/, 6.750 KM
+https://www.olx.ba/artikal/39532387/fiat-500-1-2b-2010-god-reg-do-7-mj-2021/, 9.550 KM
