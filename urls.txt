@@ -400,9 +400,7 @@ https://www.olx.ba/artikal/38702987/toyota-auris-1-6-automatik-2010-god/, 11.999
 https://www.olx.ba/artikal/39346107/lada-niva/, 13.000 KM
 https://www.olx.ba/artikal/39475958/chevrolet-cruze/, 9.500 KM
 https://www.olx.ba/artikal/39137493/skoda-fabija-1-2-51kw-2011god-065-760-399/, 7.900 KM
-https://www.olx.ba/artikal/39476809/fiat-500-1-2/, 9.900 KM
 https://www.olx.ba/artikal/39315293/ford-focus/, 12.000 KM
-https://www.olx.ba/artikal/39480164/peugeot-208-1-4-vti-2012-god-parking-senzori-alarm/, 10.500 KM
 https://www.olx.ba/artikal/39451763/peugeot-301/, 16.000 KM
 https://www.olx.ba/artikal/39485934/ford-focus-2012-limuzina-uvoz-ch-top/, 11.999 KM
 https://www.olx.ba/artikal/39480905/mini-one-1-4-r56-model-2011-mini-cooper/, 15.600 KM
@@ -450,3 +448,4 @@ https://www.olx.ba/artikal/39526628/chevrolet-lacetti-1-4-benzin-registrovano/, 
 https://www.olx.ba/artikal/39527953/ford-fiesta/, 7.900 KM
 https://www.olx.ba/artikal/39513286/renault-clio/, 7.800 KM
 https://www.olx.ba/artikal/34460507/citroen-c-elysee/, 15.600 KM
+https://www.olx.ba/artikal/39476809/fiat-500-1-2-70-000-kilometara/, 9.900 KM
