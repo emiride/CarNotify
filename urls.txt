@@ -61,7 +61,6 @@ https://www.olx.ba/artikal/38158370/peugeot-208/, 11.200 KM
 https://www.olx.ba/artikal/39305297/fiat-panda/, 10.500 KM
 https://www.olx.ba/artikal/39391850/dacia-duster-1-6-4x4-benzin-plin/, 15.500 KM
 https://www.olx.ba/artikal/39389218/renault-fluence-1-6-16v-2015-80000km/, 14.500 KM
-https://www.olx.ba/artikal/38032135/volkswagen-up-2012-god-1-0-mpi/, 10.800 KM
 https://www.olx.ba/artikal/39386780/dacia-dokker/, 5.500 KM
 https://www.olx.ba/artikal/39048965/peugeot-308cc-automat-jedan-vlasnik-110-000-km-servisna/, 14.900 KM
 https://www.olx.ba/artikal/35073510/opel-astra-j-1-4i-2011-godina-akcija-akcija-akcija/, 9.990 KM
@@ -89,7 +88,6 @@ https://www.olx.ba/artikal/34823441/mini-one-1-6-benzin-2011-godiste-97-000km/, 
 https://www.olx.ba/artikal/38737504/smart-for-two-2011-f1-panorama-koza-klima/, 10.500 KM
 https://www.olx.ba/artikal/38203595/opel-corsa-1-2/, 10.900 KM
 https://www.olx.ba/artikal/36749991/subaru-impreza-4x4-1-5-plin/, 10.500 KM
-https://www.olx.ba/artikal/39358488/fiat-panda-2014-plin-klima-tek-reg-87-500-km/, 9.950 KM
 https://www.olx.ba/artikal/39357663/2015-volkswagen-up/, 10.900 KM
 https://www.olx.ba/artikal/31386545/opel-corsa/, 9.000 KM
 https://www.olx.ba/artikal/32319319/peugeot-208-1-2/, 6.000 KM
@@ -448,3 +446,6 @@ https://www.olx.ba/artikal/39540589/toyota-yaris-1-0-benz-2015-god-90-000-km-ser
 https://www.olx.ba/artikal/39324620/peugeot-107/, 5.999 KM
 https://www.olx.ba/artikal/39542246/kia-pro-ceed-2015-presla-35-000-km/, 14.900 KM
 https://www.olx.ba/artikal/39542074/volkswagen-fox/, 6.300 KM
+https://www.olx.ba/artikal/38032135/volkswagen-up-2012-god-1-0-mpi/, 9.900 KM
+https://www.olx.ba/artikal/39358488/fiat-panda-2014-plin-klima-tek-reg-87-500-km/, 9.900 KM
+https://www.olx.ba/artikal/38731183/pezo-208-1-4-vti-benzin-plin-70-kw-41-000-km-2012-13-g/, 10.500 KM
