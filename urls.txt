@@ -385,7 +385,6 @@ https://www.olx.ba/artikal/33238909/ford-c-max/, 12.850 KM
 https://www.olx.ba/artikal/39468482/volkswagen-polo/, 11.100 KM
 https://www.olx.ba/artikal/39468891/renault-megane-cc-floride/, 15.490 KM
 https://www.olx.ba/artikal/36992314/peugeot-301-1-2-puretech-81ks/, 14.900 KM
-https://www.olx.ba/artikal/39469989/vw-up-facelift-2018g/, 9.800 KM
 https://www.olx.ba/artikal/39473116/citroen-c-elysee-1-2/, 12.990 KM
 https://www.olx.ba/artikal/38702987/toyota-auris-1-6-automatik-2010-god/, 11.999 KM
 https://www.olx.ba/artikal/39346107/lada-niva/, 13.000 KM
@@ -449,3 +448,4 @@ https://www.olx.ba/artikal/39542074/volkswagen-fox/, 6.300 KM
 https://www.olx.ba/artikal/38032135/volkswagen-up-2012-god-1-0-mpi/, 9.900 KM
 https://www.olx.ba/artikal/39358488/fiat-panda-2014-plin-klima-tek-reg-87-500-km/, 9.900 KM
 https://www.olx.ba/artikal/38731183/pezo-208-1-4-vti-benzin-plin-70-kw-41-000-km-2012-13-g/, 10.500 KM
+https://www.olx.ba/artikal/39469989/vw-up-facelift-2018g/, 8.900 KM
