@@ -172,7 +172,6 @@ https://www.olx.ba/artikal/38133997/chevrolet-orlando/, 13.900 KM
 https://www.olx.ba/artikal/39201917/smart-brabus-kabriolet/, 16.000 KM
 https://www.olx.ba/artikal/39072495/polo-1-2-moze-zamjena/, 11.000 KM
 https://www.olx.ba/artikal/38321642/opel-astra-j-1-4-2014-g/, 13.600 KM
-https://www.olx.ba/artikal/39199334/renault-megane-citaj-detaljno/, 10.000 KM
 https://www.olx.ba/artikal/39195864/hyundai-i30-1-4-2012-god/, 13.750 KM
 https://www.olx.ba/artikal/36740741/2012-pezo-peugeot-107-klima-105000km-reg-do-07-2021/, 8.555 KM
 https://www.olx.ba/artikal/39189451/peugeot-107/, 7.800 KM
@@ -433,7 +432,6 @@ https://www.olx.ba/artikal/39324620/peugeot-107/, 5.999 KM
 https://www.olx.ba/artikal/38686898/chevrolet-cruze-1-6-benzin-2011godiste-tek-registrovan/, 9.500 KM
 https://www.olx.ba/artikal/39519118/skoda-octavia/, 11.300 KM
 https://www.olx.ba/artikal/39519403/peugeot-207/, 8.400 KM
-https://www.olx.ba/artikal/38731183/pezo-208-1-4-vti-benzin-plin-70-kw-41-000-km-2012-13-g/, 10.590 KM
 https://www.olx.ba/artikal/39521880/opel-astra/, 10.500 KM
 https://www.olx.ba/artikal/39521829/fiat-panda-2011-sekvent-plin/, 5.500 KM
 https://www.olx.ba/artikal/39522500/dacia-sandero-1-2-benzin-plin-2016/, 12.200 KM
@@ -450,4 +448,4 @@ https://www.olx.ba/artikal/39532530/skoda-fabia/, 13.500 KM
 https://www.olx.ba/artikal/39532876/skoda-fabia/, 8.500 KM
 https://www.olx.ba/artikal/39532432/chevrolet-aveo/, 6.750 KM
 https://www.olx.ba/artikal/39532387/fiat-500-1-2b-2010-god-reg-do-7-mj-2021/, 9.550 KM
-https://www.olx.ba/artikal/39533197/renault-clio-80-000km-presao-1-vlasnik-reg-godinu/, 3.999 KM
+https://www.olx.ba/artikal/39534751/putnicko-vozilo/, 9.500 KM
