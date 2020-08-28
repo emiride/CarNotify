@@ -392,7 +392,6 @@ https://www.olx.ba/artikal/39451763/peugeot-301/, 16.000 KM
 https://www.olx.ba/artikal/39485934/ford-focus-2012-limuzina-uvoz-ch-top/, 11.999 KM
 https://www.olx.ba/artikal/39480905/mini-one-1-4-r56-model-2011-mini-cooper/, 15.600 KM
 https://www.olx.ba/artikal/38934870/dacia-duster/, 12.500 KM
-https://www.olx.ba/artikal/39444532/fiat-punto-evo-1-4-turbo/, 14.000 KM
 https://www.olx.ba/artikal/39490065/kia-rio-1-2-benzin/, 13.700 KM
 https://www.olx.ba/artikal/39493029/audi-a4/, 10.000 KM
 https://www.olx.ba/artikal/38975448/dacia-sandero-1-4-2011-g-klima/, 5.800 KM
@@ -422,7 +421,6 @@ https://www.olx.ba/artikal/39519403/peugeot-207/, 8.400 KM
 https://www.olx.ba/artikal/39521880/opel-astra/, 10.500 KM
 https://www.olx.ba/artikal/39521829/fiat-panda-2011-sekvent-plin/, 5.500 KM
 https://www.olx.ba/artikal/39522500/dacia-sandero-1-2-benzin-plin-2016/, 12.200 KM
-https://www.olx.ba/artikal/39404281/hyundai-i30-1-4-plin-prvi-vlasnik/, 9.300 KM
 https://www.olx.ba/artikal/39463056/citroen-c3-picasso/, 8.300 KM
 https://www.olx.ba/artikal/39526628/chevrolet-lacetti-1-4-benzin-registrovano/, 5.500 KM
 https://www.olx.ba/artikal/39527953/ford-fiesta/, 7.900 KM
@@ -452,3 +450,5 @@ https://www.olx.ba/artikal/39547534/skoda-citigo-1-0-benzin-2013-pesla-64000km/,
 https://www.olx.ba/artikal/39547417/peugeot-207-presao-104-hiljade-original/, 6.100 KM
 https://www.olx.ba/artikal/39547728/vw-polo-2015-novo-moze-zamjena/, 13.500 KM
 https://www.olx.ba/artikal/39510213/ford-fiesta-1-4-benzin-2011/, 7.300 KM
+https://www.olx.ba/artikal/39404281/hyundai-i30-1-4-plin-prvi-vlasnik/, 9.200 KM
+https://www.olx.ba/artikal/39549657/chevrolet-aveo-kupljen-25-02-2012-u-chevrolet-u-sarajev/, 6.500 KM
