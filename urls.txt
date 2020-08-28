@@ -369,7 +369,6 @@ https://www.olx.ba/artikal/39260683/dacia-sandero-1-2benzin-lpg-2013gp-klimanavi
 https://www.olx.ba/artikal/39402564/lada-niva-2010-novi-model/, 7.650 KM
 https://www.olx.ba/artikal/36338683/toyota-auris-1-33-benzin-2011-god/, 12.500 KM
 https://www.olx.ba/artikal/39451347/opel-corsa-1-2benzin-lpg-2012gp/, 9.500 KM
-https://www.olx.ba/artikal/39451292/fiat-panda-2017/, 12.900 KM
 https://www.olx.ba/artikal/39451140/seat-mii-1-0-mpi-2019-god/, 16.000 KM
 https://www.olx.ba/artikal/39450427/peugeot-206-plus-1-1-44kw-2011-god/, 5.850 KM
 https://www.olx.ba/artikal/39174854/ford-focus-1-6-benzin-lpg-euro-5-2012g/, 11.100 KM
@@ -422,7 +421,6 @@ https://www.olx.ba/artikal/39522500/dacia-sandero-1-2-benzin-plin-2016/, 12.200 
 https://www.olx.ba/artikal/39463056/citroen-c3-picasso/, 8.300 KM
 https://www.olx.ba/artikal/39526628/chevrolet-lacetti-1-4-benzin-registrovano/, 5.500 KM
 https://www.olx.ba/artikal/39527953/ford-fiesta/, 7.900 KM
-https://www.olx.ba/artikal/39513286/renault-clio/, 7.800 KM
 https://www.olx.ba/artikal/34460507/citroen-c-elysee/, 15.600 KM
 https://www.olx.ba/artikal/39476809/fiat-500-1-2-70-000-kilometara/, 9.900 KM
 https://www.olx.ba/artikal/39378655/hyundai-i30-presao-69-700-km/, 10.500 KM
@@ -453,3 +451,6 @@ https://www.olx.ba/artikal/39549657/chevrolet-aveo-kupljen-25-02-2012-u-chevrole
 https://www.olx.ba/artikal/39373558/seat-ibiza-benz-plin-presao-87-000/, 6.500 KM
 https://www.olx.ba/artikal/39551420/fiat-500l/, 12.800 KM
 https://www.olx.ba/artikal/39550899/fiat-panda/, 10.300 KM
+https://www.olx.ba/artikal/39451292/fiat-panda-2017/, 11.950 KM
+https://www.olx.ba/artikal/39513286/renault-clio/, 8.800 KM
+https://www.olx.ba/artikal/39552263/audi-a3/, 2.800 KM
