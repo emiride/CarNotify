@@ -136,7 +136,6 @@ https://www.olx.ba/artikal/36283726/chevrolet-aveo/, 1.400 KM
 https://www.olx.ba/artikal/38618538/otkup-starih-vozila-tel-062149245-okolina-konjica/, 200 KM
 https://www.olx.ba/artikal/36670174/alfa-romeo-mito-1-4-tb/, 10.500 KM
 https://www.olx.ba/artikal/38765753/kia-ceed-2015-god-1-4-benzin/, 14.900 KM
-https://www.olx.ba/artikal/36344679/peugeot-107-1-0-benzin-2011-mogucnost-na-rate/, 8.500 KM
 https://www.olx.ba/artikal/37515184/skoda-fabia/, 10.900 KM
 https://www.olx.ba/artikal/21695587/chevrolet-aveo/, 9.500 KM
 https://www.olx.ba/artikal/35147694/citroen-c3/, 11.800 KM
@@ -446,6 +445,8 @@ https://www.olx.ba/artikal/39542246/kia-pro-ceed-2015-presla-35-000-km/, 14.900 
 https://www.olx.ba/artikal/39542074/volkswagen-fox/, 6.300 KM
 https://www.olx.ba/artikal/38032135/volkswagen-up-2012-god-1-0-mpi/, 9.900 KM
 https://www.olx.ba/artikal/39358488/fiat-panda-2014-plin-klima-tek-reg-87-500-km/, 9.900 KM
-https://www.olx.ba/artikal/38731183/pezo-208-1-4-vti-benzin-plin-70-kw-41-000-km-2012-13-g/, 10.500 KM
 https://www.olx.ba/artikal/39469989/vw-up-facelift-2018g/, 8.900 KM
 https://www.olx.ba/artikal/39546525/peugeot-206-plus/, 7.500 KM
+https://www.olx.ba/artikal/36344679/peugeot-107-1-0-benzin-2011-mogucnost-na-rate/, 7.950 KM
+https://www.olx.ba/artikal/38731183/pezo-208-1-4-vti-benzin-plin-70-kw-41-000-km-2012-13-g/, 10.590 KM
+https://www.olx.ba/artikal/39547106/skoda-fabia-1-0-2014-g/, 12.500 KM
