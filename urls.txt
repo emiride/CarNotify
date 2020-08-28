@@ -54,7 +54,6 @@ https://www.olx.ba/artikal/39251478/peugeot-208-1-0-benzin-2013gp/, 10.500 KM
 https://www.olx.ba/artikal/24403940/lada-niva/, 11.500 KM
 https://www.olx.ba/artikal/39409019/suzuki-baleno-gl-1-2/, 14.000 KM
 https://www.olx.ba/artikal/37097244/renault-clio-2017-prvi-vlasnik/, 15.999 KM
-https://www.olx.ba/artikal/39408444/fiat-panda/, 4.800 KM
 https://www.olx.ba/artikal/39405630/volkswagen-polo/, 14.608 KM
 https://www.olx.ba/artikal/39399424/fiat-new-panda/, 11.500 KM
 https://www.olx.ba/artikal/38158370/peugeot-208/, 11.200 KM
@@ -452,3 +451,5 @@ https://www.olx.ba/artikal/39510213/ford-fiesta-1-4-benzin-2011/, 7.300 KM
 https://www.olx.ba/artikal/39404281/hyundai-i30-1-4-plin-prvi-vlasnik/, 9.200 KM
 https://www.olx.ba/artikal/39549657/chevrolet-aveo-kupljen-25-02-2012-u-chevrolet-u-sarajev/, 6.500 KM
 https://www.olx.ba/artikal/39373558/seat-ibiza-benz-plin-presao-87-000/, 6.500 KM
+https://www.olx.ba/artikal/39551420/fiat-500l/, 12.800 KM
+https://www.olx.ba/artikal/39550899/fiat-panda/, 10.300 KM
