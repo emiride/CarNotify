@@ -77,7 +77,6 @@ https://www.olx.ba/artikal/38757175/fiat-500-2010g-77-000km-garancija-na-vozilo/
 https://www.olx.ba/artikal/39298083/skoda-rapid-1-2-tsi-activ-2015-m-t-id-057/, 12.500 KM
 https://www.olx.ba/artikal/39378353/dacia-sandero-2010-god-1-vlasnik-107-00-presla/, 6.300 KM
 https://www.olx.ba/artikal/39374567/kupujem-chevrolet-aveo-po-nizoj-trzisnoj-cijeni/, 3.000 KM
-https://www.olx.ba/artikal/39373558/seat-ibiza-benz-plin-presao-87-000/, 6.790 KM
 https://www.olx.ba/artikal/38849542/peugeot-107-1-0-benzin/, 7.500 KM
 https://www.olx.ba/artikal/33172855/skoda-fabia-karavan/, 10.900 KM
 https://www.olx.ba/artikal/35594789/golf-6-cabriolet-cabrio/, 15.800 KM
@@ -452,3 +451,4 @@ https://www.olx.ba/artikal/39547728/vw-polo-2015-novo-moze-zamjena/, 13.500 KM
 https://www.olx.ba/artikal/39510213/ford-fiesta-1-4-benzin-2011/, 7.300 KM
 https://www.olx.ba/artikal/39404281/hyundai-i30-1-4-plin-prvi-vlasnik/, 9.200 KM
 https://www.olx.ba/artikal/39549657/chevrolet-aveo-kupljen-25-02-2012-u-chevrolet-u-sarajev/, 6.500 KM
+https://www.olx.ba/artikal/39373558/seat-ibiza-benz-plin-presao-87-000/, 6.500 KM
