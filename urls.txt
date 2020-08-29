@@ -181,7 +181,6 @@ https://www.olx.ba/artikal/38755248/kupujem-garazu-na-grbavici-1/, PO DOGOVORU
 https://www.olx.ba/artikal/38729840/garaza-zagrebacka/, PO DOGOVORU
 https://www.olx.ba/artikal/35320491/garaza-parking-mjesto/, PO DOGOVORU
 https://www.olx.ba/artikal/35829928/zasebna-garaza-unutar-objekta-novije-gradnje-ciglane/, 30.000 KM
-https://www.olx.ba/artikal/38703402/izvor-stanovi/, PO DOGOVORU
 https://www.olx.ba/artikal/31680557/garaza-na-sipu/, 90 KM
 https://www.olx.ba/artikal/38689915/garaza-sarajevo-novo-sarajevo/, 100 KM
 https://www.olx.ba/artikal/38638906/garaza-ilidza/, PO DOGOVORU
@@ -250,3 +249,4 @@ https://www.olx.ba/artikal/35136574/garaza-parking-mjesto-sarajevo-uniprometova-
 https://www.olx.ba/artikal/35092806/garaza-hrasnica/, PO DOGOVORU
 https://www.olx.ba/artikal/39555880/kupujem-garazu-u-opcini-stari-grad-sarajevo/, PO DOGOVORU
 https://www.olx.ba/artikal/39563351/garaza-sarajevo-novo-sarajevo/, PO DOGOVORU
+https://www.olx.ba/artikal/38703402/izvor-stan/, PO DOGOVORU
