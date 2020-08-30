@@ -170,7 +170,6 @@ https://www.olx.ba/artikal/38964445/parking-garaza-stup-tibra-22m2/, 13.158 KM
 https://www.olx.ba/artikal/37356402/garaza-sarajevo-stari-grad/, 120 KM
 https://www.olx.ba/artikal/33961200/parking-mjesto-tibra-stup-nukleus-lamela-b2/, 17.500 KM
 https://www.olx.ba/artikal/38899939/garaza-sarajevo-centar/, 100 KM
-https://www.olx.ba/artikal/38753820/garaza-na-ilidzi-15m2-pejton-u-zk/, PO DOGOVORU
 https://www.olx.ba/artikal/38696554/garaza-sarajevo-centar/, 70 KM
 https://www.olx.ba/artikal/32889504/garaza-kosevsko-brdo-prodaja-iznajmljivanje/, 12.500 KM
 https://www.olx.ba/artikal/38117651/garaza-ilidza/, 33 KM
@@ -251,3 +250,4 @@ https://www.olx.ba/artikal/39555880/kupujem-garazu-u-opcini-stari-grad-sarajevo/
 https://www.olx.ba/artikal/39563351/garaza-sarajevo-novo-sarajevo/, PO DOGOVORU
 https://www.olx.ba/artikal/38703402/izvor-stan/, PO DOGOVORU
 https://www.olx.ba/artikal/39566419/garaza-centar-sarajevo/, 30.000 KM
+https://www.olx.ba/artikal/38753820/garaza-na-ilidzi-15m2-pejton-u-zk/, 16.900 KM
