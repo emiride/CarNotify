@@ -165,7 +165,6 @@ https://www.olx.ba/artikal/38965146/parking-garaza-stup-tibra-15m2/, 8.784 KM
 https://www.olx.ba/artikal/38964730/parking-garaza-stup-tibra-16m2/, 9.354 KM
 https://www.olx.ba/artikal/38964609/parking-garaza-stup-tibra-17m2/, 10.014 KM
 https://www.olx.ba/artikal/38964445/parking-garaza-stup-tibra-22m2/, 13.158 KM
-https://www.olx.ba/artikal/37356402/garaza-sarajevo-stari-grad/, 120 KM
 https://www.olx.ba/artikal/33961200/parking-mjesto-tibra-stup-nukleus-lamela-b2/, 17.500 KM
 https://www.olx.ba/artikal/38899939/garaza-sarajevo-centar/, 100 KM
 https://www.olx.ba/artikal/38696554/garaza-sarajevo-centar/, 70 KM
@@ -253,3 +252,4 @@ https://www.olx.ba/artikal/38729840/garaza-zagrebacka-grbavica/, PO DOGOVORU
 https://www.olx.ba/artikal/39574459/garaza-u-bolnickoj-ulici-kod-ulaza-u-kcus-centar/, 110 KM
 https://www.olx.ba/artikal/39579942/garaza-marijin-dvor-kranjceviceva/, 20.000 KM
 https://www.olx.ba/artikal/39581630/trazim-garazu-stup/, PO DOGOVORU
+https://www.olx.ba/artikal/39584395/garaza-za-auto/, 100 KM
