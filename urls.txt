@@ -81,7 +81,6 @@ https://www.olx.ba/artikal/28366718/garaza-poslovni-prostor-pejton/, 17.500 KM
 https://www.olx.ba/artikal/39022479/izdajem-garazau-na-cengic-vili/, 75 KM
 https://www.olx.ba/artikal/39022503/garaza-na-cengic-vili-kod-velepekare/, 75 KM
 https://www.olx.ba/artikal/39418208/garaza-centar/, 110 KM
-https://www.olx.ba/artikal/34445810/aerodrom-sarajevo-parking-airport-sarajevo-parking/, 8 KM
 https://www.olx.ba/artikal/34896292/kupujem-garazu-cengic-vila/, PO DOGOVORU
 https://www.olx.ba/artikal/38829447/garaza-sarajevo-novo-sarajevo/, PO DOGOVORU
 https://www.olx.ba/artikal/37218361/garaza-centar-sarajevo/, 100 KM
@@ -102,7 +101,6 @@ https://www.olx.ba/artikal/39269794/prostor-prodaje-skladisni-parking-prostor-po
 https://www.olx.ba/artikal/35533036/garaza-garazno-mjesto-u-zgradi-novije-gradnje-stup/, 9.000 KM
 https://www.olx.ba/artikal/23444607/garaza-na-vracama/, 10.000 KM
 https://www.olx.ba/artikal/33915987/kupujem-garazu-grbavica-pofalici/, 13.800 KM
-https://www.olx.ba/artikal/39339853/izdajem-garaza-veneto-otoka-sarajevo/, 80 KM
 https://www.olx.ba/artikal/39279061/parking-mjesto-u-podzemnoj-garazi/, 90 KM
 https://www.olx.ba/artikal/39321100/garaza-sarajevo-centar-cobanija/, 70 KM
 https://www.olx.ba/artikal/39321048/garaza-sarajevo-stari-grad/, 80 KM
@@ -254,3 +252,5 @@ https://www.olx.ba/artikal/39590976/garaza-sarajevo-novo-sarajevo/, 80 KM
 https://www.olx.ba/artikal/39566419/garaza-centar-sarajevo/, PO DOGOVORU
 https://www.olx.ba/artikal/39598671/izdajem-garazu-na-cengic-vili/, PO DOGOVORU
 https://www.olx.ba/artikal/39588503/garaza-sarajevo-centar-bare-sip/, 130 KM
+https://www.olx.ba/artikal/39339853/izdajem-garaza-veneto-otoka-sarajevo/, PO DOGOVORU
+https://www.olx.ba/artikal/36052276/garaza-na-prodaju/, PO DOGOVORU
