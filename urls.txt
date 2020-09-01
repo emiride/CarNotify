@@ -4,7 +4,6 @@ https://www.olx.ba/artikal/34094704/garaza-sarajevo-zgrada-papagajka/, PO DOGOVO
 https://www.olx.ba/artikal/38685065/500578-garaza-12m2-prodaja-grbavica-soping-centar/, 11.900 KM
 https://www.olx.ba/artikal/30746194/izdajem-garazu-u-centru/, PO DOGOVORU
 https://www.olx.ba/artikal/39548470/izdaje-se-garaza/, 65 KM
-https://www.olx.ba/artikal/39394795/garaza-grbavica/, 100 KM
 https://www.olx.ba/artikal/38137250/prodajem-garazu-17-m-2-tibra-stup-1-etaza-uz-rampu/, 12.990 KM
 https://www.olx.ba/artikal/32378069/prodajem-garazu-u-centru-grada/, 8.000 KM
 https://www.olx.ba/artikal/35311952/prodajem-garazu-18m2/, 8.500 KM
@@ -254,3 +253,4 @@ https://www.olx.ba/artikal/39598671/izdajem-garazu-na-cengic-vili/, PO DOGOVORU
 https://www.olx.ba/artikal/39588503/garaza-sarajevo-centar-bare-sip/, 130 KM
 https://www.olx.ba/artikal/39339853/izdajem-garaza-veneto-otoka-sarajevo/, PO DOGOVORU
 https://www.olx.ba/artikal/36052276/garaza-na-prodaju/, PO DOGOVORU
+https://www.olx.ba/artikal/37281074/garaza-tibra-2/, 7.000 KM
