@@ -134,7 +134,6 @@ https://www.olx.ba/artikal/36028163/garaza-sarajevo-kolodvorska-sentada/, PO DOG
 https://www.olx.ba/artikal/36871895/dvije-garaza-sa-ostavom-tibra-1-b1/, 12.900 KM
 https://www.olx.ba/artikal/37501478/prodaje-se-garaza-sarajevo-stup/, PO DOGOVORU
 https://www.olx.ba/artikal/36517384/garaza-hrasnica/, 50 KM
-https://www.olx.ba/artikal/38023807/aerodrom-sarajevo-parking-garaza-airport-sarajevo/, 10 KM
 https://www.olx.ba/artikal/23146211/garaza-na-dobrinji-prodajem/, 11.200 KM
 https://www.olx.ba/artikal/30851483/garaza-ilidza/, PO DOGOVORU
 https://www.olx.ba/artikal/31861411/izdajem-garazu-na-cengic-vila/, 100 KM
@@ -255,3 +254,4 @@ https://www.olx.ba/artikal/37281074/garaza-tibra-2/, 7.000 KM
 https://www.olx.ba/artikal/39605828/garaza-grbavica/, 100 KM
 https://www.olx.ba/artikal/39605485/izdajem-garazu-srdjana-aleksica-2-sarajevo/, PO DOGOVORU
 https://www.olx.ba/artikal/39606998/garaza-sarajevo-novo-sarajevo-grbavica/, PO DOGOVORU
+https://www.olx.ba/artikal/38023807/aerodrom-sarajevo-parking-garaza-airport-sarajevo/, 8 KM
