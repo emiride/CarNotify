@@ -121,7 +121,6 @@ https://www.olx.ba/artikal/37377152/garaza-vogosca/, 10.000 KM
 https://www.olx.ba/artikal/37377151/garaza-vogosca/, 10.000 KM
 https://www.olx.ba/artikal/39283042/garaza-cengic-vila/, 80 KM
 https://www.olx.ba/artikal/37943617/garaza-cengic-vila-16m2/, 11.000 KM
-https://www.olx.ba/artikal/36891399/garaza/, PO DOGOVORU
 https://www.olx.ba/artikal/38853439/garaza-sarajevo-grbavica/, PO DOGOVORU
 https://www.olx.ba/artikal/39267212/iznajmljujem-garazu-na-dobrinji/, 150 KM
 https://www.olx.ba/artikal/38199106/garaza-u-hrasnici-hrasnica/, 50 KM
@@ -259,3 +258,4 @@ https://www.olx.ba/artikal/39619441/garaza-kovacici-ul-emerika-bluma-ili-ljublja
 https://www.olx.ba/artikal/39613627/garaza-u-ulici-rizaha-stetica/, 120 KM
 https://www.olx.ba/artikal/35037937/grbavica-garaza/, 90 KM
 https://www.olx.ba/artikal/39339853/izdajem-garaza-veneto-otoka-sarajevo/, 80 KM
+https://www.olx.ba/artikal/39148881/garazno-mjesto/, 100 KM
