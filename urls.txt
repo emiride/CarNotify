@@ -243,7 +243,6 @@ https://www.olx.ba/artikal/39590976/garaza-sarajevo-novo-sarajevo/, 80 KM
 https://www.olx.ba/artikal/39566419/garaza-centar-sarajevo/, PO DOGOVORU
 https://www.olx.ba/artikal/39598671/izdajem-garazu-na-cengic-vili/, PO DOGOVORU
 https://www.olx.ba/artikal/39588503/garaza-sarajevo-centar-bare-sip/, 130 KM
-https://www.olx.ba/artikal/39339853/izdajem-garaza-veneto-otoka-sarajevo/, PO DOGOVORU
 https://www.olx.ba/artikal/36052276/garaza-na-prodaju/, PO DOGOVORU
 https://www.olx.ba/artikal/37281074/garaza-tibra-2/, 7.000 KM
 https://www.olx.ba/artikal/39606998/garaza-sarajevo-novo-sarajevo-grbavica/, PO DOGOVORU
@@ -259,3 +258,4 @@ https://www.olx.ba/artikal/39605485/izdajem-garazu-u-sarajevu/, PO DOGOVORU
 https://www.olx.ba/artikal/39619441/garaza-kovacici-ul-emerika-bluma-ili-ljubljanska/, PO DOGOVORU
 https://www.olx.ba/artikal/39613627/garaza-u-ulici-rizaha-stetica/, 120 KM
 https://www.olx.ba/artikal/35037937/grbavica-garaza/, 90 KM
+https://www.olx.ba/artikal/39339853/izdajem-garaza-veneto-otoka-sarajevo/, 80 KM
