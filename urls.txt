@@ -107,7 +107,6 @@ https://www.olx.ba/artikal/36639637/garaza-pofalic/, PO DOGOVORU
 https://www.olx.ba/artikal/38839753/parking-mjesto-garaza-stup-tibra-ii/, 10.500 KM
 https://www.olx.ba/artikal/38550532/izdavanje-garaza-marin-dvor/, 120 KM
 https://www.olx.ba/artikal/39304104/garaza-sarajevo-centar-bare-jukiceva/, 6.999 KM
-https://www.olx.ba/artikal/39296003/parking-prostor-unutar-poslovne-zgrade/, 100 KM
 https://www.olx.ba/artikal/37157462/garaza-ilidza/, 7.500 KM
 https://www.olx.ba/artikal/27752390/prodajem-garazu-vrbanja-kod-ohr-a/, 10.500 KM
 https://www.olx.ba/artikal/23196037/izdajem-garazu-na-visnjiku/, 100 KM
@@ -257,3 +256,4 @@ https://www.olx.ba/artikal/36891399/garaza/, PO DOGOVORU
 https://www.olx.ba/artikal/39635617/izdajem-garazu-grbavica/, 80 KM
 https://www.olx.ba/artikal/39638434/parking/, PO DOGOVORU
 https://www.olx.ba/artikal/39286854/izdajem-garazu/, 80 KM
+https://www.olx.ba/artikal/39642201/garaza-garazno-mjesto-nova-otoka-novi-grad/, 60 KM
