@@ -49,7 +49,6 @@ https://www.olx.ba/artikal/38872297/garaza-meandar-otoka-100km/, 100 KM
 https://www.olx.ba/artikal/18136187/kupujem-garazu-u-opstini-centar/, PO DOGOVORU
 https://www.olx.ba/artikal/30223133/sigenx-prodaje-garaza-stup-tibra-parking/, 9.999 KM
 https://www.olx.ba/artikal/13577538/prodaja-i-najam-garaznih-mjesta-u-naselju-tibra-2/, PO DOGOVORU
-https://www.olx.ba/artikal/33873245/kupujem-stan-1-2-dobrinja/, 85.000 KM
 https://www.olx.ba/artikal/38391572/garaza-vraca/, 90 KM
 https://www.olx.ba/artikal/39475337/garaza-cobaniji-centar/, PO DOGOVORU
 https://www.olx.ba/artikal/28571815/podzemna-garaza-hrasnica/, PO DOGOVORU
@@ -255,3 +254,4 @@ https://www.olx.ba/artikal/39635617/izdajem-garazu-grbavica/, 80 KM
 https://www.olx.ba/artikal/39638434/parking/, PO DOGOVORU
 https://www.olx.ba/artikal/39286854/izdajem-garazu/, 80 KM
 https://www.olx.ba/artikal/39642201/garaza-garazno-mjesto-nova-otoka-novi-grad/, 60 KM
+https://www.olx.ba/artikal/33873245/kupujem-dobrinja/, 100.000 KM
