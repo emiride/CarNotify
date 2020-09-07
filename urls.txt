@@ -96,7 +96,6 @@ https://www.olx.ba/artikal/35533036/garaza-garazno-mjesto-u-zgradi-novije-gradnj
 https://www.olx.ba/artikal/23444607/garaza-na-vracama/, 10.000 KM
 https://www.olx.ba/artikal/33915987/kupujem-garazu-grbavica-pofalici/, 13.800 KM
 https://www.olx.ba/artikal/39279061/parking-mjesto-u-podzemnoj-garazi/, 90 KM
-https://www.olx.ba/artikal/39321100/garaza-sarajevo-centar-cobanija/, 70 KM
 https://www.olx.ba/artikal/39321048/garaza-sarajevo-stari-grad/, 80 KM
 https://www.olx.ba/artikal/37235173/trazim-garazu/, PO DOGOVORU
 https://www.olx.ba/artikal/36804595/izdajem-garazu/, 100 KM
@@ -256,3 +255,5 @@ https://www.olx.ba/artikal/39258143/garaza-sarajevo-stari-grad/, PO DOGOVORU
 https://www.olx.ba/artikal/33873245/kupujem-dobrinja/, 105.000 KM
 https://www.olx.ba/artikal/38753820/garaza-na-ilidzi-15m2-pejton-u-zk/, PO DOGOVORU
 https://www.olx.ba/artikal/39658268/garaza-ilidza/, 50 KM
+https://www.olx.ba/artikal/39663514/garaza-sarajevo-novi-grad/, PO DOGOVORU
+https://www.olx.ba/artikal/39663341/garaza-sarajevo-centar-12-5m2-sutjeska-br-18/, 100 KM
