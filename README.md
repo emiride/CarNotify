@@ -17,7 +17,7 @@ This project doesn't have any license and I don't take any responsibility on the
   - SENDING_EMAIL - Email address from which email will be sent
   - SENDING_EMAIL_PASSWORD - Password for this email
       If you are using gmail as a sending email make sure to disable all security :D 
-      (If you are ready to do this, you need to [enable less secure apps](https://myaccount.google.com/lesssecureapps) and [remove reCaptcha](https://accounts.google.com/b/0/DisplayUnlockCaptcha))
+      (If you are ready to do this, you need to [enable less secure apps](https://myaccount.google.com/lesssecureapps) and [remove reCaptcha](https://accounts.google.com/b/0/DisplayUnlockCaptcha)
   - RECEIVING_EMAIL - Email address to which you want to receive email
 
 4. Change url in ```scraper.py``` to whatever your search criteria is
