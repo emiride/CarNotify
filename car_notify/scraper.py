@@ -42,7 +42,7 @@ def main():
     helper_methods.save_cars(current_cars)
     email_body = helper_methods.get_email_body(new_cars_to_mail, deleted_cars_to_mail, changed_cars_price_to_mail)
     if len(deleted_cars_to_mail) != 0 or len(new_cars_to_mail) != 0:
-        helper_methods.send_gmail("emir.hodzex@gmail.com", "NajnovijaSifr@", ["emir.hodzich@gmail.com"], "OLX update", email_body)
+        helper_methods.send_gmail(os.environ.get("SENDING_EMAIL"), os.environ.get("SENDING_EMAIL_PASSWORD"), [os.environ.get("RECEIVING_EMAIL")], "OLX update", email_body)
     
 if __name__ == '__main__':
     main()
