@@ -3,6 +3,7 @@
 CarNotify is a simple script that is used to track cars on https://olx.ba website and inform about price changes on email.
 You don't need any database for it, it saves data in file that commits itself on each run.
 
+At this stage it will inform you about new products, deleted products and products for which prices have changed.
 ## Modification
 
 This project doesn't have any license and I don't take any responsibility on the way it is used. I don't have to be credited, you can do whatever you like with it. With that said, here is the way to use it and modify it for your own needs.
