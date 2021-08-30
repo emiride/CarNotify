@@ -2,8 +2,8 @@ name: Scrape
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: '*/10 * * * *'
+  schedule:
+    - cron: '*/20 * * * *'
 env:
   SENDING_EMAIL: ${{ secrets.SENDING_EMAIL }}
   RECEIVING_EMAIL: ${{ secrets.RECEIVING_EMAIL }}
