@@ -73,7 +73,6 @@ https://www.olx.ba/artikal/44423433/renault-clio-1-2-benzin-43-kw-063-513-513/, 
 https://www.olx.ba/artikal/44423294/renault-modus-2011g/, 6.500 KM
 https://www.olx.ba/artikal/44422559/renault-clio/, 1.000 KM
 https://www.olx.ba/artikal/44041004/renault-twingo-tek-registrovan/, 3.200 KM
-https://www.olx.ba/artikal/44422134/renault-clio-1-2-benzin-plusplin/, 7.800 KM
 https://www.olx.ba/artikal/44421936/renault-twingo-1-2-benzin-polu-automatic-ocuvan/, 3.300 KM
 https://www.olx.ba/artikal/44177594/renault-espace/, 2.600 KM
 https://www.olx.ba/artikal/44421270/reno-19/, 750 KM
@@ -296,7 +295,6 @@ https://www.olx.ba/artikal/37155516/renault-megane-1-6-automatik/, 6.500 KM
 https://www.olx.ba/artikal/44215608/renault-megane/, 1.100 KM
 https://www.olx.ba/artikal/44214318/renault-scenic/, 1.900 KM
 https://www.olx.ba/artikal/38586082/renault-modus-1-2-tce-16v-dynamique/, 6.500 KM
-https://www.olx.ba/artikal/44210547/renault-scenic-1-4-16v-plin-registrovan-moze-zamjena/, 4.000 KM
 https://www.olx.ba/artikal/32014240/renault-safrane-3-0-v6/, 5.900 KM
 https://www.olx.ba/artikal/40227203/renault-clio-1-2-2000g-p-4-5vrata-klima-reg-do-18-8-22/, 2.500 KM
 https://www.olx.ba/artikal/43047895/renault-twingo-1-2-benzin-kao-nov-potrosnja-4-5-lit/, 5.900 KM
@@ -689,7 +687,6 @@ https://www.olx.ba/artikal/33517063/renault-spider-wind/, 12.000 KM
 https://www.olx.ba/artikal/41178057/renault-clio/, 3.250 KM
 https://www.olx.ba/artikal/44272805/renault-4-gtl/, 400 KM
 https://www.olx.ba/artikal/41105821/renault-fluence-1-6/, 13.900 KM
-https://www.olx.ba/artikal/41025431/renault-clio-1-2benzin-43kw/, 950 KM
 https://www.olx.ba/artikal/40931050/renault-laguna/, 1.700 KM
 https://www.olx.ba/artikal/33126210/reno-megan/, 3.000 KM
 https://www.olx.ba/artikal/40155989/renault-scenic/, 2.350 KM
@@ -758,3 +755,5 @@ https://www.olx.ba/artikal/44459154/renault-clio/, 2.550 KM
 https://www.olx.ba/artikal/44154957/renault-clio-1-6-16v-2001/, 2.300 KM
 https://www.olx.ba/artikal/44459578/moze-zamjena-za-golfa-2-dizela-uz-moju-doplatu/, 450 KM
 https://www.olx.ba/artikal/44459928/renault-laguna-1-8-benzin/, 2.100 KM
+https://www.olx.ba/artikal/44210547/renault-scenic-1-4-16v-plin-registrovan-moze-zamjena/, 3.500 KM
+https://www.olx.ba/artikal/41025431/renault-clio-1-2benzin-43kw/, 900 KM
