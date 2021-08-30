@@ -388,7 +388,6 @@ https://www.olx.ba/artikal/43645260/reno-19-registrovan-do-11-3-2022-1998-god/, 
 https://www.olx.ba/artikal/43520037/renault-espace/, 3.500 KM
 https://www.olx.ba/artikal/44062299/renault-clio-2-1-2-16v/, 3.500 KM
 https://www.olx.ba/artikal/44060732/renault-laguna/, 3.200 KM
-https://www.olx.ba/artikal/44059363/renault-clio/, 1.500 KM
 https://www.olx.ba/artikal/44058499/renault-twingo/, 2.300 KM
 https://www.olx.ba/artikal/41669602/renault-scenic/, 5.000 KM
 https://www.olx.ba/artikal/42703642/renault-scenic/, 1.300 KM
@@ -759,3 +758,5 @@ https://www.olx.ba/artikal/44460853/renault-kangoo/, 2.750 KM
 https://www.olx.ba/artikal/44460680/auto-reno-scenic/, 3.700 KM
 https://www.olx.ba/artikal/44461523/renault-clio/, 1.750 KM
 https://www.olx.ba/artikal/44461701/renault-clio/, 2.500 KM
+https://www.olx.ba/artikal/44462171/reno-megan-sedan-1-6-moze-zamjena/, 4.880 KM
+https://www.olx.ba/artikal/44462064/renault-megane-1-6-16v-benz-plin-2007-g-sedan/, 5.300 KM
