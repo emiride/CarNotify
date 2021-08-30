@@ -3,7 +3,7 @@ name: Scrape
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/20 * * * *'
+    - cron: '0 * * * *'
 env:
   SENDING_EMAIL: ${{ secrets.SENDING_EMAIL }}
   RECEIVING_EMAIL: ${{ secrets.RECEIVING_EMAIL }}
