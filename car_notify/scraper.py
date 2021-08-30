@@ -6,7 +6,7 @@ import os
 from car_model import CarModel
 from typing import List
 
-url = "https://www.olx.ba/pretraga?kategorija=30&id=2&stanje=0&vrstapregleda=grid&sort_order=desc&kanton=9&grad%5B%5D=3879&grad%5B%5D=3812&grad%5B%5D=3969&grad%5B%5D=5896&grad%5B%5D=4048&grad%5B%5D=4126&stranica="
+url = "https://www.olx.ba/pretraga?kategorija=18&id=1&stanje=0&vrstapregleda=grid&sort_order=desc&v_b=20700&do=15000&gorivo_select_benzin=Benzin&gorivo_select_plin=Plin"
 
 def main():
     current_cars: List[CarModel] = helper_methods.get_current_cars()
