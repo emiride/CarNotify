@@ -143,7 +143,6 @@ https://www.olx.ba/artikal/41496594/registrovana-renault-laguna-benzin-plin-ates
 https://www.olx.ba/artikal/43479837/renault-clio/, 2.800 KM
 https://www.olx.ba/artikal/44002175/renault-twingo/, 1.450 KM
 https://www.olx.ba/artikal/44357873/renault-laguna/, 1.800 KM
-https://www.olx.ba/artikal/44357677/renault-clio-klio-1-6-16v-klima-4vrata-reg-do-01-22/, 1.999 KM
 https://www.olx.ba/artikal/44357076/renault-clio/, 650 KM
 https://www.olx.ba/artikal/44356621/renault-clio-3/, 6.400 KM
 https://www.olx.ba/artikal/44356525/renault-clio/, 3.200 KM
@@ -757,3 +756,5 @@ https://www.olx.ba/artikal/44459578/moze-zamjena-za-golfa-2-dizela-uz-moju-dopla
 https://www.olx.ba/artikal/44459928/renault-laguna-1-8-benzin/, 2.100 KM
 https://www.olx.ba/artikal/44210547/renault-scenic-1-4-16v-plin-registrovan-moze-zamjena/, 3.500 KM
 https://www.olx.ba/artikal/41025431/renault-clio-1-2benzin-43kw/, 900 KM
+https://www.olx.ba/artikal/44357677/renault-clio-klio-1-6-16v-klima-4vrata-reg-do-01-22/, 1.899 KM
+https://www.olx.ba/artikal/44460606/reno-rapid-odjavljen/, 699 KM
