@@ -43,7 +43,6 @@ https://www.olx.ba/artikal/44441273/renault-megane/, 2.400 KM
 https://www.olx.ba/artikal/44107591/renault-megane-lpg-upisan/, 5.450 KM
 https://www.olx.ba/artikal/38507422/renault-clio/, 2.900 KM
 https://www.olx.ba/artikal/44440428/renault-r-19/, 1.550 KM
-https://www.olx.ba/artikal/44440198/renault-megane-1-4-benzin-odlican/, 1.850 KM
 https://www.olx.ba/artikal/44106990/renault-laguna/, 1.199 KM
 https://www.olx.ba/artikal/44438454/renault-laguna/, 3.200 KM
 https://www.olx.ba/artikal/43110308/renault-thalia-2002god-1-4benzin/, 1.800 KM
@@ -70,7 +69,6 @@ https://www.olx.ba/artikal/44423433/renault-clio-1-2-benzin-43-kw-063-513-513/, 
 https://www.olx.ba/artikal/44423294/renault-modus-2011g/, 6.500 KM
 https://www.olx.ba/artikal/44422559/renault-clio/, 1.000 KM
 https://www.olx.ba/artikal/44041004/renault-twingo-tek-registrovan/, 3.200 KM
-https://www.olx.ba/artikal/44421936/renault-twingo-1-2-benzin-polu-automatic-ocuvan/, 3.300 KM
 https://www.olx.ba/artikal/44177594/renault-espace/, 2.600 KM
 https://www.olx.ba/artikal/44421270/reno-19/, 750 KM
 https://www.olx.ba/artikal/42988066/renault-megane-1-4-benzin-g-p-2006-reg-do-03-22/, 4.500 KM
@@ -760,3 +758,4 @@ https://www.olx.ba/artikal/44461523/renault-clio/, 1.750 KM
 https://www.olx.ba/artikal/44461701/renault-clio/, 2.500 KM
 https://www.olx.ba/artikal/44462171/reno-megan-sedan-1-6-moze-zamjena/, 4.880 KM
 https://www.olx.ba/artikal/44462064/renault-megane-1-6-16v-benz-plin-2007-g-sedan/, 5.300 KM
+https://www.olx.ba/artikal/44462715/renault-twingo-1-2-benzin-polu-automatic-ocuvan/, 3.300 KM
