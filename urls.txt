@@ -344,7 +344,6 @@ https://www.olx.ba/artikal/42478475/renault-laguna/, 4.500 KM
 https://www.olx.ba/artikal/41998526/renault-clio-grandetur/, 13.600 KM
 https://www.olx.ba/artikal/35391483/renault-laguna-2-0-16v/, 2.500 KM
 https://www.olx.ba/artikal/44158142/renault-clio/, 2.350 KM
-https://www.olx.ba/artikal/44156882/renault-megane-1-6-16v-79kw-2001-god-reg-4-2022/, 1.899 KM
 https://www.olx.ba/artikal/44154795/renault-megane-cabrio-2-0-16v-lpg/, 6.500 KM
 https://www.olx.ba/artikal/44154544/renault-laguna/, 1.500 KM
 https://www.olx.ba/artikal/43690026/renault-scenic-1-6-16v/, 5.800 KM
@@ -354,7 +353,6 @@ https://www.olx.ba/artikal/43444108/renault-clio/, 2.600 KM
 https://www.olx.ba/artikal/44136730/renault-clio/, 1.350 KM
 https://www.olx.ba/artikal/32870512/renault-kangoo/, 5.100 KM
 https://www.olx.ba/artikal/44135213/renault-clio-1-4-benzin-plin/, 5.000 KM
-https://www.olx.ba/artikal/41252029/renault-clio-extra-stanje/, 3.500 KM
 https://www.olx.ba/artikal/44131895/renault-megane-1-6/, 3.500 KM
 https://www.olx.ba/artikal/44130521/renault-scenic/, 2.000 KM
 https://www.olx.ba/artikal/44262705/renault-scenic-1-6-16v/, 3.000 KM
@@ -408,7 +406,6 @@ https://www.olx.ba/artikal/42703642/renault-scenic/, 1.300 KM
 https://www.olx.ba/artikal/44054219/renault-clio/, 2.000 KM
 https://www.olx.ba/artikal/38712526/renault-clio/, 5.000 KM
 https://www.olx.ba/artikal/44053095/renault-megane/, 2.200 KM
-https://www.olx.ba/artikal/44052564/renault-megane-1-4tce-turbo-plin/, 13.500 KM
 https://www.olx.ba/artikal/39415507/reno-scenic-rx4/, 7.200 KM
 https://www.olx.ba/artikal/44042175/renault-clio/, 800 KM
 https://www.olx.ba/artikal/41358749/renault-twingo/, 2.100 KM
@@ -757,3 +754,7 @@ https://www.olx.ba/artikal/44457147/clio-dynamique-1-2benzin-16-v-clio-sport/, 3
 https://www.olx.ba/artikal/44154957/renault-clio-1-6-16v-moze-zamjena/, 2.300 KM
 https://www.olx.ba/artikal/44458251/renault-twingo/, 1.800 KM
 https://www.olx.ba/artikal/44458200/reno-clio-1-2-benzin-43kw-2000g-klima/, 2.000 KM
+https://www.olx.ba/artikal/44156882/renault-megane-1-6-16v-79kw-2001-god-reg-4-2022/, 1.849 KM
+https://www.olx.ba/artikal/41252029/renault-clio-extra-stanje/, 2.800 KM
+https://www.olx.ba/artikal/44052564/renault-megane-1-4tce-turbo-plin/, 12.000 KM
+https://www.olx.ba/artikal/44459023/renault-megane-grandtour-1-2-tce-2012/, 10.300 KM
