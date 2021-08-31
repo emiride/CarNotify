@@ -54,7 +54,6 @@ https://www.olx.ba/artikal/44435503/renault-clio-tek-registrovan/, 1.650 KM
 https://www.olx.ba/artikal/42989846/renault-megane-cabrio/, 8.500 KM
 https://www.olx.ba/artikal/44349743/renault-scenic-benzin-plin/, 1.300 KM
 https://www.olx.ba/artikal/44432908/renault-laguna/, 1.800 KM
-https://www.olx.ba/artikal/44432770/renault-clio/, 1.200 KM
 https://www.olx.ba/artikal/44430993/renault-clio/, 2.000 KM
 https://www.olx.ba/artikal/44430021/renault-twingo-tek-registrivan-extra-stanje/, 2.600 KM
 https://www.olx.ba/artikal/44121011/renault-scenic-rx4-4x4/, 5.100 KM
@@ -171,7 +170,6 @@ https://www.olx.ba/artikal/44332720/renault-clio/, 900 KM
 https://www.olx.ba/artikal/44331499/automobili-renault/, 2.900 KM
 https://www.olx.ba/artikal/44329715/renault-clio-moze-i-zamjena/, 3.000 KM
 https://www.olx.ba/artikal/44329512/twingo-1-2-benzin/, 900 KM
-https://www.olx.ba/artikal/44329132/renault-twingo-1-2-benzin-clio-fiesta-reno-corsa/, 1.000 KM
 https://www.olx.ba/artikal/43473007/renault-megane-1-6-16v-plin/, 2.600 KM
 https://www.olx.ba/artikal/44327740/renault-clio/, 9.800 KM
 https://www.olx.ba/artikal/44327567/renault-megan/, 3.000 KM
@@ -729,7 +727,6 @@ https://www.olx.ba/artikal/44156882/renault-megane-1-6-16v-79kw-2001-god-reg-4-2
 https://www.olx.ba/artikal/41252029/renault-clio-extra-stanje/, 2.800 KM
 https://www.olx.ba/artikal/44052564/renault-megane-1-4tce-turbo-plin/, 12.000 KM
 https://www.olx.ba/artikal/44459023/renault-megane-grandtour-1-2-tce-2012/, 10.300 KM
-https://www.olx.ba/artikal/44459587/renault-clio-reno-1-2-55kw-2002-god-reg-5-22-4-vrata/, 3.400 KM
 https://www.olx.ba/artikal/44459154/renault-clio/, 2.550 KM
 https://www.olx.ba/artikal/44154957/renault-clio-1-6-16v-2001/, 2.300 KM
 https://www.olx.ba/artikal/44459928/renault-laguna-1-8-benzin/, 2.100 KM
@@ -759,3 +756,7 @@ https://www.olx.ba/artikal/43414685/renault-clio-1-2-benzin-plus-plin/, 3.550 KM
 https://www.olx.ba/artikal/44466125/renault-clio/, 999 KM
 https://www.olx.ba/artikal/44465690/renault-kangoo/, 3.700 KM
 https://www.olx.ba/artikal/44464367/renault-twingo-liberty-1-2-43-kw-2000-g-registrovan/, 1.800 KM
+https://www.olx.ba/artikal/44467951/renault-clio-1-2-55kw-2002-god-reg-5-22-klima-4-vrata/, 3.400 KM
+https://www.olx.ba/artikal/44467845/renault-twingo-1-2-benzin-reno-clio-corsa-fiesta/, 850 KM
+https://www.olx.ba/artikal/44467724/twingo-1999-god/, 600 KM
+https://www.olx.ba/artikal/44420760/renault-megane/, 1.350 KM
