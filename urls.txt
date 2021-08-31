@@ -29,7 +29,6 @@ https://www.olx.ba/artikal/44361042/renault-megane-1-6-16v-lpg-presao-115-000-km
 https://www.olx.ba/artikal/44274670/reno-megan-plin-moze-zamjena/, 4.300 KM
 https://www.olx.ba/artikal/44200074/renault-kangoo/, 2.200 KM
 https://www.olx.ba/artikal/43853244/renault-grand-modus-model-2009god-u-extra-stanju/, 5.850 KM
-https://www.olx.ba/artikal/44444872/renault-clio-2001god-1-2-43kw-benzin-reg-do-30-06-22/, 1.550 KM
 https://www.olx.ba/artikal/44444236/reno-megan/, 4.990 KM
 https://www.olx.ba/artikal/43465724/renault-clio-1-2-benzin/, 3.500 KM
 https://www.olx.ba/artikal/44443177/reno-klio-1-4-benzin/, 1.700 KM
@@ -47,7 +46,6 @@ https://www.olx.ba/artikal/37771150/renault-scenic-rxt/, 2.950 KM
 https://www.olx.ba/artikal/43221015/renault-scenik-1-6-benz-plin/, 3.300 KM
 https://www.olx.ba/artikal/44436531/renault-fluence-1-6-benzin-2010-god/, 13.500 KM
 https://www.olx.ba/artikal/44273370/renault-megane/, 3.500 KM
-https://www.olx.ba/artikal/44435503/renault-clio-tek-registrovan/, 1.650 KM
 https://www.olx.ba/artikal/42989846/renault-megane-cabrio/, 8.500 KM
 https://www.olx.ba/artikal/44349743/renault-scenic-benzin-plin/, 1.300 KM
 https://www.olx.ba/artikal/44432908/renault-laguna/, 1.800 KM
@@ -196,7 +194,6 @@ https://www.olx.ba/artikal/44301183/renault-scenic/, 1.350 KM
 https://www.olx.ba/artikal/44298570/renault-clio/, 2.400 KM
 https://www.olx.ba/artikal/41286319/renault-clio-sportski-moze-zamjena-1-2-16-v/, 3.000 KM
 https://www.olx.ba/artikal/41908149/reno-laguna-2/, 2.000 KM
-https://www.olx.ba/artikal/43144328/renault-clio-1-2/, 2.500 KM
 https://www.olx.ba/artikal/43135732/renault-twingo/, 1.900 KM
 https://www.olx.ba/artikal/41712296/renault-clio/, 6.800 KM
 https://www.olx.ba/artikal/43393681/renault-megane/, 5.300 KM
@@ -763,3 +760,5 @@ https://www.olx.ba/artikal/41531904/renault-grand-scenic-benzin-plin-2010-god/, 
 https://www.olx.ba/artikal/44474503/renault-scenic/, 4.600 KM
 https://www.olx.ba/artikal/44474115/renault-clio/, 450 KM
 https://www.olx.ba/artikal/44473969/renault-r-19/, 1.100 KM
+https://www.olx.ba/artikal/43144328/renault-clio-1-2/, 2.400 KM
+https://www.olx.ba/artikal/44475100/reno-clio-1-2benzin-43kw-reg-do-30-06-22/, 1.400 KM
