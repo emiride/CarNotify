@@ -312,7 +312,6 @@ https://www.olx.ba/artikal/37511066/remault-19/, 990 KM
 https://www.olx.ba/artikal/43839589/reno-twingo-1-2-43kw/, 2.900 KM
 https://www.olx.ba/artikal/44169429/renault-megane/, 1.750 KM
 https://www.olx.ba/artikal/37119591/renault-megane-3-1-6/, 11.290 KM
-https://www.olx.ba/artikal/41531904/renault-grand-scenic-benzin-plin-2010-god/, 8.900 KM
 https://www.olx.ba/artikal/44167925/renault-clio/, 2.300 KM
 https://www.olx.ba/artikal/42478475/renault-laguna/, 4.500 KM
 https://www.olx.ba/artikal/41998526/renault-clio-grandetur/, 13.600 KM
@@ -760,3 +759,7 @@ https://www.olx.ba/artikal/44469891/renault-laguna/, 1.200 KM
 https://www.olx.ba/artikal/44472991/renault-modus-modus/, 6.500 KM
 https://www.olx.ba/artikal/44473767/reno-clio-1-2b-98-god/, 1.000 KM
 https://www.olx.ba/artikal/44473492/renault-clio/, 2.550 KM
+https://www.olx.ba/artikal/41531904/renault-grand-scenic-benzin-plin-2010-god/, 8.700 KM
+https://www.olx.ba/artikal/44474503/renault-scenic/, 4.600 KM
+https://www.olx.ba/artikal/44474115/renault-clio/, 450 KM
+https://www.olx.ba/artikal/44473969/renault-r-19/, 1.100 KM
