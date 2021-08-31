@@ -491,7 +491,6 @@ https://www.olx.ba/artikal/43618758/scenic/, 3.500 KM
 https://www.olx.ba/artikal/43605586/renault-twingo/, 5.000 KM
 https://www.olx.ba/artikal/43604698/renault-twingo-97god-reg-do-11mjes/, 2.000 KM
 https://www.olx.ba/artikal/43493948/renault-twingo/, 4.999 KM
-https://www.olx.ba/artikal/43589037/renault-clio/, 3.200 KM
 https://www.olx.ba/artikal/43584569/renault-modus-2007-g-p-benzin/, 5.599 KM
 https://www.olx.ba/artikal/31630268/renault-clio-1-4-16v/, 3.200 KM
 https://www.olx.ba/artikal/43579733/reno-clio-1-2-benzin/, 3.500 KM
@@ -542,7 +541,6 @@ https://www.olx.ba/artikal/43275700/renault-megane/, 1.800 KM
 https://www.olx.ba/artikal/43269686/renault-r-4/, 2.700 KM
 https://www.olx.ba/artikal/35796000/twingo-rs/, 9.000 KM
 https://www.olx.ba/artikal/43259622/renault-megane-2/, 3.400 KM
-https://www.olx.ba/artikal/35344608/renault-scenic-1-6i-16v/, 4.000 KM
 https://www.olx.ba/artikal/43173036/renault-clio/, 1.500 KM
 https://www.olx.ba/artikal/36860250/renault-megane-coupe-benzin-plusplin-full/, 10.000 KM
 https://www.olx.ba/artikal/43166801/renault-scenic-moze-i-zamjena/, 2.000 KM
@@ -756,7 +754,10 @@ https://www.olx.ba/artikal/44466125/renault-clio/, 999 KM
 https://www.olx.ba/artikal/44465690/renault-kangoo/, 3.700 KM
 https://www.olx.ba/artikal/44464367/renault-twingo-liberty-1-2-43-kw-2000-g-registrovan/, 1.800 KM
 https://www.olx.ba/artikal/44467951/renault-clio-1-2-55kw-2002-god-reg-5-22-klima-4-vrata/, 3.400 KM
-https://www.olx.ba/artikal/44467845/renault-twingo-1-2-benzin-reno-clio-corsa-fiesta/, 850 KM
 https://www.olx.ba/artikal/44467724/twingo-1999-god/, 600 KM
 https://www.olx.ba/artikal/44420760/renault-megane/, 1.350 KM
 https://www.olx.ba/artikal/44468397/renault-laguna-benzin-plin-tek-registrovana/, 2.500 KM
+https://www.olx.ba/artikal/43589037/renault-clio/, 3.000 KM
+https://www.olx.ba/artikal/35344608/renault-scenic-1-6i-16v/, 3.500 KM
+https://www.olx.ba/artikal/44467845/renault-twingo-1-2-benzin-reno-clio-corsa-fiesta/, 900 KM
+https://www.olx.ba/artikal/44469310/renault-twingo/, 1.100 KM
