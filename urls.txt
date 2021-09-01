@@ -13,7 +13,6 @@ https://www.olx.ba/artikal/44454682/renault-megane/, 2.100 KM
 https://www.olx.ba/artikal/43965928/renault-clio-1-6-16v/, 2.500 KM
 https://www.olx.ba/artikal/44454064/renault-clio/, 4.400 KM
 https://www.olx.ba/artikal/44453896/renault-scenic-1-6-benzin-2001god-klima/, 2.100 KM
-https://www.olx.ba/artikal/44057096/renault-scenic/, 2.250 KM
 https://www.olx.ba/artikal/39139208/renault-twingo-2015-godina/, 12.200 KM
 https://www.olx.ba/artikal/43953203/renault-fluence/, 9.500 KM
 https://www.olx.ba/artikal/43463195/renault-clio-klima-1-2-benzin/, 2.450 KM
@@ -527,7 +526,6 @@ https://www.olx.ba/artikal/42276797/renault-megane-kupljen-nov-u-bih/, 4.850 KM
 https://www.olx.ba/artikal/43303882/renault-scenic/, 5.800 KM
 https://www.olx.ba/artikal/43275700/renault-megane/, 1.800 KM
 https://www.olx.ba/artikal/43269686/renault-r-4/, 2.700 KM
-https://www.olx.ba/artikal/35796000/twingo-rs/, 9.000 KM
 https://www.olx.ba/artikal/43259622/renault-megane-2/, 3.400 KM
 https://www.olx.ba/artikal/43173036/renault-clio/, 1.500 KM
 https://www.olx.ba/artikal/36860250/renault-megane-coupe-benzin-plusplin-full/, 10.000 KM
@@ -741,7 +739,6 @@ https://www.olx.ba/artikal/35344608/renault-scenic-1-6i-16v/, 3.500 KM
 https://www.olx.ba/artikal/44467845/renault-twingo-1-2-benzin-reno-clio-corsa-fiesta/, 900 KM
 https://www.olx.ba/artikal/44470001/renault-twingo-1-2-benzin-43kw-panorama/, 1.450 KM
 https://www.olx.ba/artikal/44472107/renault-megane/, 2.100 KM
-https://www.olx.ba/artikal/44471404/renault-megane/, 3.500 KM
 https://www.olx.ba/artikal/44469891/renault-laguna/, 1.200 KM
 https://www.olx.ba/artikal/44472991/renault-modus-modus/, 6.500 KM
 https://www.olx.ba/artikal/44473767/reno-clio-1-2b-98-god/, 1.000 KM
@@ -765,3 +762,5 @@ https://www.olx.ba/artikal/41252029/renault-clio-extra-stanje/, 2.500 KM
 https://www.olx.ba/artikal/44478731/renault-twingo-1-2-43kw-2002g-p/, 1.700 KM
 https://www.olx.ba/artikal/44421543/renault-clio-1-2-benzin-klima-odjavljen/, 2.200 KM
 https://www.olx.ba/artikal/44442141/renault-twingo/, 1.500 KM
+https://www.olx.ba/artikal/35796000/twingo-rs/, 8.800 KM
+https://www.olx.ba/artikal/44471404/renault-megane/, 5.000 KM
