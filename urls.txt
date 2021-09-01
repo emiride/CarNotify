@@ -23,7 +23,6 @@ https://www.olx.ba/artikal/44411237/scenic-2003g-veliki-servis-reg-03-2022g/, 2.
 https://www.olx.ba/artikal/44446323/renault-twingo-1-2-benzin-pali-vozi/, 550 KM
 https://www.olx.ba/artikal/44452666/renault-megane-1-4-benzin-plin-2005/, 3.950 KM
 https://www.olx.ba/artikal/44361042/renault-megane-1-6-16v-lpg-presao-115-000-km/, 5.600 KM
-https://www.olx.ba/artikal/44274670/reno-megan-plin-moze-zamjena/, 4.300 KM
 https://www.olx.ba/artikal/44200074/renault-kangoo/, 2.200 KM
 https://www.olx.ba/artikal/43853244/renault-grand-modus-model-2009god-u-extra-stanju/, 5.850 KM
 https://www.olx.ba/artikal/44444236/reno-megan/, 4.990 KM
@@ -32,7 +31,6 @@ https://www.olx.ba/artikal/44443177/reno-klio-1-4-benzin/, 1.700 KM
 https://www.olx.ba/artikal/44062794/renault-megane/, 1.555 KM
 https://www.olx.ba/artikal/44442047/renault-megane/, 1.500 KM
 https://www.olx.ba/artikal/44441273/renault-megane/, 2.400 KM
-https://www.olx.ba/artikal/44107591/renault-megane-lpg-upisan/, 5.450 KM
 https://www.olx.ba/artikal/38507422/renault-clio/, 2.900 KM
 https://www.olx.ba/artikal/44106990/renault-laguna/, 1.199 KM
 https://www.olx.ba/artikal/44438454/renault-laguna/, 3.200 KM
@@ -614,7 +612,6 @@ https://www.olx.ba/artikal/41032218/renault-twingo-prvi-vlasnik/, 10.000 KM
 https://www.olx.ba/artikal/38756833/renault-megane-1-6-benzin/, 2.200 KM
 https://www.olx.ba/artikal/41717994/renault-twingo-twingo/, 2.000 KM
 https://www.olx.ba/artikal/41641770/renault-clio/, 2.200 KM
-https://www.olx.ba/artikal/41633928/renault-megane-tek-registrovan/, 1.200 KM
 https://www.olx.ba/artikal/24069075/renault-scenic-benzin-plin/, 3.000 KM
 https://www.olx.ba/artikal/41558272/renault-megane-2010-uvoz-full-oprema/, 11.000 KM
 https://www.olx.ba/artikal/41504300/renaul-megane/, 1.900 KM
@@ -768,3 +765,5 @@ https://www.olx.ba/artikal/44346806/renault-twingo/, 2.550 KM
 https://www.olx.ba/artikal/44466125/renault-clio/, 900 KM
 https://www.olx.ba/artikal/44487288/vozila-automobile/, 2.700 KM
 https://www.olx.ba/artikal/44486699/renault-scenic-scenic/, 4.000 KM
+https://www.olx.ba/artikal/44274670/reno-megan-plin-tek-registrovan-moze-zamjena/, 4.900 KM
+https://www.olx.ba/artikal/44107591/renault-megane-2-0-lpg-upisan/, 5.450 KM
