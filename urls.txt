@@ -56,7 +56,6 @@ https://www.olx.ba/artikal/44103058/renault-vel-satis-2004g-automatic/, 3.900 KM
 https://www.olx.ba/artikal/44266389/renault-megane/, 1.700 KM
 https://www.olx.ba/artikal/44424984/renault-clio-1-2-8v-43kw/, 3.700 KM
 https://www.olx.ba/artikal/44423433/renault-clio-1-2-benzin-43-kw-063-513-513/, 2.600 KM
-https://www.olx.ba/artikal/44423294/renault-modus-2011g/, 6.500 KM
 https://www.olx.ba/artikal/44422559/renault-clio/, 1.000 KM
 https://www.olx.ba/artikal/44041004/renault-twingo-tek-registrovan/, 3.200 KM
 https://www.olx.ba/artikal/44177594/renault-espace/, 2.600 KM
@@ -717,7 +716,6 @@ https://www.olx.ba/artikal/44460680/auto-reno-scenic/, 3.700 KM
 https://www.olx.ba/artikal/44461523/renault-clio/, 1.750 KM
 https://www.olx.ba/artikal/44461701/renault-clio/, 2.500 KM
 https://www.olx.ba/artikal/44462171/reno-megan-sedan-1-6-moze-zamjena/, 4.880 KM
-https://www.olx.ba/artikal/44462064/renault-megane-1-6-16v-benz-plin-2007-g-sedan/, 5.300 KM
 https://www.olx.ba/artikal/44462715/renault-twingo-1-2-benzin-polu-automatic-ocuvan/, 3.300 KM
 https://www.olx.ba/artikal/44285879/renault-megan/, 1.000 KM
 https://www.olx.ba/artikal/41225945/renault-megane/, 1.500 KM
@@ -739,7 +737,6 @@ https://www.olx.ba/artikal/44467845/renault-twingo-1-2-benzin-reno-clio-corsa-fi
 https://www.olx.ba/artikal/44470001/renault-twingo-1-2-benzin-43kw-panorama/, 1.450 KM
 https://www.olx.ba/artikal/44472107/renault-megane/, 2.100 KM
 https://www.olx.ba/artikal/44469891/renault-laguna/, 1.200 KM
-https://www.olx.ba/artikal/44472991/renault-modus-modus/, 6.500 KM
 https://www.olx.ba/artikal/44473767/reno-clio-1-2b-98-god/, 1.000 KM
 https://www.olx.ba/artikal/44473492/renault-clio/, 2.550 KM
 https://www.olx.ba/artikal/41531904/renault-grand-scenic-benzin-plin-2010-god/, 8.700 KM
@@ -765,3 +762,6 @@ https://www.olx.ba/artikal/35796000/twingo-rs/, 8.800 KM
 https://www.olx.ba/artikal/44471404/renault-megane/, 5.000 KM
 https://www.olx.ba/artikal/44481949/renault-twingo/, 1.500 KM
 https://www.olx.ba/artikal/44482442/renault-megane-cabrio/, 3.050 KM
+https://www.olx.ba/artikal/44423294/renault-modus-2011g/, 6.200 KM
+https://www.olx.ba/artikal/44472991/renault-modus-modus/, 6.200 KM
+https://www.olx.ba/artikal/44462064/renault-megane-1-6-16v-benz-plin-2007-sedan-facelift/, 5.300 KM
