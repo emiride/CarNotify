@@ -123,7 +123,6 @@ https://www.olx.ba/artikal/44361503/renault-laguna/, 2.350 KM
 https://www.olx.ba/artikal/41761079/renault-clio-1-2-benzin-2004/, 4.900 KM
 https://www.olx.ba/artikal/41496594/registrovana-renault-laguna-benzin-plin-atest/, 1.999 KM
 https://www.olx.ba/artikal/43479837/renault-clio/, 2.800 KM
-https://www.olx.ba/artikal/44002175/renault-twingo/, 1.450 KM
 https://www.olx.ba/artikal/44357873/renault-laguna/, 1.800 KM
 https://www.olx.ba/artikal/44357076/renault-clio/, 650 KM
 https://www.olx.ba/artikal/44356621/renault-clio-3/, 6.400 KM
@@ -764,3 +763,4 @@ https://www.olx.ba/artikal/44421543/renault-clio-1-2-benzin-klima-odjavljen/, 2.
 https://www.olx.ba/artikal/44442141/renault-twingo/, 1.500 KM
 https://www.olx.ba/artikal/35796000/twingo-rs/, 8.800 KM
 https://www.olx.ba/artikal/44471404/renault-megane/, 5.000 KM
+https://www.olx.ba/artikal/44481949/renault-twingo/, 1.500 KM
