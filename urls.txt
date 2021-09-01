@@ -1,4 +1,3 @@
-https://www.olx.ba/artikal/44421543/renault-clio-1-2-benzin-klima-odjavljen/, 2.500 KM
 https://www.olx.ba/artikal/44320914/renault-twingo-1-0-benzin-2015-godina-registrovan/, 12.990 KM
 https://www.olx.ba/artikal/44426642/renault-clio-1-4-16v/, 5.900 KM
 https://www.olx.ba/artikal/44261453/renault-clio-1-2-benzin-2012-godina/, 8.500 KM
@@ -755,7 +754,6 @@ https://www.olx.ba/artikal/44473969/renault-r-19/, 1.100 KM
 https://www.olx.ba/artikal/43144328/renault-clio-1-2/, 2.400 KM
 https://www.olx.ba/artikal/44475100/reno-clio-1-2benzin-43kw-reg-do-30-06-22/, 1.400 KM
 https://www.olx.ba/artikal/44475377/renault-r-18/, 850 KM
-https://www.olx.ba/artikal/44442141/renault-twingo/, 1.250 KM
 https://www.olx.ba/artikal/44476158/renault-megane/, 4.000 KM
 https://www.olx.ba/artikal/35229157/renault-laguna/, 990 KM
 https://www.olx.ba/artikal/44127709/renault-clio/, 3.350 KM
@@ -766,3 +764,5 @@ https://www.olx.ba/artikal/34023982/renault-megane/, 1.250 KM
 https://www.olx.ba/artikal/35903072/renault-laguna/, 650 KM
 https://www.olx.ba/artikal/41252029/renault-clio-extra-stanje/, 2.500 KM
 https://www.olx.ba/artikal/44478731/renault-twingo-1-2-43kw-2002g-p/, 1.700 KM
+https://www.olx.ba/artikal/44421543/renault-clio-1-2-benzin-klima-odjavljen/, 2.200 KM
+https://www.olx.ba/artikal/44442141/renault-twingo/, 1.500 KM
