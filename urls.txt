@@ -86,7 +86,6 @@ https://www.olx.ba/artikal/44400038/renault-laguna-registrovana-godinu/, 3.000 K
 https://www.olx.ba/artikal/37755744/clio-sport-2-0-16v/, 9.000 KM
 https://www.olx.ba/artikal/44398616/renault-clio-1-2/, 5.300 KM
 https://www.olx.ba/artikal/44398529/renault-laguna/, 2.400 KM
-https://www.olx.ba/artikal/44397754/renault-clio-2001god-benzin-43kw-registrovan/, 1.500 KM
 https://www.olx.ba/artikal/43379964/renault-twingo-dynamique-uvoz-svicarska/, 7.950 KM
 https://www.olx.ba/artikal/44396622/renault-megane/, 3.250 KM
 https://www.olx.ba/artikal/42665590/reno-clio/, 1.700 KM
@@ -765,3 +764,4 @@ https://www.olx.ba/artikal/44482442/renault-megane-cabrio/, 3.050 KM
 https://www.olx.ba/artikal/44423294/renault-modus-2011g/, 6.200 KM
 https://www.olx.ba/artikal/44472991/renault-modus-modus/, 6.200 KM
 https://www.olx.ba/artikal/44462064/renault-megane-1-6-16v-benz-plin-2007-sedan-facelift/, 5.300 KM
+https://www.olx.ba/artikal/44483917/renault-laguna/, 1.600 KM
