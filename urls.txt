@@ -328,7 +328,6 @@ https://www.olx.ba/artikal/44262705/renault-scenic-1-6-16v/, 3.000 KM
 https://www.olx.ba/artikal/39233658/renault-scenic/, 5.850 KM
 https://www.olx.ba/artikal/43330046/renault-megane-3-1-6-16v-benz-plin/, 8.000 KM
 https://www.olx.ba/artikal/44127721/renault-thalia-1-4-b-moze-zamjena/, 2.250 KM
-https://www.olx.ba/artikal/44127709/renault-clio/, 3.400 KM
 https://www.olx.ba/artikal/40316999/renault-scenic-model-2008-1-4-16v-benz-062664666/, 5.500 KM
 https://www.olx.ba/artikal/44126826/renault-clio/, 3.000 KM
 https://www.olx.ba/artikal/44126445/renault-laguna-2-facelift-2007g/, 5.250 KM
@@ -763,3 +762,5 @@ https://www.olx.ba/artikal/44475377/renault-r-18/, 850 KM
 https://www.olx.ba/artikal/44442141/renault-twingo/, 1.250 KM
 https://www.olx.ba/artikal/44476158/renault-megane/, 4.000 KM
 https://www.olx.ba/artikal/35229157/renault-laguna/, 990 KM
+https://www.olx.ba/artikal/44127709/renault-clio/, 3.350 KM
+https://www.olx.ba/artikal/42335695/renault-megane-2007-plin/, 5.450 KM
