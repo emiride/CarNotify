@@ -71,7 +71,6 @@ https://www.olx.ba/artikal/38723574/renault-megane/, 3.050 KM
 https://www.olx.ba/artikal/37790903/renault-scenic-1-4-16v-reg-08-03-2022/, 2.800 KM
 https://www.olx.ba/artikal/44139191/kupujem-renault-reno-twingo-tvingo/, 700 KM
 https://www.olx.ba/artikal/44063588/renault-clio-1-4benzin-registrovan-moze-zamjena-uz-moju/, 2.200 KM
-https://www.olx.ba/artikal/44403160/renault-megane-1-6-automatik-registrovan-moze-zamjena/, 4.500 KM
 https://www.olx.ba/artikal/43228151/renault-scenic/, 5.000 KM
 https://www.olx.ba/artikal/43308521/renault-cady/, 1.200 KM
 https://www.olx.ba/artikal/42486097/laguna-2-1-6-16v-2002/, 3.400 KM
@@ -85,7 +84,6 @@ https://www.olx.ba/artikal/44396622/renault-megane/, 3.250 KM
 https://www.olx.ba/artikal/42665590/reno-clio/, 1.700 KM
 https://www.olx.ba/artikal/44394605/renault-kangoo/, 1.100 KM
 https://www.olx.ba/artikal/36856157/scenic-1-6-16v-registrovan-do-04-2022/, 3.000 KM
-https://www.olx.ba/artikal/44393753/renault-megane-sedan-1-4-16v-benzin-lpg-extra-stanje/, 4.800 KM
 https://www.olx.ba/artikal/42278108/renault-clio/, 5.500 KM
 https://www.olx.ba/artikal/44387745/renault-twingo-1-2-benzin-top-stanje/, 1.350 KM
 https://www.olx.ba/artikal/42687209/renault-clio/, 2.650 KM
@@ -309,7 +307,6 @@ https://www.olx.ba/artikal/32870512/renault-kangoo/, 5.100 KM
 https://www.olx.ba/artikal/44135213/renault-clio-1-4-benzin-plin/, 5.000 KM
 https://www.olx.ba/artikal/44131895/renault-megane-1-6/, 3.500 KM
 https://www.olx.ba/artikal/44130521/renault-scenic/, 2.000 KM
-https://www.olx.ba/artikal/44262705/renault-scenic-1-6-16v/, 3.000 KM
 https://www.olx.ba/artikal/39233658/renault-scenic/, 5.850 KM
 https://www.olx.ba/artikal/43330046/renault-megane-3-1-6-16v-benz-plin/, 8.000 KM
 https://www.olx.ba/artikal/44127721/renault-thalia-1-4-b-moze-zamjena/, 2.250 KM
@@ -696,7 +693,6 @@ https://www.olx.ba/artikal/44210547/renault-scenic-1-4-16v-plin-registrovan-moze
 https://www.olx.ba/artikal/41025431/renault-clio-1-2benzin-43kw/, 900 KM
 https://www.olx.ba/artikal/44357677/renault-clio-klio-1-6-16v-klima-4vrata-reg-do-01-22/, 1.899 KM
 https://www.olx.ba/artikal/44460606/reno-rapid-odjavljen/, 699 KM
-https://www.olx.ba/artikal/44460853/renault-kangoo/, 2.750 KM
 https://www.olx.ba/artikal/44460680/auto-reno-scenic/, 3.700 KM
 https://www.olx.ba/artikal/44461523/renault-clio/, 1.750 KM
 https://www.olx.ba/artikal/44461701/renault-clio/, 2.500 KM
@@ -718,7 +714,6 @@ https://www.olx.ba/artikal/44468397/renault-laguna-benzin-plin-tek-registrovana/
 https://www.olx.ba/artikal/43589037/renault-clio/, 3.000 KM
 https://www.olx.ba/artikal/35344608/renault-scenic-1-6i-16v/, 3.500 KM
 https://www.olx.ba/artikal/44467845/renault-twingo-1-2-benzin-reno-clio-corsa-fiesta/, 900 KM
-https://www.olx.ba/artikal/44470001/renault-twingo-1-2-benzin-43kw-panorama/, 1.450 KM
 https://www.olx.ba/artikal/44472107/renault-megane/, 2.100 KM
 https://www.olx.ba/artikal/44469891/renault-laguna/, 1.200 KM
 https://www.olx.ba/artikal/44473492/renault-clio/, 2.550 KM
@@ -764,3 +759,6 @@ https://www.olx.ba/artikal/44491169/renault-modus/, 5.200 KM
 https://www.olx.ba/artikal/44491154/renault-megane/, 2.350 KM
 https://www.olx.ba/artikal/44491095/renault-megane/, 1.950 KM
 https://www.olx.ba/artikal/44458200/reno-clio-1-2-benzin-43kw-99g-klima/, 1.900 KM
+https://www.olx.ba/artikal/44262705/renault-scenic-1-6-16v/, 2.700 KM
+https://www.olx.ba/artikal/44492158/renault-megane-sedan-1-4-16v-benzin-lpg-2007-god/, 4.800 KM
+https://www.olx.ba/artikal/44492110/renault-scenic/, 3.700 KM
