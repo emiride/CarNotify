@@ -227,7 +227,6 @@ https://www.olx.ba/artikal/39622622/renault-laguna/, 3.500 KM
 https://www.olx.ba/artikal/41087438/renault-r-4/, 2.950 KM
 https://www.olx.ba/artikal/43884714/renault-fluence/, 11.954 KM
 https://www.olx.ba/artikal/40505334/renault-laguna-iii-2008-2-0t-full-oprema/, 10.000 KM
-https://www.olx.ba/artikal/44235686/renault-megane-1-6-16v/, 3.500 KM
 https://www.olx.ba/artikal/44235441/renault-4/, 5.400 KM
 https://www.olx.ba/artikal/44235326/renault-r-18/, 900 KM
 https://www.olx.ba/artikal/44232220/renault-megane/, 3.500 KM
@@ -731,7 +730,6 @@ https://www.olx.ba/artikal/38803917/renault-clio-extra-popust/, 900 KM
 https://www.olx.ba/artikal/36049441/renault-twingo/, 1.150 KM
 https://www.olx.ba/artikal/34023982/renault-megane/, 1.250 KM
 https://www.olx.ba/artikal/35903072/renault-laguna/, 650 KM
-https://www.olx.ba/artikal/41252029/renault-clio-extra-stanje/, 2.500 KM
 https://www.olx.ba/artikal/44478731/renault-twingo-1-2-43kw-2002g-p/, 1.700 KM
 https://www.olx.ba/artikal/44421543/renault-clio-1-2-benzin-klima-odjavljen/, 2.200 KM
 https://www.olx.ba/artikal/44442141/renault-twingo/, 1.500 KM
@@ -755,10 +753,11 @@ https://www.olx.ba/artikal/44274670/reno-megan-plin-tek-registrovan-moze-zamjena
 https://www.olx.ba/artikal/44107591/renault-megane-2-0-lpg-upisan/, 5.450 KM
 https://www.olx.ba/artikal/44266389/renault-megane/, 1.600 KM
 https://www.olx.ba/artikal/44488614/renault-megane-megane/, 6.200 KM
-https://www.olx.ba/artikal/44491169/renault-modus/, 5.200 KM
 https://www.olx.ba/artikal/44491154/renault-megane/, 2.350 KM
 https://www.olx.ba/artikal/44491095/renault-megane/, 1.950 KM
 https://www.olx.ba/artikal/44458200/reno-clio-1-2-benzin-43kw-99g-klima/, 1.900 KM
 https://www.olx.ba/artikal/44262705/renault-scenic-1-6-16v/, 2.700 KM
 https://www.olx.ba/artikal/44492158/renault-megane-sedan-1-4-16v-benzin-lpg-2007-god/, 4.800 KM
 https://www.olx.ba/artikal/44492110/renault-scenic/, 3.700 KM
+https://www.olx.ba/artikal/41252029/renault-clio-extra-stanje/, 2.300 KM
+https://www.olx.ba/artikal/44491169/renault-modus-2011g/, 5.200 KM
