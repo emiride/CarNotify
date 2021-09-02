@@ -703,7 +703,6 @@ https://www.olx.ba/artikal/35344608/renault-scenic-1-6i-16v/, 3.500 KM
 https://www.olx.ba/artikal/44467845/renault-twingo-1-2-benzin-reno-clio-corsa-fiesta/, 900 KM
 https://www.olx.ba/artikal/44472107/renault-megane/, 2.100 KM
 https://www.olx.ba/artikal/44469891/renault-laguna/, 1.200 KM
-https://www.olx.ba/artikal/44473492/renault-clio/, 2.550 KM
 https://www.olx.ba/artikal/41531904/renault-grand-scenic-benzin-plin-2010-god/, 8.700 KM
 https://www.olx.ba/artikal/44474503/renault-scenic/, 4.600 KM
 https://www.olx.ba/artikal/44474115/renault-clio/, 450 KM
@@ -764,3 +763,5 @@ https://www.olx.ba/artikal/44497606/renault-scenic-registrovan-citaj-detaljno/, 
 https://www.olx.ba/artikal/44420760/renault-megane/, 1.400 KM
 https://www.olx.ba/artikal/44499424/renault-clio/, 14.800 KM
 https://www.olx.ba/artikal/44499800/renault-clio/, 3.000 KM
+https://www.olx.ba/artikal/44473492/renault-clio/, 2.850 KM
+https://www.olx.ba/artikal/44500427/povoljno-rent-vozila/, 30 KM
