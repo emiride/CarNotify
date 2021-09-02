@@ -77,7 +77,6 @@ https://www.olx.ba/artikal/42486097/laguna-2-1-6-16v-2002/, 3.400 KM
 https://www.olx.ba/artikal/44400357/renault-twingo-1-2-benzin-tek-registrovan/, 6.300 KM
 https://www.olx.ba/artikal/44400038/renault-laguna-registrovana-godinu/, 3.000 KM
 https://www.olx.ba/artikal/37755744/clio-sport-2-0-16v/, 9.000 KM
-https://www.olx.ba/artikal/44398616/renault-clio-1-2/, 5.300 KM
 https://www.olx.ba/artikal/44398529/renault-laguna/, 2.400 KM
 https://www.olx.ba/artikal/43379964/renault-twingo-dynamique-uvoz-svicarska/, 7.950 KM
 https://www.olx.ba/artikal/44396622/renault-megane/, 3.250 KM
@@ -167,7 +166,6 @@ https://www.olx.ba/artikal/44309050/renault-megane/, 6.000 KM
 https://www.olx.ba/artikal/43449699/renault-megane/, 9.500 KM
 https://www.olx.ba/artikal/44307753/renault-megane/, 3.200 KM
 https://www.olx.ba/artikal/43564721/reno-megane-senic/, 2.300 KM
-https://www.olx.ba/artikal/43992462/renault-megane-3-2010g-1-6-16v/, 8.000 KM
 https://www.olx.ba/artikal/38864652/reno-clio-iv-tce-900cm-66kw-limited/, 14.400 KM
 https://www.olx.ba/artikal/44305911/renault-r-4-tls/, 9.500 KM
 https://www.olx.ba/artikal/43672011/renault-avantime-megane/, 1.600 KM
@@ -194,7 +192,6 @@ https://www.olx.ba/artikal/40032343/renault-laguna-plin/, 3.400 KM
 https://www.olx.ba/artikal/44277696/renault-scenic-megane-1-6-16v-benzin-2003-god/, 2.300 KM
 https://www.olx.ba/artikal/39811994/renault-scenic-14-16v-reg-08-03-2022/, 2.800 KM
 https://www.olx.ba/artikal/41136443/renault-clio/, 1.450 KM
-https://www.olx.ba/artikal/44274877/renault-clio-1-2-16v/, 3.500 KM
 https://www.olx.ba/artikal/43018544/renault-megane-1-6-sekvent-plin/, 900 KM
 https://www.olx.ba/artikal/32535739/renault-megane/, 2.200 KM
 https://www.olx.ba/artikal/42198299/renault-clio/, 2.200 KM
@@ -763,3 +760,6 @@ https://www.olx.ba/artikal/44496756/renault-clio/, 2.800 KM
 https://www.olx.ba/artikal/44496574/renault-clio/, 2.500 KM
 https://www.olx.ba/artikal/44496225/renault-r-5/, 480 KM
 https://www.olx.ba/artikal/44496824/renault-clio-1-2-ben-tek-reg-kao-nov/, 2.250 KM
+https://www.olx.ba/artikal/43992462/renault-megane-3-2010g-1-6-16v/, 7.950 KM
+https://www.olx.ba/artikal/44497867/renault-grand-scenic/, 4.850 KM
+https://www.olx.ba/artikal/44497606/renault-scenic-registrovan-citaj-detaljno/, 800 KM
