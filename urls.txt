@@ -389,7 +389,6 @@ https://www.olx.ba/artikal/43472595/renault-megane-rs/, 11.200 KM
 https://www.olx.ba/artikal/43934970/renault-clio-1-2-sekvent-plin/, 3.000 KM
 https://www.olx.ba/artikal/38761755/renault-megane-1-4-tce-130-ks-coupe/, 15.000 KM
 https://www.olx.ba/artikal/42157495/renault-laguna/, 1.400 KM
-https://www.olx.ba/artikal/43757557/renault-megane-1-6-coupe/, 1.450 KM
 https://www.olx.ba/artikal/43148948/renault-clio/, 8.300 KM
 https://www.olx.ba/artikal/43917759/renault-laguna/, 2.350 KM
 https://www.olx.ba/artikal/42582362/renault-megane/, 1.850 KM
@@ -765,3 +764,4 @@ https://www.olx.ba/artikal/44473492/renault-clio/, 2.850 KM
 https://www.olx.ba/artikal/44500427/povoljno-rent-vozila/, 30 KM
 https://www.olx.ba/artikal/44500471/renault-megane-1-6-automatik-registrovan-moze-zamjena/, 4.500 KM
 https://www.olx.ba/artikal/44464367/renault-twingo-liberty-1-2-43kw-2000g-reg-10-21/, 1.750 KM
+https://www.olx.ba/artikal/44501222/renault-clio/, 2.200 KM
