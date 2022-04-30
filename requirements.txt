@@ -4,4 +4,3 @@ idna==2.10
 lxml==4.5.2
 requests==2.24.0
 urllib3==1.25.10
-mailer==0.8.1

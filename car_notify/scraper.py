@@ -1,12 +1,9 @@
-import requests
-from lxml import html
 import helper_methods
-import smtplib
 import os
 from car_model import CarModel
 from typing import List
 
-url = "https://www.olx.ba/pretraga?sort_order=desc&kategorija=18&v_b=20700&do=15500&gorivo_select_benzin=Benzin&gorivo_select_plin=Plin&stranica="
+url = "https://www.olx.ba/pretraga?kategorija=18&stanje=&v_b=&od=&do=16000&kanton=&godiste_min=2010&godiste_max=&kilometra-a_min=0&kilometra-a_max=200000&konjskih-snaga_min=&konjskih-snaga_max=&kilovata-kw_min=&kilovata-kw_max=&kubikaza_min=&kubikaza_max="
 
 def main():
     current_cars: List[CarModel] = helper_methods.get_current_cars()
