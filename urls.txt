@@ -1115,7 +1115,6 @@ https://www.olx.ba/artikal/47763640/skoda-fabia/, 7.500 KM
 https://www.olx.ba/artikal/45978678/renault-clio/, 8.000 KM
 https://www.olx.ba/artikal/47571525/citroen-c4-2010-g-1-4-benzin/, 10.900 KM
 https://www.olx.ba/artikal/44869544/peugeot-3008-1-6-hdi-premium/, 13.500 KM
-https://www.olx.ba/artikal/43338493/peugeot-5008-1-6-hdi-active/, 13.800 KM
 https://www.olx.ba/artikal/40341031/seat-leon-1-6-tdi-reference/, 12.300 KM
 https://www.olx.ba/artikal/46585629/peugeot-pezo-207-2011-1-4-54kw/, 7.990 KM
 https://www.olx.ba/artikal/44456104/renault-grand-scenic-1-9-dci/, 10.600 KM
@@ -1257,7 +1256,6 @@ https://www.olx.ba/artikal/45990242/seat-ibiza/, 8.250 KM
 https://www.olx.ba/artikal/42592939/bmw-118-dizel-automatik/, 15.999 KM
 https://www.olx.ba/artikal/45582084/kupujem-automobile-za-otpad-stara-auta-lim/, 1.000 KM
 https://www.olx.ba/artikal/39380019/skoda-oktavija/, 10.500 KM
-https://www.olx.ba/artikal/47735947/citroen-c4-picasso-2011god1-6e-hditek-regmoze-zamj/, 9.900 KM
 https://www.olx.ba/artikal/38649266/renault-scenic-1-5-dci-moze-zamjena/, 9.950 KM
 https://www.olx.ba/artikal/46325149/citroen-ds3/, 10.500 KM
 https://www.olx.ba/artikal/45149374/citroen-c5-moze-zamjena/, 10.750 KM
@@ -1974,8 +1972,11 @@ https://www.olx.ba/artikal/43430379/otkup-automobila/, 600 KM
 https://www.olx.ba/artikal/43304229/otkup-automobila-od-250km-do-1000km/, 500 KM
 https://www.olx.ba/artikal/42927823/automobili-vozila-ispod-trzisne-cijene/, 1.500 KM
 https://www.olx.ba/artikal/38864652/reno-clio-iv-tce-900cm-66kw-limited/, 13.900 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/43481896/renault-megane-berline-1-6-16v-expression/, 10.500 KM
 https://www.olx.ba/artikal/44225756/renault-twingo-1-2-benzin-2012-godiste-7-250-km/, 7.250 KM
 https://www.olx.ba/artikal/42005943/renault-kangoo/, 9.200 KM
 https://www.olx.ba/artikal/43472595/renault-megane-rs/, 11.200 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47926432/peugeot-5008-1-6-hdi-active-navigacija/, 13.900 KM
+https://www.olx.ba/artikal/47926307/peugeot-308-sw-iz-uvoza-presao-136-000-km/, 11.500 KM
+https://www.olx.ba/artikal/47661724/citroen-c3-1-4hdi-mod-2013-exclusive/, 9.900 KM
