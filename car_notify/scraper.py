@@ -3,12 +3,13 @@ import os
 from car_model import CarModel
 from typing import List
 
-url = "https://www.olx.ba/pretraga?kategorija=18&stanje=&v_b=&od=&do=16000&kanton=&godiste_min=2010&godiste_max=&kilometra-a_min=0&kilometra-a_max=200000&konjskih-snaga_min=&konjskih-snaga_max=&kilovata-kw_min=&kilovata-kw_max=&kubikaza_min=&kubikaza_max="
+url = "https://www.olx.ba/pretraga?kategorija=18&do=16000&godiste_min=2010&kilometra-a_max=200000&stranica="
 
 def main():
     current_cars: List[CarModel] = helper_methods.get_current_cars()
     new_cars: List[CarModel] = []
-    for i in range(helper_methods.get_number_of_pages(url)):
+    number_of_pages = helper_methods.get_number_of_pages(url)
+    for i in range(number_of_pages):
         new_cars.extend(helper_methods.get_cars(url + str(i+1)))
 
     deleted_cars_to_mail = []

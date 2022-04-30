@@ -4,12 +4,14 @@ import math
 import smtplib
 from car_model import CarModel
 from typing import List
-
+headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36',
+    }
 def __get_number_of_results(url):
-    r = requests.get(url+"1")
+    r = requests.get(url, headers=headers)
     tree = html.fromstring(r.text)
     num_of_results = tree.xpath(".//div[@class='brojrezultata']/span")[0]
-    return int(num_of_results.text)
+    return int(num_of_results.text.replace(" ", "").replace(".", ""))
 
 def get_number_of_pages(url):
     num_of_results = __get_number_of_results(url)
@@ -26,7 +28,7 @@ def get_current_cars() -> List[CarModel]:
     return current_cars
 
 def get_cars(url) -> List[CarModel]:
-    r = requests.get(url)
+    r = requests.get(url, headers=headers)
     tree = html.fromstring(r.text)
     cars = tree.xpath(".//div[contains(@class,'imaHover')]")
     cars_list: List[CarModel] = []
