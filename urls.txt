@@ -820,7 +820,6 @@ https://www.olx.ba/artikal/47432349/peugeot-207-facelift-mala-kilometraza-uvoz-k
 https://www.olx.ba/artikal/47311914/fiat-500-1-2-2012-godina-panorama-alu-felge/, 9.999 KM
 https://www.olx.ba/artikal/45496241/citroen-c-elysee-1-2-301-registrovan-kupljen-nov-u-bih/, 10.950 KM
 https://www.olx.ba/artikal/44700331/renault-megane-1-6-benzin-plin/, 9.500 KM
-https://www.olx.ba/artikal/47523469/volkswagen-caddy/, 15.700 KM
 https://www.olx.ba/artikal/47841579/citroen-c4/, 12.500 KM
 https://www.olx.ba/artikal/47366836/kia-ceed-2010/, 7.200 KM
 https://www.olx.ba/artikal/40053575/citroen-c3-picasso/, 12.000 KM
@@ -1016,13 +1015,11 @@ https://www.olx.ba/artikal/47095235/volkswagen-polo-1-2-tdi-55kw-2011-godiste/, 
 https://www.olx.ba/artikal/47802795/suzuki-sx4-2-0-diesel-4x4-2011-godiste-u-dolasku/, 13.250 KM
 https://www.olx.ba/artikal/47362461/seat-ibiza-1-2-tdi/, 9.500 KM
 https://www.olx.ba/artikal/47802514/opel-astra-1-6-85-kw-2014-g-54-000kilometraza/, 15.900 KM
-https://www.olx.ba/artikal/47801598/opel-astra-j-automatfulluvoz-svajcarska/, 12.900 KM
 https://www.olx.ba/artikal/45968022/vw-golf-1-6-tdi-dizel-2012/, 11.700 KM
 https://www.olx.ba/artikal/47801036/volkswagen-polo-97000-kilometara-vw-polo/, 11.999 KM
 https://www.olx.ba/artikal/44080847/seat-toledo-tdi/, 13.800 KM
 https://www.olx.ba/artikal/47341898/peugeot-208-1-4hdi-2014-gp/, 12.200 KM
 https://www.olx.ba/artikal/46882191/peugeot-308-2010-plin/, 8.600 KM
-https://www.olx.ba/artikal/46962884/vw-up-1-0-benzinuvoz-svajcarska/, 11.350 KM
 https://www.olx.ba/artikal/47798444/volkswagen-golf/, 14.800 KM
 https://www.olx.ba/artikal/35061906/ford-kupujem/, 10.000 KM
 https://www.olx.ba/artikal/46425433/bmw-320-e90-2010-god/, 15.000 KM
@@ -1226,7 +1223,6 @@ https://www.olx.ba/artikal/42411079/renault-grand-scenic-iii-3-bose-senik-skenik
 https://www.olx.ba/artikal/42107889/dacia-logan/, 12.700 KM
 https://www.olx.ba/artikal/47327455/peugeot-207-1-6-hdiuvoz-svajcarska/, 10.500 KM
 https://www.olx.ba/artikal/44386069/peugeot-308-gtiuvoz-svajcarska/, 14.500 KM
-https://www.olx.ba/artikal/46031668/citroen-c3-picasso-1-6iuvoz-svajcarska/, 9.500 KM
 https://www.olx.ba/artikal/47473545/dacia-sandero/, 11.600 KM
 https://www.olx.ba/artikal/47728547/seat-exeo-2-0-tdi/, 14.500 KM
 https://www.olx.ba/artikal/47092932/citroen-ds3-1-6-benz-88kw-automatik-r-auto-uvoz-fran/, 11.150 KM
@@ -1962,7 +1958,12 @@ https://www.olx.ba/artikal/47933490/citroen-c-elysee-dizel-2015-god-registrovan/
 https://www.olx.ba/artikal/47862448/peugeot-207-cc-kabriolet-2010-god-tek-uvezen/, 9.900 KM
 https://www.olx.ba/artikal/47474850/renault-clio-1-5-dci-2018-19-god-facelift/, 15.999 KM
 https://www.olx.ba/artikal/47925879/golf-6-1-6-77kv-2011god/, 12.800 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/47823426/citroen-c-elysee-1-6-115ks-benzin-plin-2017-065-911-908/, 12.750 KM
 https://www.olx.ba/artikal/47710858/ford-fiesta-model-2013-god/, 7.800 KM
 https://www.olx.ba/artikal/42175737/mercedes-benz-a-clasa-2010-god-blue-efficiency-zamjena/, 9.700 KM
+https://www.olx.ba/artikal/47523469/volkswagen-caddy/, 15.600 KM
+https://www.olx.ba/artikal/47801598/opel-astra-j-automatfulluvoz-svajcarska/, 12.800 KM
+https://www.olx.ba/artikal/46962884/vw-up-1-0-benzinuvoz-svajcarska/, 10.999 KM
+https://www.olx.ba/artikal/46031668/citroen-c3-picasso-1-6iuvoz-svajcarska/, 9.300 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/46172520/citroen-c3/, 11.999 KM
