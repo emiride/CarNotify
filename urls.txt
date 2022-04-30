@@ -1744,7 +1744,6 @@ https://www.olx.ba/artikal/45523343/ford-fusion-1-4-16v-benzin-plin-2012-god-125
 https://www.olx.ba/artikal/41158894/ford-focus/, 11.000 KM
 https://www.olx.ba/artikal/44865169/citroen-c3/, 9.500 KM
 https://www.olx.ba/artikal/45618859/toyota-auris-1-4-d-4d/, 13.900 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/42591544/opel-astra/, 11.400 KM
 https://www.olx.ba/artikal/35517774/volkswagen-golf-6-2010god/, 14.700 KM
 https://www.olx.ba/artikal/34138894/golf-6-2-0-tdi/, 15.000 KM
@@ -1979,3 +1978,4 @@ https://www.olx.ba/artikal/38397802/kupujem-auta-do-500-km-ponudite/, 500 KM
 https://www.olx.ba/artikal/43430379/otkup-automobila/, 600 KM
 https://www.olx.ba/artikal/43304229/otkup-automobila-od-250km-do-1000km/, 500 KM
 https://www.olx.ba/artikal/42927823/automobili-vozila-ispod-trzisne-cijene/, 1.500 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
