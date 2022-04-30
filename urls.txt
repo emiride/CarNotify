@@ -12,7 +12,6 @@ https://www.olx.ba/artikal/46975956/citroen-c4-1-6-benzin-2011-godina-navigacija
 https://www.olx.ba/artikal/47117122/dacia-sandero-1-0-benzin-2017-godina-led-dnevna/, 10.300 KM
 https://www.olx.ba/artikal/47802970/renault-megane-1-5-dci-2014-god-navigacija-klima/, 12.300 KM
 https://www.olx.ba/artikal/47858953/citroen-c3-1-4-hdi-2011-godina-klima/, 8.999 KM
-https://www.olx.ba/artikal/47823426/citroen-c-elysee-1-6-benzin-plin-2017-065-911-908/, 13.200 KM
 https://www.olx.ba/artikal/47776431/golf-6-1-6tdi-2010g-192-450km-originalnih/, 12.999 KM
 https://www.olx.ba/artikal/47902851/renault-megane-1-5-dci-2014-god-navigacija-alu-felge/, 12.900 KM
 https://www.olx.ba/artikal/47490647/skoda-octavia/, 13.300 KM
@@ -172,7 +171,6 @@ https://www.olx.ba/artikal/47792144/seat-ibiza/, 8.800 KM
 https://www.olx.ba/artikal/47740331/twingo-gt-line-1-5-dizel-kao-nov-mod-2014-g/, 8.850 KM
 https://www.olx.ba/artikal/47235660/renault-fluence-1-6-benzin-plin/, 9.200 KM
 https://www.olx.ba/artikal/47318587/peugeot-308-1-6-hdi/, 13.990 KM
-https://www.olx.ba/artikal/47925879/volkswagen-golf/, 12.800 KM
 https://www.olx.ba/artikal/47679135/peugot-208-2014g-benzin-plin-moze-zamjena/, 12.500 KM
 https://www.olx.ba/artikal/47477439/seat-leon/, 10.500 KM
 https://www.olx.ba/artikal/47707501/peugeot-308-sw-2011g-p-1-6-hdi/, 8.900 KM
@@ -1957,9 +1955,12 @@ https://www.olx.ba/artikal/47382330/c3-businesseuro-62016lednavi/, 13.850 KM
 https://www.olx.ba/artikal/46508016/fiat-punto/, 7.600 KM
 https://www.olx.ba/artikal/47931579/renault-twingo-1-5-dci-2012-uvoz-cijena-do-reg/, 8.500 KM
 https://www.olx.ba/artikal/47793465/ford-focus-1-6-2011g/, 8.299 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/47780162/volkswagen-golf-1-6-tdi-2010-god/, 12.300 KM
 https://www.olx.ba/artikal/46720091/suzuki-jimny-jimi-1-3-benzin-4x4-dzip-2012-god/, 16.000 KM
 https://www.olx.ba/artikal/47933814/opel-meriva-1-7-cdti-2011-g-p/, 10.900 KM
 https://www.olx.ba/artikal/47933490/citroen-c-elysee-dizel-2015-god-registrovan/, 12.900 KM
 https://www.olx.ba/artikal/47862448/peugeot-207-cc-kabriolet-2010-god-tek-uvezen/, 9.900 KM
+https://www.olx.ba/artikal/47823426/citroen-c-elysee-1-6-benzin-plin-2017-065-911-908/, 12.750 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47474850/renault-clio-1-5-dci-2018-19-god-facelift/, 15.999 KM
+https://www.olx.ba/artikal/47925879/golf-6-1-6-77kv-2011god/, 12.800 KM
