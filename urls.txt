@@ -1844,7 +1844,6 @@ https://www.olx.ba/artikal/34112123/opel-zafira-1-7-motor-81kw-dizel-euro5-2013-
 https://www.olx.ba/artikal/38397802/kupujem-auta-do-500-km-ponudite/, 500 KM
 https://www.olx.ba/artikal/43430379/otkup-automobila/, 600 KM
 https://www.olx.ba/artikal/43304229/otkup-automobila-od-250km-do-1000km/, 500 KM
-https://www.olx.ba/artikal/42927823/automobili-vozila-ispod-trzisne-cijene/, 1.500 KM
 https://www.olx.ba/artikal/38864652/reno-clio-iv-tce-900cm-66kw-limited/, 13.900 KM
 https://www.olx.ba/artikal/43481896/renault-megane-berline-1-6-16v-expression/, 10.500 KM
 https://www.olx.ba/artikal/44225756/renault-twingo-1-2-benzin-2012-godiste-7-250-km/, 7.250 KM
@@ -1957,5 +1956,7 @@ https://www.olx.ba/artikal/44685318/peugeot-308-1-6-hdi-led-navi-panorama/, 15.3
 https://www.olx.ba/artikal/47942643/skoda-fabia-1-2-tdi-55-kw-2011-greenline/, 8.950 KM
 https://www.olx.ba/artikal/47943410/opel-astra-h-benzin-52-000-km/, 11.500 KM
 https://www.olx.ba/artikal/47943124/vw-golf-6-2-0-81kw/, 13.800 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/47473059/mini-cooper/, 15.000 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/34737190/skoda-octavia-dizel-2011/, 12.700 KM
+https://www.olx.ba/artikal/47941286/audi-a3/, 13.300 KM
