@@ -45,7 +45,6 @@ https://www.olx.ba/artikal/47201544/seat-altea-xl-1-2-tsi-77kw-12-2013god-160-00
 https://www.olx.ba/artikal/47718850/peugeot-208-1-4-hdi-2013-godina-klima/, 10.500 KM
 https://www.olx.ba/artikal/47909879/skoda-octavia-1-6-tdi/, 12.800 KM
 https://www.olx.ba/artikal/47805687/peugeot-2008-1-2-puretech-2014-godina-led-dnevna/, 15.800 KM
-https://www.olx.ba/artikal/46482719/vw-polo-1-2-tdi-6r-bluemotionaircoklimanavialu/, 10.900 KM
 https://www.olx.ba/artikal/45876789/ford-fiesta-1-6-tdci-econeticaircomodel-2013/, 10.900 KM
 https://www.olx.ba/artikal/45018000/fiat-grande-punto-1-3-jtd-klimamod-2012/, 7.400 KM
 https://www.olx.ba/artikal/46803652/seat-ibiza-1-2-tdi-st-bluemotionmod-2011/, 9.400 KM
@@ -83,7 +82,6 @@ https://www.olx.ba/artikal/47530809/peugeot-308-1-6-hdi-sw/, 9.499 KM
 https://www.olx.ba/artikal/47620449/opel-astra-j-2015god1-6cdti81kwtop-stanje/, 13.800 KM
 https://www.olx.ba/artikal/47918029/suzuki-sx4-4x4-2-0d-2010-god-rata-260-km-mjesecno/, 12.900 KM
 https://www.olx.ba/artikal/47917698/renault-scenic-iii-ful-oprema/, 11.500 KM
-https://www.olx.ba/artikal/44004482/vw-polo-1-2-tdi-bluemotionaircoklimanavialu/, 10.900 KM
 https://www.olx.ba/artikal/47676068/ford-fiesta-titanium-1-4-tdci-156000km/, 10.700 KM
 https://www.olx.ba/artikal/46341758/peugeot-5008-2011gp-allure-sport-1-6-benzin-101-000km/, 11.900 KM
 https://www.olx.ba/artikal/47527788/renault-clio/, 14.100 KM
@@ -995,7 +993,6 @@ https://www.olx.ba/artikal/45660335/peugeot-308-gti-200thp-platinium/, 12.999 KM
 https://www.olx.ba/artikal/44953538/opel-astra-j-1-6-cdti-euro-6-uvoz-tek-reg/, 13.200 KM
 https://www.olx.ba/artikal/47807222/skoda-skoda-fabia-1-2-tsi-2018g/, 15.500 KM
 https://www.olx.ba/artikal/47593497/volvo-v50-1-6-d2-2012-g-162000-km-servisna/, 12.300 KM
-https://www.olx.ba/artikal/47060573/renault-clio-1-5-dci/, 7.690 KM
 https://www.olx.ba/artikal/47806621/citroen-c4/, 11.200 KM
 https://www.olx.ba/artikal/46716451/audi-a3-bi-xenon-led-1-6-tdi-77-kw-model-2011-god/, 13.399 KM
 https://www.olx.ba/artikal/47368374/peugeot-207-2011-mod-godina-140-000km/, 8.500 KM
@@ -1963,4 +1960,11 @@ https://www.olx.ba/artikal/46172520/citroen-c3/, 11.999 KM
 https://www.olx.ba/artikal/47797372/volkswagen-golf-1-6-tdi-77-kw-2011-bluemotion/, 13.700 KM
 https://www.olx.ba/artikal/47644511/peugeot-206/, 8.100 KM
 https://www.olx.ba/artikal/46299571/skoda-fabia/, 7.000 KM
+https://www.olx.ba/artikal/47060573/renault-clio-1-5-dci/, 7.990 KM
 https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47613768/suzuki-sx4-4x4/, 10.350 KM
+https://www.olx.ba/artikal/47905135/renault-grand-scenic-1-5dci-81kw-model-2011-tek-reg/, 10.900 KM
+https://www.olx.ba/artikal/47759953/opel-corsa-1-3cdti-70kw-2011god-uvoz/, 6.900 KM
+https://www.olx.ba/artikal/47710024/peugeot-208/, 10.700 KM
+https://www.olx.ba/artikal/47935597/renault-clio-1-2-tce-2011-god/, 8.200 KM
+https://www.olx.ba/artikal/47935934/volkswagen-golf/, 12.300 KM
