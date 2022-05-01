@@ -655,7 +655,6 @@ https://www.olx.ba/artikal/46299257/citroen-c5-1-6-hdi-automatik/, 11.999 KM
 https://www.olx.ba/artikal/46342837/audi-a1-1-2-tfsi-155000km/, 14.700 KM
 https://www.olx.ba/artikal/47513308/citroen-ds3-1-6-thp-cabrio/, 15.000 KM
 https://www.olx.ba/artikal/47262476/ford-focus-1-6-tdci/, 12.700 KM
-https://www.olx.ba/artikal/47628432/ford-focus-2011-full-led/, 13.000 KM
 https://www.olx.ba/artikal/47449632/peugeot-208-1-6-bluehdi-allure-sport-facelift/, 15.500 KM
 https://www.olx.ba/artikal/46314878/renault-clio-1-5-dci-navy-facelift/, 15.400 KM
 https://www.olx.ba/artikal/47324420/renault-clio-1-5-dci-navy-facelift-90-ks/, 15.900 KM
@@ -1029,7 +1028,6 @@ https://www.olx.ba/artikal/45221831/seat-mii-1-0-benzin-presao-9600km-mod-2020/,
 https://www.olx.ba/artikal/40141448/opel-meriva/, 11.700 KM
 https://www.olx.ba/artikal/46029459/ford-fiesta-1-6-tdci-70kw-2011/, 10.500 KM
 https://www.olx.ba/artikal/47797385/fiat-500/, 10.500 KM
-https://www.olx.ba/artikal/47797372/volkswagen-golf-1-6-tdi-77-kw-2011-bluemotion/, 13.900 KM
 https://www.olx.ba/artikal/46386249/skoda-fabia-1-2-tdi-55-kw-2011/, 8.950 KM
 https://www.olx.ba/artikal/46371295/opel-corsa-1-3-cdti-70-kw-2011-ecoflex-navigacija/, 9.400 KM
 https://www.olx.ba/artikal/39421695/skoda-fabia-1-2-tdi-55kw-2012/, 9.850 KM
@@ -1145,7 +1143,6 @@ https://www.olx.ba/artikal/43420133/volvo-v60-2013-do-reg-16000/, 13.000 KM
 https://www.olx.ba/artikal/47525019/golf-6/, 14.200 KM
 https://www.olx.ba/artikal/47759209/peugeot-207-registrovan-facelift/, 7.400 KM
 https://www.olx.ba/artikal/47636692/chevrolet-lacetti-lacetti/, 2.500 KM
-https://www.olx.ba/artikal/47759953/opel-corsa-1-3cdti-70kw-2011god-uvoz/, 7.900 KM
 https://www.olx.ba/artikal/47607428/opel-meriva-b-ecoflex/, 12.300 KM
 https://www.olx.ba/artikal/47758705/peugeot-308/, 11.500 KM
 https://www.olx.ba/artikal/45750271/peugeot-308-dodatna-oprema-navigacija-parking-sen/, 12.200 KM
@@ -1966,4 +1963,7 @@ https://www.olx.ba/artikal/47801598/opel-astra-j-automatfulluvoz-svajcarska/, 12
 https://www.olx.ba/artikal/46962884/vw-up-1-0-benzinuvoz-svajcarska/, 10.999 KM
 https://www.olx.ba/artikal/46031668/citroen-c3-picasso-1-6iuvoz-svajcarska/, 9.300 KM
 https://www.olx.ba/artikal/46172520/citroen-c3/, 11.999 KM
+https://www.olx.ba/artikal/47797372/volkswagen-golf-1-6-tdi-77-kw-2011-bluemotion/, 13.700 KM
+https://www.olx.ba/artikal/47759953/opel-corsa-1-3cdti-70kw-2011god-uvoz/, 6.900 KM
 https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47644511/peugeot-206/, 8.100 KM
