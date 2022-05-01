@@ -69,12 +69,9 @@ https://www.olx.ba/artikal/47922980/opel-astra-j-1-7-cdti-81kw-12-2010-god-cosmo
 https://www.olx.ba/artikal/46969816/fiat-500-1-2-benzin-2011-godina-panorama-registrovan/, 10.700 KM
 https://www.olx.ba/artikal/47846000/peugeot-308-1-6-e-hdi-novi-model-led/, 14.400 KM
 https://www.olx.ba/artikal/47550699/peugeot-208/, 10.999 KM
-https://www.olx.ba/artikal/47911418/citroen-c5/, 9.499 KM
 https://www.olx.ba/artikal/47918665/peugeot-206/, 6.800 KM
 https://www.olx.ba/artikal/47048094/renault-kangoo-1-5dci-2011godina/, 11.800 KM
-https://www.olx.ba/artikal/47691538/renault-megane-cabrio/, 12.500 KM
 https://www.olx.ba/artikal/47360639/nissan-pixo-2010gp-klima-065525542-nisan/, 5.999 KM
-https://www.olx.ba/artikal/47530809/peugeot-308-1-6-hdi-sw/, 9.499 KM
 https://www.olx.ba/artikal/47620449/opel-astra-j-2015god1-6cdti81kwtop-stanje/, 13.800 KM
 https://www.olx.ba/artikal/47918029/suzuki-sx4-4x4-2-0d-2010-god-rata-260-km-mjesecno/, 12.900 KM
 https://www.olx.ba/artikal/47917698/renault-scenic-iii-ful-oprema/, 11.500 KM
@@ -1958,6 +1955,11 @@ https://www.olx.ba/artikal/47439839/citroen-berlingo-samo-90000-km-preso-nov/, 1
 https://www.olx.ba/artikal/47940383/fiat-punto/, 8.800 KM
 https://www.olx.ba/artikal/47940177/chevrolet-spark/, 7.500 KM
 https://www.olx.ba/artikal/47926307/peugeot-308-sw-u-dolasku-presao-136000-km/, 11.500 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/47940926/fiat-punto-evo-dizel-tek-uvezen-i-reg-062-784-785/, 7.700 KM
 https://www.olx.ba/artikal/47708301/lada-niva-4x4-1-7-plin-registrovan-atest-2013-god/, 9.500 KM
+https://www.olx.ba/artikal/47911418/citroen-c5/, 10.800 KM
+https://www.olx.ba/artikal/47691538/renault-megane-cabrio/, 14.500 KM
+https://www.olx.ba/artikal/47530809/peugeot-308-1-6-hdi-sw/, 10.900 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47941856/skoda-fabia/, 11.550 KM
+https://www.olx.ba/artikal/47732401/mercedes-a-klasa/, 9.200 KM
