@@ -650,7 +650,6 @@ https://www.olx.ba/artikal/47046687/renault-twingo-1-5-dci-75ks-bussines-facelif
 https://www.olx.ba/artikal/47833071/renault-clio/, 8.600 KM
 https://www.olx.ba/artikal/47865146/fiat-500-1-2b-2010-god/, 9.990 KM
 https://www.olx.ba/artikal/47254147/skoda-octavia-4x4/, 12.900 KM
-https://www.olx.ba/artikal/46299571/skoda-fabia/, 7.900 KM
 https://www.olx.ba/artikal/46299257/citroen-c5-1-6-hdi-automatik/, 11.999 KM
 https://www.olx.ba/artikal/46342837/audi-a1-1-2-tfsi-155000km/, 14.700 KM
 https://www.olx.ba/artikal/47513308/citroen-ds3-1-6-thp-cabrio/, 15.000 KM
@@ -1966,4 +1965,5 @@ https://www.olx.ba/artikal/46172520/citroen-c3/, 11.999 KM
 https://www.olx.ba/artikal/47797372/volkswagen-golf-1-6-tdi-77-kw-2011-bluemotion/, 13.700 KM
 https://www.olx.ba/artikal/47759953/opel-corsa-1-3cdti-70kw-2011god-uvoz/, 6.900 KM
 https://www.olx.ba/artikal/47644511/peugeot-206/, 8.100 KM
+https://www.olx.ba/artikal/46299571/skoda-fabia/, 7.000 KM
 https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
