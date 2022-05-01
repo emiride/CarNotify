@@ -944,7 +944,6 @@ https://www.olx.ba/artikal/47814272/citroen-c3-dizel/, 8.550 KM
 https://www.olx.ba/artikal/47814203/peugeot-206/, 6.500 KM
 https://www.olx.ba/artikal/46145065/seat-altea-xl-2010-gdina/, 10.990 KM
 https://www.olx.ba/artikal/47592760/volkswagen-golf-1-6tdi-77kw-team/, 12.999 KM
-https://www.olx.ba/artikal/47813020/renault-fluence-130-000km-1-vlasnik/, 13.500 KM
 https://www.olx.ba/artikal/45563968/seat-ibiza-ecomotive-1-2tdi-55kw-2011g-061-288-355/, 8.400 KM
 https://www.olx.ba/artikal/47116882/peugeot-308/, 14.900 KM
 https://www.olx.ba/artikal/47373396/skoda-rapid-spaceback-1-6-tdi-2013-tek-uvezena-do-reg/, 13.800 KM
@@ -1957,6 +1956,7 @@ https://www.olx.ba/artikal/47942643/skoda-fabia-1-2-tdi-55-kw-2011-greenline/, 8
 https://www.olx.ba/artikal/47943410/opel-astra-h-benzin-52-000-km/, 11.500 KM
 https://www.olx.ba/artikal/47943124/vw-golf-6-2-0-81kw/, 13.800 KM
 https://www.olx.ba/artikal/47473059/mini-cooper/, 15.000 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/34737190/skoda-octavia-dizel-2011/, 12.700 KM
 https://www.olx.ba/artikal/47941286/audi-a3/, 13.300 KM
+https://www.olx.ba/artikal/47813020/renault-fluence-130-000km-1-vlasnik/, 13.900 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
