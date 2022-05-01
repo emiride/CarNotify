@@ -203,7 +203,6 @@ https://www.olx.ba/artikal/46200105/bmw-e90-2010-facelift/, 14.000 KM
 https://www.olx.ba/artikal/42750568/renault-clio-1-5-dci/, 14.800 KM
 https://www.olx.ba/artikal/47120615/ford-fiesta-1-5-tdci/, 12.500 KM
 https://www.olx.ba/artikal/46919121/seat-leon-fr/, 13.000 KM
-https://www.olx.ba/artikal/46590819/seat-ibiza-1-4d-led-2016-god/, 14.900 KM
 https://www.olx.ba/artikal/46202087/smart-fortwo/, 8.000 KM
 https://www.olx.ba/artikal/46555160/ford-focus-1-6-econetic/, 10.500 KM
 https://www.olx.ba/artikal/47486464/opel-corsa-1-2-benzin-146000-km/, 8.300 KM
@@ -1957,6 +1956,8 @@ https://www.olx.ba/artikal/40299046/peugeot-308-1-6hdi-68kw-2015/, 15.300 KM
 https://www.olx.ba/artikal/47663338/audi-a3-16-tdi/, 15.900 KM
 https://www.olx.ba/artikal/46954020/smart-for-two-2011god-extra-stanje/, 10.800 KM
 https://www.olx.ba/artikal/47787939/citroen-c4/, 11.550 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
-https://www.olx.ba/artikal/47937853/bmw-318/, 14.500 KM
 https://www.olx.ba/artikal/47508992/renault-megane-2010-god-146-500-km/, 10.750 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47934739/seat-ibiza-2012-mod/, 8.700 KM
+https://www.olx.ba/artikal/47939242/golf-6-plus/, 15.200 KM
+https://www.olx.ba/artikal/47937853/bmw-e90-318d/, 14.500 KM
