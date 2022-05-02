@@ -1071,7 +1071,6 @@ https://www.olx.ba/artikal/47361252/skoda-octavia-1-6-77-kw-2010-g-moze-zamjena/
 https://www.olx.ba/artikal/39484363/polo-1-2-2010god/, 7.999 KM
 https://www.olx.ba/artikal/47535228/volkswagen-polo/, 9.700 KM
 https://www.olx.ba/artikal/45382201/seat-ibiza-1-2-tdi-2013-registrovan-uvoz-njemacka/, 9.900 KM
-https://www.olx.ba/artikal/47528258/peugeot-207-1-6-hdi/, 8.200 KM
 https://www.olx.ba/artikal/47750735/ford-focus-1-6d-titanium-tel-062-745-746/, 15.900 KM
 https://www.olx.ba/artikal/40958112/ford-mondeo/, 12.000 KM
 https://www.olx.ba/artikal/47484319/volswagen-polo/, 10.200 KM
@@ -1842,7 +1841,6 @@ https://www.olx.ba/artikal/47787939/citroen-c4/, 11.550 KM
 https://www.olx.ba/artikal/47508992/renault-megane-2010-god-146-500-km/, 10.750 KM
 https://www.olx.ba/artikal/47934739/seat-ibiza-2012-mod/, 8.700 KM
 https://www.olx.ba/artikal/47939242/golf-6-plus/, 15.200 KM
-https://www.olx.ba/artikal/47937853/bmw-e90-318d/, 14.500 KM
 https://www.olx.ba/artikal/47939727/seat-altea-altea-1-6-tdi-2010-g-061848269/, 10.900 KM
 https://www.olx.ba/artikal/47293256/opel-corsa-1-3-cdti-70kw/, 9.300 KM
 https://www.olx.ba/artikal/47940522/fiat-panda/, 9.600 KM
@@ -1952,6 +1950,11 @@ https://www.olx.ba/artikal/47220840/chevrolet-spark/, 6.000 KM
 https://www.olx.ba/artikal/46437452/peugeot-206-plus/, 7.000 KM
 https://www.olx.ba/artikal/47763437/citroen-c3/, 8.999 KM
 https://www.olx.ba/artikal/47953068/dacia-duster/, 13.900 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/47953244/peugeot-308-automatik-1-6-e-hdi-2011-novo-stanje/, 13.900 KM
 https://www.olx.ba/artikal/47711440/passat-cc-automatik-dsg-1-8-fsi/, 15.900 KM
+https://www.olx.ba/artikal/47937853/bmw-e90-318d/, 14.000 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47760162/renault-fluence-1-6i-benz-plin-2011-model/, 8.100 KM
+https://www.olx.ba/artikal/47724843/citroen-c3-2012-god-1-4hdi-50kw-euro-5-navigacija/, 9.800 KM
+https://www.olx.ba/artikal/47087402/skoda-octavia-2-0-dsg-2013/, 15.000 KM
+https://www.olx.ba/artikal/47953900/volkswagen-fox/, 7.200 KM
