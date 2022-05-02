@@ -1073,7 +1073,6 @@ https://www.olx.ba/artikal/47535228/volkswagen-polo/, 9.700 KM
 https://www.olx.ba/artikal/45382201/seat-ibiza-1-2-tdi-2013-registrovan-uvoz-njemacka/, 9.900 KM
 https://www.olx.ba/artikal/47528258/peugeot-207-1-6-hdi/, 8.200 KM
 https://www.olx.ba/artikal/47750735/ford-focus-1-6d-titanium-tel-062-745-746/, 15.900 KM
-https://www.olx.ba/artikal/47750211/renault-clio/, 13.200 KM
 https://www.olx.ba/artikal/40958112/ford-mondeo/, 12.000 KM
 https://www.olx.ba/artikal/47484319/volswagen-polo/, 10.200 KM
 https://www.olx.ba/artikal/44569518/citroen-c3-picasso/, 10.500 KM
@@ -1952,6 +1951,7 @@ https://www.olx.ba/artikal/47296250/opel-corsa-1-3cdti-navy-facelift/, 8.299 KM
 https://www.olx.ba/artikal/47220840/chevrolet-spark/, 6.000 KM
 https://www.olx.ba/artikal/46437452/peugeot-206-plus/, 7.000 KM
 https://www.olx.ba/artikal/47763437/citroen-c3/, 8.999 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/47953068/dacia-duster/, 13.900 KM
-https://www.olx.ba/artikal/47952952/golf-7-1-6-tdi/, 13.800 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47953244/peugeot-308-automatik-1-6-e-hdi-2011-novo-stanje/, 13.900 KM
+https://www.olx.ba/artikal/47711440/passat-cc-automatik-dsg-1-8-fsi/, 15.900 KM
