@@ -1877,7 +1877,6 @@ https://www.olx.ba/artikal/47463521/opel-astra-j-1-7-cdti-sports-tourer/, 10.200
 https://www.olx.ba/artikal/47931167/golf-6-1-6-tdi-2011-god/, 14.300 KM
 https://www.olx.ba/artikal/47905040/skoda-yeti-2-0-tdi-81-kw-2010-g-129000-kilometara/, 14.850 KM
 https://www.olx.ba/artikal/45736720/fiat-puno-evo-1-4-uvoz-iz-svajcarske-2013-god/, 7.900 KM
-https://www.olx.ba/artikal/47919350/volkswagen-golf-tek-reg/, 15.200 KM
 https://www.olx.ba/artikal/47931559/seat-ibiza-2011-1-2-tsi-benzin/, 8.600 KM
 https://www.olx.ba/artikal/47763437/citroen-c3/, 8.999 KM
 https://www.olx.ba/artikal/47931924/citroen-c3-1-4-hdi-facelift-model-2015-top-stanje/, 10.800 KM
@@ -1959,4 +1958,5 @@ https://www.olx.ba/artikal/47473059/mini-cooper/, 15.000 KM
 https://www.olx.ba/artikal/34737190/skoda-octavia-dizel-2011/, 12.700 KM
 https://www.olx.ba/artikal/47941286/audi-a3/, 13.300 KM
 https://www.olx.ba/artikal/47813020/renault-fluence-130-000km-1-vlasnik/, 13.900 KM
+https://www.olx.ba/artikal/47919350/volkswagen-golf-tek-reg/, 15.000 KM
 https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
