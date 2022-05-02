@@ -327,7 +327,6 @@ https://www.olx.ba/artikal/46949530/skoda-fabia-1-2-tdi/, 9.450 KM
 https://www.olx.ba/artikal/43084308/ford-fokus-1-6-tdci-klimatronic/, 10.900 KM
 https://www.olx.ba/artikal/35463967/opel-astra/, 11.500 KM
 https://www.olx.ba/artikal/45310787/skoda-fabia-1-2-tdi/, 9.500 KM
-https://www.olx.ba/artikal/47458141/golf-6-prodaja-na-rate-moze-zamjena/, 13.500 KM
 https://www.olx.ba/artikal/45502096/renault-clio-1-5-dci-2017-god-172-825-km-id-10/, 15.120 KM
 https://www.olx.ba/artikal/45502161/renault-clio-1-5-dci-2017-god-142-685-km-id-8/, 15.740 KM
 https://www.olx.ba/artikal/46088905/renault-clio-tech-1-5-dci-2015-g-126-900-km-id-29/, 13.730 KM
@@ -446,13 +445,11 @@ https://www.olx.ba/artikal/47895218/seat-ibiza-12-tdi-55kw-2011god/, 8.100 KM
 https://www.olx.ba/artikal/46194090/ford-fiesta-1-6-dizel-2011-uvoz-njemacka/, 6.500 KM
 https://www.olx.ba/artikal/45872786/vw-up-up-1-0-benzin-44-kw-2012-klima/, 8.399 KM
 https://www.olx.ba/artikal/47753234/golf-6-plati-pola-vozi-kola/, 10.800 KM
-https://www.olx.ba/artikal/47753353/vw-passat-novo-ac-juro-privatno-kreditiranje/, 1.400 KM
 https://www.olx.ba/artikal/47753616/opel-corsa-2013-privatno-kreditiranje/, 8.900 KM
 https://www.olx.ba/artikal/47753518/opel-corsa-2012-novo-ac-juro-uveo-privatno-kreditiranje/, 8.000 KM
 https://www.olx.ba/artikal/47458240/golf-6-novo-privatno-kreditiranje/, 10.800 KM
 https://www.olx.ba/artikal/46983458/peugeot-207-rata-100-500/, 7.900 KM
 https://www.olx.ba/artikal/46924959/golf-6-2-0-81-kw-moze-rata-rata-100-500-km/, 13.500 KM
-https://www.olx.ba/artikal/46983604/golf-6-2011-novo-privatno-kreditiranje/, 13.300 KM
 https://www.olx.ba/artikal/47754845/golf-6-novo-privatno-kreditiranje/, 12.500 KM
 https://www.olx.ba/artikal/47765369/audi-a3-novo-privatno-kreditiranje/, 14.600 KM
 https://www.olx.ba/artikal/47753628/golf-6-prodaja-na-rate-moze-zamjena/, 13.300 KM
@@ -1158,9 +1155,7 @@ https://www.olx.ba/artikal/47739209/vw-golf-6/, 12.200 KM
 https://www.olx.ba/artikal/47738850/peugeot-3008-hdi-g-2012-uvoz-top-stanje/, 13.500 KM
 https://www.olx.ba/artikal/47519765/alfa-romeo-mito/, 8.200 KM
 https://www.olx.ba/artikal/47479247/audi-s3/, 13.900 KM
-https://www.olx.ba/artikal/47738390/fiat-bravo/, 8.100 KM
 https://www.olx.ba/artikal/38474893/ford-focus-karavan-1-6-tdci-2011-god/, 9.500 KM
-https://www.olx.ba/artikal/47736678/skoda-fabia-dizel-2012-146000km/, 9.700 KM
 https://www.olx.ba/artikal/45930663/ford-fiesta-1-6tdci-66kw-2010-103-000km/, 12.500 KM
 https://www.olx.ba/artikal/45364693/seat-ibiza/, 10.000 KM
 https://www.olx.ba/artikal/45990242/seat-ibiza/, 8.250 KM
@@ -1959,4 +1954,13 @@ https://www.olx.ba/artikal/34737190/skoda-octavia-dizel-2011/, 12.700 KM
 https://www.olx.ba/artikal/47941286/audi-a3/, 13.300 KM
 https://www.olx.ba/artikal/47813020/renault-fluence-130-000km-1-vlasnik/, 13.900 KM
 https://www.olx.ba/artikal/47919350/volkswagen-golf-tek-reg/, 15.000 KM
+https://www.olx.ba/artikal/47753353/vw-passat-novo-ac-juro-privatno-kreditiranje/, 14.400 KM
 https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47945118/mercedes-benz-b-180/, 11.500 KM
+https://www.olx.ba/artikal/47944961/golf-6-novo-privatno-kreditiranje/, 12.000 KM
+https://www.olx.ba/artikal/47945104/seat-altea-prodaja-na-rate-063337982/, 11.800 KM
+https://www.olx.ba/artikal/47231322/fiat-punto-evo-polisa-ide-uz-auto/, 8.500 KM
+https://www.olx.ba/artikal/47945087/audi-a3-u-dolasku-3-komada/, 12.000 KM
+https://www.olx.ba/artikal/47945079/golf-6-novo-privatno-kreditiranje/, 13.000 KM
+https://www.olx.ba/artikal/47007443/citroen-c5-3-0-hdi/, 11.850 KM
+https://www.olx.ba/artikal/47945032/golf-6-prodaja-na-rate-moze-zamjena/, 13.500 KM
