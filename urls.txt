@@ -672,7 +672,6 @@ https://www.olx.ba/artikal/47395907/smart-fortwo-1-0-a-t-61-ks/, 12.000 KM
 https://www.olx.ba/artikal/36301188/peugeot-5008/, 12.500 KM
 https://www.olx.ba/artikal/47858677/bmw-116/, 15.800 KM
 https://www.olx.ba/artikal/47633130/peugeot-208-1-6-bluehdi-2017g/, 14.700 KM
-https://www.olx.ba/artikal/47858896/fiat-punto-evo-2012/, 8.900 KM
 https://www.olx.ba/artikal/46454784/renault-twingo/, 7.900 KM
 https://www.olx.ba/artikal/46303709/ford-fiesta-1-4-tdci-2010g-registrovana/, 9.600 KM
 https://www.olx.ba/artikal/47857075/alfa-romeo-giulietta-full-paket/, 13.900 KM
@@ -1957,3 +1956,4 @@ https://www.olx.ba/artikal/47760162/renault-fluence-1-6i-benz-plin-2011-model/, 
 https://www.olx.ba/artikal/47724843/citroen-c3-2012-god-1-4hdi-50kw-euro-5-navigacija/, 9.800 KM
 https://www.olx.ba/artikal/47953900/volkswagen-fox/, 7.200 KM
 https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/46017698/citroen-c4-1-6-citaj-detaljno/, 15.500 KM
