@@ -1,6 +1,5 @@
 https://www.olx.ba/artikal/43884714/renault-fluence/, 9.853 KM
 https://www.olx.ba/artikal/37497729/renault-clio/, 13.900 KM
-https://www.olx.ba/artikal/41914829/renault-megane-1-6/, 8.000 KM
 https://www.olx.ba/artikal/47692238/opel-insignia-2-0-cdti-ecoflex-cosmonavialuxenon/, 12.400 KM
 https://www.olx.ba/artikal/46975325/seat-leon-1-6-tdi-ecomotive-eccalu140000km/, 13.400 KM
 https://www.olx.ba/artikal/47598662/opel-corsa-d-1-2-2012god-4klipa/, 7.999 KM
@@ -929,14 +928,12 @@ https://www.olx.ba/artikal/45251467/peugeot-508-1-6-hdi/, 13.500 KM
 https://www.olx.ba/artikal/44717930/opel-meriva-1-7-dti/, 11.500 KM
 https://www.olx.ba/artikal/47122475/ford-fiesta-1-5-tdci-55-kw-2014/, 12.800 KM
 https://www.olx.ba/artikal/47778536/skoda-fabia-1-2-tdi-55-kw-2010-god-br-tel-062-587-950/, 8.950 KM
-https://www.olx.ba/artikal/47270839/mini-cooper-1-6-diz-2012/, 15.500 KM
 https://www.olx.ba/artikal/46901543/nisan-juke-1-5-d-2012-mod/, 15.900 KM
 https://www.olx.ba/artikal/47777286/peugeot-partner-16-hdi-2012-god-euro5/, 9.500 KM
 https://www.olx.ba/artikal/46134981/citroen-c3-2018-god-1-6-hdi/, 15.500 KM
 https://www.olx.ba/artikal/47559226/golf-vi/, 12.000 KM
 https://www.olx.ba/artikal/47761977/fiat-grande-punto/, 8.500 KM
 https://www.olx.ba/artikal/47338403/suzuki-sx4-2-0-diesel-4x4-2012-god-118-000-km-presao/, 13.250 KM
-https://www.olx.ba/artikal/47562583/skoda-fabia-1-2-tdi-55kw-greenline-2011-godina-uvoz/, 9.500 KM
 https://www.olx.ba/artikal/46682114/seat-ibiza-1-2-tdi-55kw-5-vrata-2011-godina-uvoz/, 9.300 KM
 https://www.olx.ba/artikal/47674807/seat-ibiza-1-2-tdi-55kw-2010-godina-uvoz/, 8.900 KM
 https://www.olx.ba/artikal/45258280/seat-ibiza-1-2-tdi-55kw-2011-godina-tek-uvezena/, 8.800 KM
@@ -1824,10 +1821,12 @@ https://www.olx.ba/artikal/47976364/skoda-fabia-12-tdi-2011god/, 8.350 KM
 https://www.olx.ba/artikal/47715019/renault-clio-2012-god-1-5-dci-clima/, 7.650 KM
 https://www.olx.ba/artikal/47975774/otkup-vozila-po-povoljnim-cijenama/, 5.000 KM
 https://www.olx.ba/artikal/47965955/prodajem-golf-vi-karavan-ocuvan/, 10.700 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/47901988/chevrolet-cruze/, 8.500 KM
 https://www.olx.ba/artikal/47774133/fiat-500-cabrio/, 15.000 KM
 https://www.olx.ba/artikal/47976778/chevrolet-lacetti-motor-2-0-dizel/, 500 KM
 https://www.olx.ba/artikal/47975322/ford-focus/, 1.550 KM
 https://www.olx.ba/artikal/47932027/renault-fluence-1-6/, 11.500 KM
 https://www.olx.ba/artikal/46345618/seat-ibiza-1-6-tdi/, 8.800 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47977807/ford-fokus/, 11.900 KM
+https://www.olx.ba/artikal/47977600/mercedes-benz-a-180-85kw-reg-do-09-22-2011g-p/, 9.990 KM
