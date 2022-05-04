@@ -1797,7 +1797,6 @@ https://www.olx.ba/artikal/47978175/volkswagen-golf-6-1-6-tdi-77-kw-comfortline/
 https://www.olx.ba/artikal/47977901/citroen-c5/, 12.500 KM
 https://www.olx.ba/artikal/47966609/ford-fiesta-1-4-ben74kwmod-2011-god-u-dolasku/, 8.650 KM
 https://www.olx.ba/artikal/46702468/toyota-avensis-1-6b-auto-kupljeno-u-bih/, 14.300 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/47496120/fiat-500/, 9.900 KM
 https://www.olx.ba/artikal/46741576/opel-adam/, 15.800 KM
 https://www.olx.ba/artikal/46837860/peugeot-308-1-6-hdi-2011-godina-alu-felge-klima/, 10.900 KM
@@ -1832,3 +1831,6 @@ https://www.olx.ba/artikal/47810414/ford-focus-1-6-tdci-77kw-2013-god-econetic-1
 https://www.olx.ba/artikal/47979034/renault-clio-1-5-dci/, 14.300 KM
 https://www.olx.ba/artikal/47979023/peugeot-3008/, 14.000 KM
 https://www.olx.ba/artikal/47978586/opel-astra-j/, 9.900 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47966746/renault-laguna-bose-2014gp-2-0ccm-127kw-automatik/, 15.450 KM
+https://www.olx.ba/artikal/47771048/wv-golf-6-highline-1-6-tdi-2011-godina/, 13.600 KM
