@@ -931,9 +931,7 @@ https://www.olx.ba/artikal/47122475/ford-fiesta-1-5-tdci-55-kw-2014/, 12.800 KM
 https://www.olx.ba/artikal/47778536/skoda-fabia-1-2-tdi-55-kw-2010-god-br-tel-062-587-950/, 8.950 KM
 https://www.olx.ba/artikal/47270839/mini-cooper-1-6-diz-2012/, 15.500 KM
 https://www.olx.ba/artikal/46901543/nisan-juke-1-5-d-2012-mod/, 15.900 KM
-https://www.olx.ba/artikal/47775842/skoda-roomster/, 10.000 KM
 https://www.olx.ba/artikal/47777286/peugeot-partner-16-hdi-2012-god-euro5/, 9.500 KM
-https://www.olx.ba/artikal/47109170/skoda-fabia-1-2-tdi-2013-registrovana/, 8.999 KM
 https://www.olx.ba/artikal/46134981/citroen-c3-2018-god-1-6-hdi/, 15.500 KM
 https://www.olx.ba/artikal/47559226/golf-vi/, 12.000 KM
 https://www.olx.ba/artikal/47761977/fiat-grande-punto/, 8.500 KM
@@ -1212,7 +1210,6 @@ https://www.olx.ba/artikal/43754171/renault-fluence-benzin-lpg-114000-bez-ulagan
 https://www.olx.ba/artikal/46356751/renault-fluence/, 10.500 KM
 https://www.olx.ba/artikal/39823799/ford-focus-2012-diesel/, 14.000 KM
 https://www.olx.ba/artikal/44136179/fiat-punto-evo-1-3mjet-62kw-2010g-061-288-355/, 8.200 KM
-https://www.olx.ba/artikal/45735153/passat-6/, 10.900 KM
 https://www.olx.ba/artikal/40723800/golf-6/, 13.000 KM
 https://www.olx.ba/artikal/47326517/peugeot-308-1-6-bluehdi-2017-g/, 15.500 KM
 https://www.olx.ba/artikal/47130433/kia-rio-1-2-benzin-plin/, 10.500 KM
@@ -1667,7 +1664,6 @@ https://www.olx.ba/artikal/47540003/volkswagen-polo/, 12.000 KM
 https://www.olx.ba/artikal/47515812/vw-polo-1-2-tdi-2010god-5-vrata-uvoz-top/, 10.500 KM
 https://www.olx.ba/artikal/47949063/suzuki-sx4-2-0-diesel-4x4-2011-godiste-13-250-km-do-reg/, 13.250 KM
 https://www.olx.ba/artikal/47254005/citroen-c3-pikaso-1-4-vti/, 8.400 KM
-https://www.olx.ba/artikal/47738390/fiat-bravo/, 8.100 KM
 https://www.olx.ba/artikal/47948988/toyota-yaris/, 10.200 KM
 https://www.olx.ba/artikal/47269943/alfa-romeo-mito-1-3mjet-70kw-2010god-93000km/, 10.350 KM
 https://www.olx.ba/artikal/47948516/peugeot-207-1-4-vti-millesim-200/, 7.800 KM
@@ -1741,7 +1737,6 @@ https://www.olx.ba/artikal/47529471/volkswagen-up-1-0-godiste2015-navigacija-kli
 https://www.olx.ba/artikal/47539011/citroen-c5-1-6-hdi-navigacija-led-godiste2015-extra-stan/, 14.990 KM
 https://www.olx.ba/artikal/47967397/renault-megane-3-tek-registrovan/, 11.500 KM
 https://www.olx.ba/artikal/47919896/renault-megane-3-2011g-1-5-dci-euro-5/, 12.400 KM
-https://www.olx.ba/artikal/47965955/prodajem-golf-vi-karavan-ocuvan/, 10.800 KM
 https://www.olx.ba/artikal/47964843/volkswagen-polo/, 15.500 KM
 https://www.olx.ba/artikal/47701721/fiat-panda-benzin-cng/, 13.500 KM
 https://www.olx.ba/artikal/47964221/opel-corsa/, 7.950 KM
@@ -1823,10 +1818,16 @@ https://www.olx.ba/artikal/47774947/renault-clio/, 8.200 KM
 https://www.olx.ba/artikal/46154131/citroen-c4-picasso-uvoz-nov-auto-org-km-top-top/, 11.999 KM
 https://www.olx.ba/artikal/47937853/bmw-e90-318d/, 14.000 KM
 https://www.olx.ba/artikal/47691538/renault-megane-cabrio/, 12.500 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/47976162/volkswagen-golf-6-vi-2012-god-1-6-tdi/, 13.800 KM
 https://www.olx.ba/artikal/47976231/renault-megane-1-5dci-66kw/, 8.500 KM
 https://www.olx.ba/artikal/47976364/skoda-fabia-12-tdi-2011god/, 8.350 KM
-https://www.olx.ba/artikal/47901988/chevrolet-cruze/, 9.000 KM
 https://www.olx.ba/artikal/47715019/renault-clio-2012-god-1-5-dci-clima/, 7.650 KM
 https://www.olx.ba/artikal/47975774/otkup-vozila-po-povoljnim-cijenama/, 5.000 KM
+https://www.olx.ba/artikal/47965955/prodajem-golf-vi-karavan-ocuvan/, 10.700 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47901988/chevrolet-cruze/, 8.500 KM
+https://www.olx.ba/artikal/47774133/fiat-500-cabrio/, 15.000 KM
+https://www.olx.ba/artikal/47976778/chevrolet-lacetti-motor-2-0-dizel/, 500 KM
+https://www.olx.ba/artikal/47975322/ford-focus/, 1.550 KM
+https://www.olx.ba/artikal/47932027/renault-fluence-1-6/, 11.500 KM
+https://www.olx.ba/artikal/46345618/seat-ibiza-1-6-tdi/, 8.800 KM
