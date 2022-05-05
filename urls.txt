@@ -79,7 +79,6 @@ https://www.olx.ba/artikal/47891253/volkswagen-polo/, 10.900 KM
 https://www.olx.ba/artikal/47847692/audi-a3-2-0-tdi-sport-paket/, 16.000 KM
 https://www.olx.ba/artikal/47223904/skoda-fabia-1-6-tdi-2012-god/, 9.900 KM
 https://www.olx.ba/artikal/47677512/peugeot-208-1-4-hdi/, 11.200 KM
-https://www.olx.ba/artikal/45419770/ford-focus-1-6-tdci-navi-2013-g-cijena-fix/, 10.999 KM
 https://www.olx.ba/artikal/47123393/seat-ibiza-1-6tdi-66kw-2015g/, 12.900 KM
 https://www.olx.ba/artikal/47864847/peugeot-207-tek-uvezen/, 7.300 KM
 https://www.olx.ba/artikal/47083465/skoda-octavia-1-6-tdi-2010-full-tek-registriran/, 14.850 KM
@@ -848,8 +847,6 @@ https://www.olx.ba/artikal/47540447/volkswagen-polo-1-6-tdi-66-kw-2012/, 12.400 
 https://www.olx.ba/artikal/47793659/skoda-fabia-greenline-1-2-tdi-55-kw-061-288-355/, 8.950 KM
 https://www.olx.ba/artikal/46002910/ford-fiesta-econetic-1-6-tdci-70kw-2010g-061-288-355/, 8.450 KM
 https://www.olx.ba/artikal/45996607/seat-ibiza-copa-1-2tdi-77kw-2011g-061-288-355/, 9.200 KM
-https://www.olx.ba/artikal/47495892/peugeot-207/, 7.300 KM
-https://www.olx.ba/artikal/47577426/seat-altea-xl/, 10.600 KM
 https://www.olx.ba/artikal/47790402/opel-meriva-1-7-dizel-2011-g/, 9.200 KM
 https://www.olx.ba/artikal/47148178/peugeot-207/, 8.000 KM
 https://www.olx.ba/artikal/47279614/xmod-scenic-renault/, 9.800 KM
@@ -1039,7 +1036,6 @@ https://www.olx.ba/artikal/47651909/seat-altea-xl-prvi-vlasnik-oduvijek-garazira
 https://www.olx.ba/artikal/47667848/volkswagen-polo-comfortline/, 11.900 KM
 https://www.olx.ba/artikal/47665804/volkswagen-polo-6r-1-2-tdi-highlinelednavipdcxenon/, 12.650 KM
 https://www.olx.ba/artikal/45961460/lancia-y/, 13.500 KM
-https://www.olx.ba/artikal/32077257/kia-rio/, 14.500 KM
 https://www.olx.ba/artikal/47661842/peugeot-301-1-6hdi-2013/, 8.990 KM
 https://www.olx.ba/artikal/42915902/golf-6-najsigurniji-na-piku/, 14.800 KM
 https://www.olx.ba/artikal/34353106/opel-corsa-1-3-cdti/, 8.900 KM
@@ -1478,7 +1474,6 @@ https://www.olx.ba/artikal/45736720/fiat-puno-evo-1-4-uvoz-iz-svajcarske-2013-go
 https://www.olx.ba/artikal/47931559/seat-ibiza-2011-1-2-tsi-benzin/, 8.600 KM
 https://www.olx.ba/artikal/47931924/citroen-c3-1-4-hdi-facelift-model-2015-top-stanje/, 10.800 KM
 https://www.olx.ba/artikal/47679651/nissan-juke-1-6-benzin-73000km-presao/, 14.800 KM
-https://www.olx.ba/artikal/47062226/passat-cc-2-0-tdi-uvoz/, PO DOGOVORU
 https://www.olx.ba/artikal/47382330/c3-businesseuro-62016lednavi/, 13.850 KM
 https://www.olx.ba/artikal/46508016/fiat-punto/, 7.600 KM
 https://www.olx.ba/artikal/47931579/renault-twingo-1-5-dci-2012-uvoz-cijena-do-reg/, 8.500 KM
@@ -1626,7 +1621,6 @@ https://www.olx.ba/artikal/47323470/bmw-e90-316d-2011/, 15.500 KM
 https://www.olx.ba/artikal/47815594/skoda-octavia-2012/, 11.000 KM
 https://www.olx.ba/artikal/47957406/peugeot-208/, 14.000 KM
 https://www.olx.ba/artikal/47948399/fiat-500l-2013-god/, 12.400 KM
-https://www.olx.ba/artikal/46891897/mercedes-benz-b-200-automatik-moze-zamjena-za-terenca/, 11.500 KM
 https://www.olx.ba/artikal/47753616/opel-corsa-2013-privatno-kreditiranje/, 8.900 KM
 https://www.olx.ba/artikal/47458240/golf-6-novo-privatno-kreditiranje/, 10.800 KM
 https://www.olx.ba/artikal/47743601/ford-focus-1-6-dci/, 13.500 KM
@@ -1843,10 +1837,16 @@ https://www.olx.ba/artikal/47985740/renault-megane-euro-5/, 11.150 KM
 https://www.olx.ba/artikal/47909879/skoda-octavia-1-6-tdi-do-06-05/, 15.900 KM
 https://www.olx.ba/artikal/47986594/peugeot-208-1-6-hdi-facelift-2017mod-tek-uvezen-euro-6/, 12.400 KM
 https://www.olx.ba/artikal/47787939/citroen-c4/, 11.550 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/47987457/dacia-sandero-stepway-1-6benzin-64kw-2010gp-klimaalu/, 9.500 KM
 https://www.olx.ba/artikal/47986984/ford-ka-2012-1-2-mjesec-tek-uvezen/, 7.500 KM
 https://www.olx.ba/artikal/47878094/volkswagen-polo-1-6-66kw-r-line/, 9.500 KM
 https://www.olx.ba/artikal/47686756/opel-corsa-lpg/, 13.500 KM
 https://www.olx.ba/artikal/47987144/prodajem-opel-insignia-2-0-cdti-2012/, 15.800 KM
 https://www.olx.ba/artikal/47665915/volkswagen-golf-6/, 16.000 KM
+https://www.olx.ba/artikal/45419770/ford-focus-1-6-tdci-navi-2013-g-cijena-fix/, 12.700 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47109170/skoda-fabia-1-2-tdi-2013-registrovana/, 8.999 KM
+https://www.olx.ba/artikal/47987812/citroen-c3-1-4-hdi-2012-13-159000km/, 9.400 KM
+https://www.olx.ba/artikal/47043725/citroen-c3-1-6hdi-2016-navi-aut-klima-110000km/, 14.300 KM
+https://www.olx.ba/artikal/47964437/volkswagen-v50/, 10.000 KM
+https://www.olx.ba/artikal/47533835/skoda-fabia-1-2-benzin-2011-gp-klima-uvoz-065-690-888/, 8.000 KM
