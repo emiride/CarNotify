@@ -894,7 +894,6 @@ https://www.olx.ba/artikal/43255251/skoda-fabia-1-2-tdi-2011-godina/, 8.500 KM
 https://www.olx.ba/artikal/47783020/opel-corsa-1-2-ecoflex-edition-model-2011godkao-nova/, 7.899 KM
 https://www.olx.ba/artikal/45487071/fiat-500l-2017-reg-11-22/, 15.000 KM
 https://www.olx.ba/artikal/44386483/renault-fluence/, 8.000 KM
-https://www.olx.ba/artikal/47781380/opel-astra/, 10.700 KM
 https://www.olx.ba/artikal/45303350/peugeot-107-tek-registrovan-tel-062-745-746/, 8.500 KM
 https://www.olx.ba/artikal/47122475/ford-fiesta-1-5-tdci-55-kw-2014/, 12.800 KM
 https://www.olx.ba/artikal/47778536/skoda-fabia-1-2-tdi-55-kw-2010-god-br-tel-062-587-950/, 8.950 KM
@@ -1832,5 +1831,5 @@ https://www.olx.ba/artikal/47979023/peugeot-3008/, 14.000 KM
 https://www.olx.ba/artikal/47978586/opel-astra-j/, 9.900 KM
 https://www.olx.ba/artikal/47966746/renault-laguna-bose-2014gp-2-0ccm-127kw-automatik/, 15.450 KM
 https://www.olx.ba/artikal/47771048/wv-golf-6-highline-1-6-tdi-2011-godina/, 13.600 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/46908056/renault-twingo/, 14.000 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
