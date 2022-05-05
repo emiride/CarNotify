@@ -133,7 +133,6 @@ https://www.olx.ba/artikal/47706053/seat-leon-benzin-1-2-tsi-105-ks-je-design/, 
 https://www.olx.ba/artikal/47673798/prodajem-volkswagen-passat-1-6-dizel-2012-navigacija/, 15.900 KM
 https://www.olx.ba/artikal/47924178/opel-corsa/, 7.700 KM
 https://www.olx.ba/artikal/46775710/seat-ibiza-1-6-tdi/, 10.500 KM
-https://www.olx.ba/artikal/47921344/opel-astra-1-3cdti-2014/, 11.500 KM
 https://www.olx.ba/artikal/27583035/citroen-c-elysee-seduction-1-2-vti/, 13.600 KM
 https://www.olx.ba/artikal/34279073/citroen-c3-exclusive-uradjen-veliki-servis/, 11.000 KM
 https://www.olx.ba/artikal/47196205/citroen-c3-1-4-e-hdi-2011g-auto-za-preporuku/, 9.350 KM
@@ -1832,4 +1831,5 @@ https://www.olx.ba/artikal/47978586/opel-astra-j/, 9.900 KM
 https://www.olx.ba/artikal/47966746/renault-laguna-bose-2014gp-2-0ccm-127kw-automatik/, 15.450 KM
 https://www.olx.ba/artikal/47771048/wv-golf-6-highline-1-6-tdi-2011-godina/, 13.600 KM
 https://www.olx.ba/artikal/46908056/renault-twingo/, 14.000 KM
+https://www.olx.ba/artikal/47921344/opel-astra-1-3cdti-2014/, 10.900 KM
 https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
