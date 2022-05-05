@@ -33,7 +33,6 @@ https://www.olx.ba/artikal/47798657/peugeot-208-1-6-bluehdi-5826-id/, 15.500 KM
 https://www.olx.ba/artikal/47870154/renault-clio-1-2-2012gp-navigacija-klio-065525542/, 7.999 KM
 https://www.olx.ba/artikal/47469193/opel-astra-1-7cdti-2014-facelift-sport-tourer/, 12.700 KM
 https://www.olx.ba/artikal/47809173/seat-ibiza-limuzina-dizel-1-6l-uvoz/, 9.750 KM
-https://www.olx.ba/artikal/47326456/skoda-fabia-1-2-htp-44-kw-2012god-117-000-kilom-uvoz/, 7.900 KM
 https://www.olx.ba/artikal/47837003/citroen-c3-1-4i-sport-oprema-uvoz-svica/, 8.300 KM
 https://www.olx.ba/artikal/46806345/skoda-fabia-1-2-tdi-greenlineklima130000km/, 11.400 KM
 https://www.olx.ba/artikal/47922980/opel-astra-j-1-7-cdti-81kw-12-2010-god-cosmo-reg/, 11.400 KM
@@ -189,7 +188,6 @@ https://www.olx.ba/artikal/47903273/fiat-panda-4x4/, 13.990 KM
 https://www.olx.ba/artikal/47242648/citroen-c5-automatik-automatic/, 12.500 KM
 https://www.olx.ba/artikal/47495465/fiat-punto-1-3-jtd-2012-godina-ekstra-stanje/, 8.600 KM
 https://www.olx.ba/artikal/47917977/volkswagen-polo-1-2-tdi-autorad-doo/, 10.900 KM
-https://www.olx.ba/artikal/47917810/peugeot-308-16-hdi-2011god/, 9.500 KM
 https://www.olx.ba/artikal/47624671/volkswagen-polo-12-tdi-55kw-2010god-9999km/, 9.999 KM
 https://www.olx.ba/artikal/45928262/citroen-c3-1-4-hdi-confort/, 13.290 KM
 https://www.olx.ba/artikal/47384056/bmw-e87-116-118-120/, 10.600 KM
@@ -456,7 +454,6 @@ https://www.olx.ba/artikal/47678743/citroen-ds3/, 11.900 KM
 https://www.olx.ba/artikal/46973022/citroen-c4-picasso/, 8.500 KM
 https://www.olx.ba/artikal/44340394/citroen-c4-picasso-1-6-hdi-navigacija-2011-g-p/, 9.900 KM
 https://www.olx.ba/artikal/47773929/renault-clio-1-5-dci-facelift-2017-navi/, 15.400 KM
-https://www.olx.ba/artikal/47875903/passat-vii-1-6-tdi-2011-god-061848269/, 13.800 KM
 https://www.olx.ba/artikal/47874580/chevrolet-aveo/, 4.650 KM
 https://www.olx.ba/artikal/47676258/volkswagen-golf-1-6-tdi-2010/, 12.900 KM
 https://www.olx.ba/artikal/47875060/peugeot-308-dizel-2-0-103-kw-odlicno-stanje/, 11.850 KM
@@ -830,7 +827,6 @@ https://www.olx.ba/artikal/47775803/toyota-aygo/, 5.900 KM
 https://www.olx.ba/artikal/45042143/volkswagen-golf-6-dsg/, 12.500 KM
 https://www.olx.ba/artikal/47794118/renault-megane/, 13.200 KM
 https://www.olx.ba/artikal/47794706/lancia-musa-1-3-mjet/, 7.500 KM
-https://www.olx.ba/artikal/47433708/peugeot-308/, 15.900 KM
 https://www.olx.ba/artikal/47794445/ford-fiesta-1-4-tdci-2011/, 8.800 KM
 https://www.olx.ba/artikal/46781247/ford-ka-1-2-benz-51kw-2011g/, 7.800 KM
 https://www.olx.ba/artikal/47137222/ford-c-max-1-6-tdci-navi-2015/, 14.250 KM
@@ -1217,7 +1213,6 @@ https://www.olx.ba/artikal/36040993/automobil-golf-7-1-6-77kw-15000km/, 15.000 K
 https://www.olx.ba/artikal/45668023/vw-polo-1-2-benzin-2010-g/, 9.500 KM
 https://www.olx.ba/artikal/45622025/citroen-c3-picasso-exclusive-83000-km/, 13.000 KM
 https://www.olx.ba/artikal/45271448/ford-focus-2-0-tdci-2012-god/, 15.500 KM
-https://www.olx.ba/artikal/46071437/skoda-fabia-2011-1-2-benz/, 7.500 KM
 https://www.olx.ba/artikal/43437885/jeep-grand-cherokee-wj-zj-xj-kocka-cheroke-rexton/, 1.414 KM
 https://www.olx.ba/artikal/43437801/hyundai-santa-fe-galloper-terrano/, 1.111 KM
 https://www.olx.ba/artikal/45882994/vw-golf-7/, 14.200 KM
@@ -1586,7 +1581,6 @@ https://www.olx.ba/artikal/47953244/peugeot-308-automatik-1-6-e-hdi-2011-novo-st
 https://www.olx.ba/artikal/47711440/passat-cc-automatik-dsg-1-8-fsi/, 15.900 KM
 https://www.olx.ba/artikal/47760162/renault-fluence-1-6i-benz-plin-2011-model/, 8.100 KM
 https://www.olx.ba/artikal/47724843/citroen-c3-2012-god-1-4hdi-50kw-euro-5-navigacija/, 9.800 KM
-https://www.olx.ba/artikal/47953900/volkswagen-fox/, 7.200 KM
 https://www.olx.ba/artikal/46017698/citroen-c4-1-6-citaj-detaljno/, 15.500 KM
 https://www.olx.ba/artikal/46600464/pezo-206-plus-1-4-hdi-2011-god/, 6.900 KM
 https://www.olx.ba/artikal/47847571/skoda-octavia-2012-godina/, 14.850 KM
@@ -1801,7 +1795,6 @@ https://www.olx.ba/artikal/47984583/opel-corsa-1-2-benzin-4-klipa-2010g/, 8.299 
 https://www.olx.ba/artikal/47981078/citroen-c4-2015-god-1-6-hdi-115-ks-tek-registrovan/, 14.500 KM
 https://www.olx.ba/artikal/47985175/opel-corsa-1-2/, 8.800 KM
 https://www.olx.ba/artikal/47985082/ford-focus-1-6-tdci-80kw-titanium-2011-navi/, 10.950 KM
-https://www.olx.ba/artikal/47901988/chevrolet-cruze/, 9.000 KM
 https://www.olx.ba/artikal/47982403/toyota-auris-touring-sports/, 15.800 KM
 https://www.olx.ba/artikal/47985960/citroen-c3-2012/, 9.300 KM
 https://www.olx.ba/artikal/47985744/citroen-c4-cactus/, 13.900 KM
@@ -1835,15 +1828,19 @@ https://www.olx.ba/artikal/47533835/skoda-fabia-1-2-benzin-2011-gp-klima-uvoz-06
 https://www.olx.ba/artikal/47861062/volkswagen-golf/, 14.000 KM
 https://www.olx.ba/artikal/47577426/seat-altea-xl/, 10.600 KM
 https://www.olx.ba/artikal/45272646/mercedes-a-klasa-automatic/, 11.900 KM
-https://www.olx.ba/artikal/47988444/volkswagen-golf-6-2011-god/, 10.750 KM
 https://www.olx.ba/artikal/47988299/fiat-panda/, 5.000 KM
 https://www.olx.ba/artikal/47988267/peugeot-206/, 7.000 KM
 https://www.olx.ba/artikal/46068943/lancia-delta-1-9-jtd-registovan-uvoz-ch/, 15.500 KM
 https://www.olx.ba/artikal/47865146/fiat-500-1-2b-2010-god/, 9.550 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/47858896/fiat-punto-evo-2012/, 8.800 KM
 https://www.olx.ba/artikal/47989594/peugeot-208/, 12.800 KM
 https://www.olx.ba/artikal/46925282/peugeot-207/, 8.000 KM
 https://www.olx.ba/artikal/47130488/peugeot-206-plus/, 6.800 KM
 https://www.olx.ba/artikal/47792476/peugeot-207-1-6-hdi-118000-km-2011/, 8.800 KM
 https://www.olx.ba/artikal/45991776/opel-insignia-2-0cdti-4x4-reg-kao-nova/, 15.500 KM
+https://www.olx.ba/artikal/47953900/volkswagen-fox/, 6.999 KM
+https://www.olx.ba/artikal/47901988/chevrolet-cruze/, 8.500 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47990301/toyota-aygo-1-0-5-vrata-klima-uvoz-svicarska/, 7.800 KM
+https://www.olx.ba/artikal/47988444/vw-golf-6-2011-god/, 10.750 KM
+https://www.olx.ba/artikal/47899939/renault-clio-1-5-65kw-2011/, 8.900 KM
