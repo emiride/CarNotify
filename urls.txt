@@ -41,7 +41,6 @@ https://www.olx.ba/artikal/47837003/citroen-c3-1-4i-sport-oprema-uvoz-svica/, 8.
 https://www.olx.ba/artikal/46806345/skoda-fabia-1-2-tdi-greenlineklima130000km/, 11.400 KM
 https://www.olx.ba/artikal/47922980/opel-astra-j-1-7-cdti-81kw-12-2010-god-cosmo-reg/, 11.400 KM
 https://www.olx.ba/artikal/46969816/fiat-500-1-2-benzin-2011-godina-panorama-registrovan/, 10.700 KM
-https://www.olx.ba/artikal/47846000/peugeot-308-1-6-e-hdi-novi-model-led/, 14.400 KM
 https://www.olx.ba/artikal/47550699/peugeot-208/, 10.999 KM
 https://www.olx.ba/artikal/47048094/renault-kangoo-1-5dci-2011godina/, 11.800 KM
 https://www.olx.ba/artikal/47360639/nissan-pixo-2010gp-klima-065525542-nisan/, 5.999 KM
@@ -869,7 +868,6 @@ https://www.olx.ba/artikal/45082267/opel-corsa-e-1-3cdti-2016-registrovan/, 14.1
 https://www.olx.ba/artikal/46280738/skoda-octavia-1-6-tdi-196-000km/, 12.900 KM
 https://www.olx.ba/artikal/47788170/citroen-c5/, 13.500 KM
 https://www.olx.ba/artikal/47787407/peugeot-208-1-4-hdi-2012-god-garancija-na-vozilo/, 10.999 KM
-https://www.olx.ba/artikal/47763640/skoda-fabia/, 7.500 KM
 https://www.olx.ba/artikal/45978678/renault-clio/, 8.000 KM
 https://www.olx.ba/artikal/47571525/citroen-c4-2010-g-1-4-benzin/, 10.900 KM
 https://www.olx.ba/artikal/44869544/peugeot-3008-1-6-hdi-premium/, 13.500 KM
@@ -1194,7 +1192,6 @@ https://www.olx.ba/artikal/46305164/citroen-c5-lll-3-0-hdi/, 12.900 KM
 https://www.olx.ba/artikal/46903107/skoda-fabia-1-2-tdi-greenline/, 9.500 KM
 https://www.olx.ba/artikal/44933607/citroen-c5-190-000-km-registrovan-samo-kes/, 14.900 KM
 https://www.olx.ba/artikal/42611574/skoda-fabia-1-2-2013-face-lift-fabija/, 7.999 KM
-https://www.olx.ba/artikal/45208197/peugeot-3008-1-6-hdi-2011-god-tek-uvezen-i-registrovan/, 13.750 KM
 https://www.olx.ba/artikal/29956749/kupujem-vozila-auta-ispod-trzisne-cjene-mogu-i-ostecena/, 10.000 KM
 https://www.olx.ba/artikal/46389457/renault-megane-1-5-dci/, 11.300 KM
 https://www.olx.ba/artikal/36947687/skoda-fabia-1-0-benzin-plin/, 13.400 KM
@@ -1663,7 +1660,6 @@ https://www.olx.ba/artikal/47763295/chevrolet-cruze/, 8.400 KM
 https://www.olx.ba/artikal/47636692/chevrolet-lacetti-lacetti/, 2.000 KM
 https://www.olx.ba/artikal/46059679/peugeot-308/, 9.250 KM
 https://www.olx.ba/artikal/47813020/renault-fluence-130-000km-1-vlasnik/, 12.900 KM
-https://www.olx.ba/artikal/47927428/masinica-za-sisanje-062-208-317/, 17 KM
 https://www.olx.ba/artikal/47714076/bmw-116i-benzin-ilmasalon/, 15.900 KM
 https://www.olx.ba/artikal/47849612/skoda-fabia-1-4-tdi-2010-godina-180-000km/, 7.999 KM
 https://www.olx.ba/artikal/47730359/renault-clio-1-5-55-kw-2015-god/, 12.800 KM
@@ -1837,7 +1833,14 @@ https://www.olx.ba/artikal/47982945/citroen-c3-1-6-hdi/, 9.500 KM
 https://www.olx.ba/artikal/47983322/seat-leon/, 7.600 KM
 https://www.olx.ba/artikal/47948695/renault-clio-2012-dizel/, 6.850 KM
 https://www.olx.ba/artikal/46256052/ford-fiesta-1-6-st-model/, 9.100 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/45113835/skoda-fabia/, 8.500 KM
 https://www.olx.ba/artikal/47562583/skoda-fabia-1-2-tdi-55kw-greenline-2011-godina-uvoz/, 9.500 KM
 https://www.olx.ba/artikal/45071118/subaru-legacy-4x4/, 9.700 KM
+https://www.olx.ba/artikal/47846000/peugeot-308-1-6-e-hdi-novi-model-led/, 14.550 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47984824/volkswagen-polo-1-2tdi-55kw-model-2011-uvoz/, 10.900 KM
+https://www.olx.ba/artikal/47984583/opel-corsa-1-2-benzin-4-klipa-2010g/, 8.299 KM
+https://www.olx.ba/artikal/47981078/citroen-c4-2015-god-1-6-hdi-115-ks-tek-registrovan/, 14.500 KM
+https://www.olx.ba/artikal/47985175/opel-corsa-1-2/, 8.800 KM
+https://www.olx.ba/artikal/47985144/skoda-fabia/, 6.200 KM
+https://www.olx.ba/artikal/47985082/ford-focus-1-6-tdci-80kw-titanium-2011-navi/, 10.950 KM
