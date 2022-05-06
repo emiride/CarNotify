@@ -1785,7 +1785,6 @@ https://www.olx.ba/artikal/47996789/volkswagen-golf-6-plus-2013god-match-105-000
 https://www.olx.ba/artikal/47997945/golf-6-highline-oprema/, 14.500 KM
 https://www.olx.ba/artikal/47994859/opel-zafira-1-7-cdti-7-sjedista-registrovan/, 9.700 KM
 https://www.olx.ba/artikal/47997407/peugeot-206-plus-1-4-hdi-2011-god/, 4.700 KM
-https://www.olx.ba/artikal/47992474/skoda-fabia-face-lift-1-2-htp-registrovana-polo-ibiza/, 7.900 KM
 https://www.olx.ba/artikal/47421647/peugeot-206-2011-god/, 5.999 KM
 https://www.olx.ba/artikal/41826123/peugeot-208-1-6-bluehdi-75ks-2016-ljetne-i-zimske-gume/, 11.999 KM
 https://www.olx.ba/artikal/47998600/skoda-fabia-1-2-tdi/, 9.900 KM
@@ -1817,9 +1816,12 @@ https://www.olx.ba/artikal/46143121/ford-fiesta-1-4-tdci/, 9.700 KM
 https://www.olx.ba/artikal/47807222/skoda-skoda-fabia-1-2-tsi-2018g/, 15.500 KM
 https://www.olx.ba/artikal/47634612/peugeot-308-1-6-hdi-panorama-062222221/, 10.550 KM
 https://www.olx.ba/artikal/47809377/volkswagen-passat-2012-mod/, 15.900 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/48004130/skoda-fabija-2015-god-novi-model/, 13.500 KM
 https://www.olx.ba/artikal/48003945/skoda-fabia/, 8.700 KM
 https://www.olx.ba/artikal/48003868/fiat-500-1-2-benzin-2011god-cjena-do-reg/, 8.900 KM
 https://www.olx.ba/artikal/48003861/peugeot-308/, 14.950 KM
 https://www.olx.ba/artikal/47981706/citroen-c4-picasso-1-6-hdi/, 13.900 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/45876789/ford-fiesta-1-6-tdci-econeticaircomodel-2013/, 10.900 KM
+https://www.olx.ba/artikal/46803652/seat-ibiza-1-2-tdi-st-bluemotionmod-2011/, 9.400 KM
+https://www.olx.ba/artikal/47992474/skoda-fabia-fl-mod-2013-1-2-htp-registrovana-polo-ibiza/, 7.900 KM
