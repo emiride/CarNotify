@@ -1808,7 +1808,6 @@ https://www.olx.ba/artikal/45622025/citroen-c3-picasso-exclusive-84000-km/, 13.0
 https://www.olx.ba/artikal/47992127/peugeot-208-1-6-hdi-active-68-kw-2012/, 13.450 KM
 https://www.olx.ba/artikal/47992094/renault-megane-1-5-dci-2011g-dynamique-sport-navi-alu/, 12.400 KM
 https://www.olx.ba/artikal/47987413/dacia-duster/, 15.000 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/47917698/renault-scenic-iii-ful-oprema/, 11.500 KM
 https://www.olx.ba/artikal/45928262/citroen-c3-1-4-hdi-confort/, 13.290 KM
 https://www.olx.ba/artikal/47384056/bmw-e87-116-118-120/, 10.600 KM
@@ -1839,3 +1838,4 @@ https://www.olx.ba/artikal/47590956/citroen-c4-picaso-dizel-1-6-hdi/, 11.300 KM
 https://www.olx.ba/artikal/47813813/chevrolet-cruze/, 7.900 KM
 https://www.olx.ba/artikal/47584974/peugeot-5008-1-6-hdi-82kw/, 12.500 KM
 https://www.olx.ba/artikal/47903673/mercedes-benz-a-180/, 10.600 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
