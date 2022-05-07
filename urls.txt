@@ -644,7 +644,6 @@ https://www.olx.ba/artikal/47826668/renault-clio-2012-dizel-putnicki/, 6.800 KM
 https://www.olx.ba/artikal/47636264/golf-6-1-6-tdi-77kw-team-presao-samo-146000km/, 15.900 KM
 https://www.olx.ba/artikal/47322148/peugeot-207-1-6-hdi-2011-god/, 7.900 KM
 https://www.olx.ba/artikal/46973917/peugeot-208-1-6-hdi-75ks-park-senzorinaviled-2018g/, 15.900 KM
-https://www.olx.ba/artikal/47000381/peugeot-208-1-6-hdi-75ks-parking-senzori-2017g/, 13.900 KM
 https://www.olx.ba/artikal/45188440/renault-megan-1-5-dci-110ks-119-000-kilometara-2015g/, 15.500 KM
 https://www.olx.ba/artikal/47507155/renault-clio-4-1-5-dci-75ks-navigacija-led-2016g/, 14.500 KM
 https://www.olx.ba/artikal/47189943/peugeot-208-1-6-hdi-75ks-navigacija-2017g/, 14.400 KM
@@ -1745,7 +1744,6 @@ https://www.olx.ba/artikal/46813191/mini-countryman/, 14.500 KM
 https://www.olx.ba/artikal/47982291/toyota-aygo-2010/, 5.600 KM
 https://www.olx.ba/artikal/47877695/citroen-c4-1-6-hdi-68-kw/, 14.500 KM
 https://www.olx.ba/artikal/47901988/chevrolet-cruze-1-6-benzin/, 9.000 KM
-https://www.olx.ba/artikal/47792144/seat-ibiza-1-2-tdi-55kw-tek-uvezen-top-stanje/, 8.200 KM
 https://www.olx.ba/artikal/47996789/volkswagen-golf-6-plus-2013god-match-105-000kmh-77kw/, 15.500 KM
 https://www.olx.ba/artikal/47997945/golf-6-highline-oprema/, 14.500 KM
 https://www.olx.ba/artikal/47994859/opel-zafira-1-7-cdti-7-sjedista-registrovan/, 9.700 KM
@@ -1820,5 +1818,7 @@ https://www.olx.ba/artikal/48007355/volkswagen-passat/, 11.700 KM
 https://www.olx.ba/artikal/47585983/citroen-c3-1-4-hdi-2011-god-reg-do-4-23/, 9.700 KM
 https://www.olx.ba/artikal/48007141/renault-clio-dynamique-1-5-dci-2011gp/, 8.900 KM
 https://www.olx.ba/artikal/47997407/peugeot-206-plus-1-4-hdi-2011-god/, 4.700 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/47423296/fiat-panda/, 12.500 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/48009853/skoda-fabia-1-6-tdi/, 9.900 KM
+https://www.olx.ba/artikal/48009243/skoda-fabia-greenline/, 8.800 KM
