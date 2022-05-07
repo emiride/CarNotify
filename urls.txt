@@ -1311,7 +1311,6 @@ https://www.olx.ba/artikal/47927108/skoda-oktavia-1-6tdi-2011god/, 13.700 KM
 https://www.olx.ba/artikal/46102207/mercedes-benz-c-180-blueefficiency/, 14.999 KM
 https://www.olx.ba/artikal/47928336/peugeot-3008-1-6-bluehdi-alu-navi-panorama/, 14.999 KM
 https://www.olx.ba/artikal/47611845/citroen-c4-1-6-hdi-109-000-kilom-prva-reg-2-2016/, 15.999 KM
-https://www.olx.ba/artikal/47929591/seat-ibiza-12-2012-god/, 11.300 KM
 https://www.olx.ba/artikal/47929507/volkswagen-golf/, 13.750 KM
 https://www.olx.ba/artikal/47929424/peugeot-308cc-2-0-hdi-garancija-na-vozilo/, 14.500 KM
 https://www.olx.ba/artikal/47930199/fiat-sedici-4x4/, 11.850 KM
@@ -1816,7 +1815,6 @@ https://www.olx.ba/artikal/48012272/volkswagen-passat-2-0tdi-2010-god-tek-uvezen
 https://www.olx.ba/artikal/48011881/volkswagen-polo-2014-uvoz-garancija-12-mjeseci/, 12.900 KM
 https://www.olx.ba/artikal/47990766/renault-megane-1-5-dci/, 8.800 KM
 https://www.olx.ba/artikal/47989594/peugeot-208-pezo-pezo-1-4-hdi-2014-god-euro-5/, 11.800 KM
-https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
 https://www.olx.ba/artikal/48012810/volkswagen-polo-1-2-tdi-bluemotion-2010-godi-klima/, 10.000 KM
 https://www.olx.ba/artikal/48013033/opel-astra-1-4-2010/, 10.999 KM
 https://www.olx.ba/artikal/48013016/renault-clio-1-2-benz-2012-god-navi-odlicno-stanje/, 8.900 KM
@@ -1824,3 +1822,11 @@ https://www.olx.ba/artikal/48012888/volkswagen-polo-1-2-tdi-highline-xenon-led-s
 https://www.olx.ba/artikal/47798444/volkswagen-golf/, 14.800 KM
 https://www.olx.ba/artikal/47382330/c3-businesseuro-62016lednavi/, 13.850 KM
 https://www.olx.ba/artikal/48011642/volkswagen-golf-vi-1-6-tdi-77-kw-105-ks-2010-god-team/, 14.300 KM
+https://www.olx.ba/artikal/47929591/seat-ibiza-12-2012-god/, 10.900 KM
+https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/48013596/renault-clio-1-5-dci-facelift-2018-navi-led/, 16.000 KM
+https://www.olx.ba/artikal/48013361/renault-scenic-1-5-dci-110-ks/, 13.500 KM
+https://www.olx.ba/artikal/48013994/bmw-m1/, 15.000 KM
+https://www.olx.ba/artikal/48013749/kia-ceed/, 13.500 KM
+https://www.olx.ba/artikal/48012822/fiat-punto-evo-1-3-dizel-62kw-tek-uvezen-i-reg/, 9.700 KM
+https://www.olx.ba/artikal/47403710/volkswagen-up/, 8.500 KM
