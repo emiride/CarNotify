@@ -1680,7 +1680,6 @@ https://www.olx.ba/artikal/47985740/renault-megane-euro-5/, 11.150 KM
 https://www.olx.ba/artikal/47986594/peugeot-208-1-6-hdi-facelift-2017mod-tek-uvezen-euro-6/, 12.400 KM
 https://www.olx.ba/artikal/47787939/citroen-c4/, 11.550 KM
 https://www.olx.ba/artikal/47987457/dacia-sandero-stepway-1-6benzin-64kw-2010gp-klimaalu/, 9.500 KM
-https://www.olx.ba/artikal/47986984/ford-ka-2012-1-2-mjesec-tek-uvezen/, 7.500 KM
 https://www.olx.ba/artikal/47878094/volkswagen-polo-1-6-66kw-r-line/, 9.500 KM
 https://www.olx.ba/artikal/47686756/opel-corsa-lpg/, 13.500 KM
 https://www.olx.ba/artikal/47987144/prodajem-opel-insignia-2-0-cdti-2012/, 15.800 KM
@@ -1824,4 +1823,6 @@ https://www.olx.ba/artikal/47981706/citroen-c4-picasso-1-6-hdi/, 13.900 KM
 https://www.olx.ba/artikal/45876789/ford-fiesta-1-6-tdci-econeticaircomodel-2013/, 10.900 KM
 https://www.olx.ba/artikal/46803652/seat-ibiza-1-2-tdi-st-bluemotionmod-2011/, 9.400 KM
 https://www.olx.ba/artikal/47992474/skoda-fabia-fl-mod-2013-1-2-htp-registrovana-polo-ibiza/, 7.900 KM
+https://www.olx.ba/artikal/47986984/ford-ka-2012-1-2-mjesec-tek-uvezen/, 7.800 KM
 https://www.olx.ba/artikal/42419477/evo-ga-2010-fiat-punto-benzin-1-4/, 7.654,32 KM
+https://www.olx.ba/artikal/47864759/bmw-116-dizel-facelift-2011-god/, 10.600 KM
